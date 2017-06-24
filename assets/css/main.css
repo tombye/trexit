@@ -445,3 +445,127 @@ template {
 [hidden] {
   display: none;
 }
+
+/* Site globals
+   ========================================================================== */
+
+html {
+  font-size: 62.55%;
+}
+
+body {
+  font-size: 1.6rem;
+  font-family: Helvetica, Arial, sans-serif;
+  color: #0b0c0c;
+  box-sizing: border-box;
+}
+
+a:focus,
+button:focus {
+  outline: solid 3px #ffbf47;
+}
+
+.page-heading,
+.post-title {
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1;
+  margin: 0;
+  padding: 0.5em 0;
+}
+
+/* Site layout
+   ========================================================================== */
+
+.site-header,
+.page-content {
+  width: auto;
+  margin: 0;
+  padding: 0 1.5rem; 
+}
+
+@media (min-width: 960px) {
+  .site-header,
+  .page-content {
+    width: 960px;
+    margin: 0 auto;
+    padding: 0;
+  }
+}
+
+.page-content {
+  clear: both;
+}
+
+/* Site header
+   ========================================================================== */
+
+.site-header .wrapper {
+  padding: 1.5rem 0;
+}
+
+.site-title,
+.site-about {
+  text-decoration: none;
+}
+
+.site-title:hover,
+.site-title:focus,
+.site-about:hover,
+.site-about:focus {
+  text-decoration: underline;
+}
+
+.site-title {
+  color: #0b0c0c;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.6;
+  letter-spacing: 0.025em;
+}
+
+.site-about {
+  float: right;
+  color: #0b0c0c;
+  line-height: 1.5;
+  font-weight: 700;
+  padding: 1.2rem;
+  border: solid 1px #0b0c0c;
+}
+
+/* Site homepage
+   ========================================================================== */
+
+.post-list {
+  border-top: solid 1px #0b0c0c;
+  padding-left: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.post-list li {
+  border-bottom: solid 1px #0b0c0c;
+  padding: 1.5rem 0;
+}
+
+.post-link {
+  font-size: 2.4rem;
+  font-weight: 700;
+  display: block;
+}
+
+/* Site post page
+   ========================================================================== */
+
+.post-title {
+  padding-bottom: 0;
+}
+
+.post-meta {
+  margin: 1rem 0;
+  margin-bottom: 2.4rem;
+}
+
+.post-content {
+  font-size: 1.9rem;
+}
