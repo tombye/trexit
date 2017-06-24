@@ -4,12 +4,5 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+We (Tom and Roz) are taking a 6-month career break to walk around Europe before Brexit hits. We’re going to Trexit. Get it?
+We’re going to walk as much as we can but we’ll also be taking trains and having holidays. Brexit might be miserable but Trexit doesn’t have to be.
