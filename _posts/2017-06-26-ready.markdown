@@ -4,4 +4,4 @@ title:  "Ready!"
 date:   2017-06-26 17:01 +0100
 categories: jekyll update
 ---
-<img class="rotate-clockwise-90" src="https://raw.githubusercontent.com/tombye/trexit/gh-pages/assets/images/IMG_7221.JPG" />
+<img style="transform: translate(75%) rotate(90deg); transform-origin: 0 0" src="https://raw.githubusercontent.com/tombye/trexit/gh-pages/assets/images/IMG_7221.JPG" />
