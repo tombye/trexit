@@ -569,18 +569,3 @@ button:focus {
 .post-content {
   font-size: 1.9rem;
 }
-
-/* CSS hacks for orientation problems 
-   ========================================================================== */
-
-.rotate-clockwise-180 {
-  transform: rotate(180deg);
-}
-
-.rotate-clockwise-90 {
-  transform: rotate(90deg);
-}
-
-.rotate-counter-clockwise-90 {
-  transform: rotate(-90deg);
-}
