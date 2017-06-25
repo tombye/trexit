@@ -4,4 +4,4 @@ title:  "Ready!"
 date:   2017-06-26 17:01 +0100
 categories: jekyll update
 ---
-![alt text](https://github.com/tombye/trexit/blob/gh-pages/assets/images/IMG_7221.JPG)
+![alt text](https://raw.githubusercontent.com/tombye/trexit/gh-pages/assets/images/IMG_7221.JPG)
