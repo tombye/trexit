@@ -23,7 +23,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 markdown: kramdown
 theme: minima
 minima:
-  date_format: "%B %-d %Y"
+  date_format: "%-d %B %Y"
 gems:
   - jekyll-feed
 exclude:
