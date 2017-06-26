@@ -571,4 +571,5 @@ button:focus {
 
 .post-content {
   font-size: 1.9rem;
+  max-width: 30em;
 }
