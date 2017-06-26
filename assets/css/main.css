@@ -481,14 +481,26 @@ button:focus {
 /* Accessibility
    ========================================================================== */
 
+.visuallyhidden,
 .skiplink {
-   position: absolute;
-   left: -9999em;
+  position: absolute;
+  left: -9999em;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
 }
 
-.skiplink:focus {
-   position: static;
-   display: block;
+.skiplink:focus,
+.skiplink:active,
+.visuallyhidden:focus,
+.visuallyhidden:active {
+    clip: auto;
+    height: auto;
+    margin: 0;
+    overflow: visible;
+    position: static;
+    width: auto;
 }
 
 /* Site layout
