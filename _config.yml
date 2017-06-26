@@ -15,8 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Trexit
 description: |
-  We (Tom and Roz) are taking a 6-month career break to walk around Europe before Brexit hits. We’re going to Trexit. Get it?
-  We’re going to walk as much as we can but we’ll also be taking trains and having holidays. Brexit might be miserable but Trexit doesn’t have to be.
+  We (Tom and Roz) are taking 6 months off to walk around Europe before Brexit happens. We’re going to Trexit. Get it?
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
