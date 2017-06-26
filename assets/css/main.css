@@ -448,6 +448,7 @@ template {
 
 /* Site globals
    ========================================================================== */
+
 html {
   font-size: 62.55%;
 }
@@ -475,6 +476,19 @@ button:focus {
   line-height: 1;
   margin: 0;
   padding: 0.5em 0;
+}
+
+/* Accessibility
+   ========================================================================== */
+
+.skiplink {
+   position: absolute;
+   left: -9999em;
+}
+
+.skiplink:focus {
+   position: static;
+   display: block;
 }
 
 /* Site layout
