@@ -1,0 +1,25 @@
+---
+layout: post
+title:  ""
+date:   2017-06-27 11:01 +0100
+categories: jekyll update
+---
+![clock tower for the centre of commerce in Lille](https://github.com/tombye/trexit/blob/gh-pages/assets/images/IMG-20170627-WA0003.jpg)
+
+So our first stop is Lille. Apparently it comes from "l'île", french for "The island", which is weird because it's not an island.
+
+While we're talking Lille facts, here are a few more:
+
+- it's where the Bacillus Calmette–Guérin (BCG) vaccine was discovered
+- until recent times its main industries were mining and textile manufacture
+- Lille is twinned with Leeds in the UK
+- like the rest of France, Lille still has a C&A.
+
+I thought it might be nice to sign off with the unofficial song of Lille, a lullaby called P'tit Quinquin:
+
+"Sleep, my little child,
+My little chick, my plump grape,
+You will cause me grief
+If you don't sleep until tomorrow."
+
+Tom
