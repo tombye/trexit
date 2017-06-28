@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 ![clock tower for the centre of commerce in Lille](https://github.com/tombye/trexit/raw/gh-pages/assets/images/IMG-20170627-WA0003.jpg)
 
-So our first stop is Lille. Apparently it comes from "l'île", french for "The island", which is weird because it's not an island.
+So our first stop is Lille. Apparently it comes from "l'île", french for "the island", which is weird because it's not an island.
 
 While we're talking Lille facts, here are a few more:
 
