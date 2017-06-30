@@ -37,3 +37,5 @@ A lovely man who ran a sandwich shop in the town of Beuvrages.
 When we told him about our trip, he gave us water and snacks for free. What a gent.
 
 We reckon we've walked about 40 miles so far - 10 by mistake. Oops.
+
+Tom
