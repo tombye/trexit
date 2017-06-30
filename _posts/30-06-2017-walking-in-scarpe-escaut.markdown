@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Walking in Scarpe-Escaut"
+date:   2017-06-30 23:09 +0100
+categories: jekyll update
+---
 Over the last few days we've been walking through the Scarpe-Escaut national park.
 
 ![Poppies in a hayfield in scarpe escaut](https://github.com/tombye/trexit/raw/gh-pages/assets/images/poppy-field.jpg)
