@@ -8,7 +8,7 @@ categories: jekyll update
 Maroilles
 
 Yesterday we walked around 20 kilometres from Frasnoy to Maroilles in the Avesnois natural regional park.
-![roz and tom walking in the forest]()
+![roz and tom walking in the forest](https://github.com/tombye/trexit/raw/gh-pages/assets/images/roz-and-tom-walking-in-the-forest-800x601.jpg)
 
 Our feet are sore so we're having a rest day in Maroilles, a town famous for its delicious cheese. Clever us.
 ![delicious maroilles cheese, swiss army knife and bread on tom's lap](https://github.com/tombye/trexit/raw/gh-pages/assets/images/delicious-cheese.jpg)
