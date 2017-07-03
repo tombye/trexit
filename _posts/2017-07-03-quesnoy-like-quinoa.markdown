@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Quesnoy, sort of like Quinoa"
-date:   2017-07-03 22:27 +0100
+date:   2017-07-03 11:00 +0100
 categories: jekyll update
 ---
 On Saturday we walked from Valenciennes to Le Quesnoy.
