@@ -7,7 +7,7 @@ categories: jekyll update
 
 Maroilles
 
-Yesterday we walked around 20km from Frasnoy to Maroilles in the Avesnois natural regional park.
+Yesterday we walked around 20 kilometres from Frasnoy to Maroilles in the Avesnois natural regional park.
 ![roz and tom walking in the forest]()
 
 Our feet are sore so we're having a rest day in Maroilles, a town famous for its delicious cheese. Clever us.
