@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Quesnoy, sort of like Quinoa"
+title:  "Quesnoy, sort of like quinoa"
 date:   2017-07-03 11:00 +0100
 categories: jekyll update
 ---
