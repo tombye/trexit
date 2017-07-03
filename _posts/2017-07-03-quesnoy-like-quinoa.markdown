@@ -8,7 +8,7 @@ On Saturday we walked from Valenciennes to Le Quesnoy.
 
 We quickly realised that pronouncing Quesnoy was beyond our rusty french. 
 
-The tourist information in Valenciennes said "Kays-noi" but nobody else we met afterwards did.
+The tourist information in Valenciennes said "kays-noi" but nobody else we met afterwards did.
 
 The Internet says it's "kay-nwah", a bit like quinoa and at least as difficult to say.
 
