@@ -4,9 +4,6 @@ title:  "Maroilles"
 date:   2017-07-03 11:01 +0100
 categories: jekyll update
 ---
-
-Maroilles
-
 Yesterday we walked around 20 kilometres from Frasnoy to Maroilles in the Avesnois natural regional park.
 ![roz and tom walking in the forest](https://github.com/tombye/trexit/raw/gh-pages/assets/images/roz-and-tom-walking-in-the-forest-800x601.jpg)
 
