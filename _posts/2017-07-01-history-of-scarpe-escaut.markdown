@@ -10,8 +10,6 @@ Mining was the main industry from the 1700s right up until the 1960s and you fee
 
 The slag heaps around Sabatier still remain but now as part of the landscape, not just piled on top.
 
-## Forests
-
 The forests you walk through are apparently new, the Germans having levelled the last one to fuel their armies in World War One.
 
 ![A path through the scarpe-escaut forest shaded by the treetops](https://github.com/tombye/trexit/raw/gh-pages/assets/images/scarpe-escaut-forest.jpg)
