@@ -455,6 +455,7 @@ html {
 
 img,
 video {
+  display: block;
   max-width: 100%;
 }
 
