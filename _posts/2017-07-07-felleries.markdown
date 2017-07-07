@@ -13,16 +13,16 @@ We passed through quite a few of these kinds of towns but had such a good time i
 
 Felleries is one of a few towns in the area with an 'eco museum' to give visitors an idea of the crafts they're known for.
 
-Felleries is famous for woodworking and its museum is both excellent and amazing value. For just 4 euros you get:
+Felleries is famous for woodworking and its museum is both excellent and amazing value. For just 4 euros you get a:
 
-- a walk round the museum to see the history
-- a demonstration of the watermill grinding wheat into flour
-- a bit where you have to guess types of wood by smell alone
-- a demonstration of wood-turning on a lathe
+- walk round the museum to see the history
+- demonstration of the watermill grinding wheat into flour
+- bit where you have to guess types of wood by smell alone
+- demonstration of wood-turning on a lathe
 
 ### The water mill
 
-The mill's dam had three gates in it. One to control the main flow of the river and two more for the waterwheels in the mill.
+The mill's dam had 3 gates in it. One to control the main flow of the river and 2 more for the waterwheels in the mill.
 
 ![Watergates for the mill waterwheels](https://github.com/tombye/trexit/raw/gh-pages/assets/images/watermill-gates.jpg)
 
