@@ -22,7 +22,7 @@ Felleries is famous for woodworking and its museum is both excellent and amazing
 
 ### The water mill
 
-The mill's dam had 3 gates in it. One to control the main flow of the river and 2 more for the waterwheels in the mill.
+The mill's dam had 3 gates in it. 1 to control the main flow of the river and 2 more for the waterwheels in the mill.
 
 ![Watergates for the mill waterwheels](https://github.com/tombye/trexit/raw/gh-pages/assets/images/watermill-gates.jpg)
 
