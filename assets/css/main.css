@@ -453,8 +453,13 @@ html {
   font-size: 62.55%;
 }
 
-img {
+img,
+video {
   max-width: 100%;
+}
+
+video {
+  background: #333;
 }
 
 body {
