@@ -1,23 +1,24 @@
 ---
 layout: default
 ---
-
 <div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-  
-  {{ content }}
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <a class="post-link" href="{{ post.url | relative_url }}"><span class="visuallyhidden">Name of post: </span>{{ post.title | escape }}</a>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe"><a href="{{ "/feed.xml" | relative_url }}">Subscribe to RSS</a></p>
-
+  <h1 class="page-heading">Posts</h1>
+  {{ content }}
+  {% assign postsByMonth = site.posts | group_by_exp:"post", "post.date | date: '%b'" %}
+  {% for month in postsByMonth %}
+  <h2>{{ month.name }}</h2>
+  <ul class="post-list">
+    {% for post in month.items %}
+    <li>
+      {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+      <span class="post-meta">{{ post.date | date: date_format }}</span>
+      <a class="post-link" href="{{ post.url | relative_url }}">
+        <span class="visuallyhidden">Name of post: </span>
+        {{ post.title | escape }}
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+  {% endfor %}
+  <p class="rss-subscribe"><a href="{{ "/feed.xml" | relative_url }}">Subscribe to RSS</a></p>
 </div>
