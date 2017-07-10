@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "From France to Belgium"
+title:  "France to Belgium"
 date:   2017-07-10 11:01 +0100
 categories: jekyll update
 ---
