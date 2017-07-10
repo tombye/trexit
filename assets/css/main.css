@@ -586,9 +586,12 @@ button:focus {
 .post-list li {
   border-bottom: solid 1px #0b0c0c;
   padding: 1.5rem 0;
+  /* whitespace clearing hack */
+  font-size: 0;
 }
 
 .post-meta {
+  font-size: 1.6rem;
   display: block;
   margin: 1rem 0;
   margin-bottom: 2.4rem;
