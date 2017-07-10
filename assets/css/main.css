@@ -571,6 +571,10 @@ button:focus {
 /* Site homepage
    ========================================================================== */
 
+.home h2 {
+  margin: 0;
+}
+
 .post-list {
   border-top: solid 1px #0b0c0c;
   padding-left: 0;
