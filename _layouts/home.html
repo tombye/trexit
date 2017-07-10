@@ -11,6 +11,7 @@ layout: default
     {% for post in month.items %}
     <li>
       {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+      <span class="post-meta">{{ post.date | date: date_format }}</span>
       <a class="post-link" href="{{ post.url | relative_url }}"><span class="visuallyhidden">Name of post: </span>{{ post.title | escape }}</a>
     </li>
     {% endfor %}
