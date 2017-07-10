@@ -44,9 +44,9 @@ Tea strainer collection
 
 ![hotel tea strainer collection](https://github.com/tombye/trexit/raw/gh-pages/assets/images/nismes-tea-strainer-collection.jpg)
 
-Toilet paper collection
+Toilet roll collection
 
-![hotel toilet paper collection](https://github.com/tombye/trexit/raw/gh-pages/assets/images/nismes-toilet-paper-collection.jpg)
+![hotel toilet roll collection](https://github.com/tombye/trexit/raw/gh-pages/assets/images/nismes-toilet-paper-collection.jpg)
 
 Nismes was only meant to be a stopover but it's turned out to be a surprise treat. That's been one of the great things about walking. A lot of the best stuff happens in between the places we plan to visit. 
 
