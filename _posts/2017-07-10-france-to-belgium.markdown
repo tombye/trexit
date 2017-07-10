@@ -32,11 +32,11 @@ There's an excellent park where you can play with kinetic water sculpture things
 
 Tom jumping on a water sculpture 
 
-<video src="https://github.com/tombye/trexit/raw/gh-pages/assets/images/tom-jumping-on-a-water-sculpture.MOV" controls height="848" width="480" preload="metadata"><a href="https://github.com/tombye/trexit/raw/gh-pages/assets/images/tom-jumping-on-a-water-sculpture.MOV">download this video</a></video>
+<video src="https://github.com/tombye/trexit/raw/gh-pages/assets/images/tom-jumping-on-a-water-sculpture.MOV" controls height="848" width="480" preload="metadata"><a href="https://github.com/tombye/trexit/raw/gh-pages/assets/images/tom-jumping-on-a-water-sculpture.MOV">Download this video</a></video>
 
 Tom swaying on a water sculpture 
 
-<video src="https://github.com/tombye/trexit/raw/gh-pages/assets/images/tom-swaying-on-a-water-sculpture.MOV" controls height="480" width="848" preload="metadata"><a href="https://github.com/tombye/trexit/raw/gh-pages/assets/images/tom-swaying-on-a-water-sculpture.MOV">download this video</a></video>
+<video src="https://github.com/tombye/trexit/raw/gh-pages/assets/images/tom-swaying-on-a-water-sculpture.MOV" controls height="480" width="848" preload="metadata"><a href="https://github.com/tombye/trexit/raw/gh-pages/assets/images/tom-swaying-on-a-water-sculpture.MOV">Download this video</a></video>
 
 And the hotel we're staying in is great too. The owner collects everything from tea strainers to toilet roll. 
 
