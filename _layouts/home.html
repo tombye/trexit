@@ -4,7 +4,7 @@ layout: default
 <div class="home">
   <h1 class="page-heading">Posts</h1>
   {{ content }}
-  {% assign postsByMonth = site.posts | group_by_exp:"post", "post.date | date: '%b'" %}
+  {% assign postsByMonth = site.posts | group_by_exp:"post", "post.date | date: '%B'" %}
   {% for month in postsByMonth %}
   <h2>{{ month.name }}</h2>
   <ul class="post-list">
