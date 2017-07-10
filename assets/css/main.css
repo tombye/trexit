@@ -585,7 +585,7 @@ button:focus {
 
 .post-list li {
   border-bottom: solid 1px #0b0c0c;
-  padding: 1.5rem 0;
+  padding: 0;
   /* whitespace clearing hack */
   font-size: 0;
 }
