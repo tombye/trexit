@@ -55,7 +55,7 @@ It took a while to shake all the euro-pop and French disco from our dreams.
 
 The walk between Revin and Monthermé (the next town) ended up being 23 kilometres and it taught us a valuable lesson.
 
-The beauty of walking the Meuse is the lack of any up or down to it. The river is always the lowest point and the flattest but all the lovely winding loops mean you end up walking a long way to make progress in any direction.
+The beauty of walking the Meuse is the lack of any up or down to it. The river is always the lowest point and the flattest. But all the lovely winding loops mean you end up walking a long way to make progress in any direction.
 
 I'd like to say something nice about Monthermé, and it looked lovely walking through it, but we'd come a long way and our minds were more focused on blisters and bed.
 
