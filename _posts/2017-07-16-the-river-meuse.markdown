@@ -17,7 +17,7 @@ Walking along the Meuse is easy thanks to a path called 'the green route' which 
 
 ![The river meuse crossed by a stone bridge](https://github.com/tombye/trexit/raw/gh-pages/assets/images/meuse-with-bridge.jpg)
 
-As you walk the path you see how important to the area it is. Apart from all the people fishing from its banks, it's also a route for small boats. Locks appear regularly so you often find yourself watching as the boats go through.
+As you walk the path you see how important to the area the river is. Apart from all the people fishing from its banks, it's also a route for small boats. Locks appear regularly so you often find yourself watching as the boats go through.
 
 ![A boat sailing into the distance on the river meuse](https://github.com/tombye/trexit/raw/gh-pages/assets/images/meuse-with-boat-in-distance.jpg)
 
