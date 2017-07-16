@@ -13,7 +13,7 @@ We've been walking against the tide in France, from Fumay to Monthermé and then
 
 ## Walking the Meuse
 
-Walking along the Meuse is easy thanks to a path called "the green route" which runs alongside it.
+Walking along the Meuse is easy thanks to a path called 'the green route' which runs alongside it.
 
 ![The river meuse crossed by a stone bridge](https://github.com/tombye/trexit/raw/gh-pages/assets/images/meuse-with-bridge.jpg)
 
@@ -33,7 +33,7 @@ The land on one side of the river in Fumay is quite steep, so it towers over you
 
 ![Tom at the campsite in Fumay](https://github.com/tombye/trexit/raw/gh-pages/assets/images/tom-in-front-of-meuse.jpg)
 
-The other thing we noticed at Fumay was slate. They've got tons of it, you see it in the hills you pass and in all the buildings. For a grey(ish) stone, it's full of colour and really adds to the beauty of the area.
+The other thing we noticed at Fumay was slate. They've got tons of it. You see it in the hills you pass and in all the buildings. For a grey(ish) stone, it's full of colour and really adds to find the beauty of the area.
 
 ![Close-up of a slate wall in Fumay](https://github.com/tombye/trexit/raw/gh-pages/assets/images/close-up-of-slate.jpg)
 
@@ -55,7 +55,7 @@ It took a while to shake all the euro-pop and French disco from our dreams.
 
 The walk between Revin and Monthermé  (the next town) ended up being 23 kilometres and it taught us a valuable lesson.
 
-The beauty of walking the Meuse is the lack of any up or down to it. The river is always the lowest point and the flattest. The problem is with all the lovely winding loops, you end up walking a long way to make progress in any direction.
+The beauty of walking the Meuse is the lack of any up or down to it. The river is always the lowest point and the flattes but all the lovely winding loops mean you end up walking a long way to make progress in any direction.
 
 I'd like to say something nice about Monthermé and it looked lovely walking through it but we'd come a long way and our minds were more focused on blisters and bed.
 
@@ -63,7 +63,7 @@ I'd like to say something nice about Monthermé and it looked lovely walking thr
 
 ## Just one more thing
 
-Oh yeah and along the way we saw a church that looked just like a Cyberman.
+Oh yeah, and along the way we saw a church that looked just like a cyberman.
 
 ![Church that looks like a cyberman in a town on the river meuse](https://github.com/tombye/trexit/raw/gh-pages/assets/images/cyberman-church.jpg)
 
