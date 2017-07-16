@@ -21,7 +21,7 @@ Now back to the trees.
 
 ![trees](https://github.com/tombye/trexit/raw/gh-pages/assets/images/this-is-for-the-trees.jpg)
 
-Freeze
+Freeze.
 
 ![tom frozen mid-walk](https://github.com/tombye/trexit/raw/gh-pages/assets/images/now-freeze.jpg)
 
