@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "The River Meuse"
-date: 2017-07-16 18:45 +0100
+date: 2017-07-16 10:00 +0100
 categories: jekyll update
 ---
 
-Since we last posted we've been camping 20 yards from a Bastille Day disco, hiking 23 kilometres in 1 day (our longest yet with packs on) and walking alongside the River Meuse.
+Since our last post, we've been camping 20 yards from a Bastille Day disco, hiking 23 kilometres in 1 day (our longest yet with packs on) and walking alongside the River Meuse.
 
 The Meuse flows north, leaving France just after the town of Givet, and goes all the way to the North Sea through Belgium and the Netherlands.
 
-We've been walking against the tide in France, from Fumay to Monthermé and then along the River Semois which we'll follow into the Belgian Ardennes and, ultimately, Bouillon.
+We've been walking against the tide from Fumay to Monthermé in France. We've just started walking along the River Semois which we'll follow into the Belgian Ardennes and, ultimately, Bouillon.
 
 ## Walking the Meuse
 
@@ -17,7 +17,7 @@ Walking along the Meuse is easy thanks to a path called 'the green route' which 
 
 ![The river meuse crossed by a stone bridge](https://github.com/tombye/trexit/raw/gh-pages/assets/images/meuse-with-bridge.jpg)
 
-As you walk the path you see how big a part of the area it is. Apart from all the people fishing from its banks, it's also a route for small boats. Locks appear regularly so you often find yourself watching as the boats go through.
+As you walk the path you see how important to the area it is. Apart from all the people fishing from its banks, it's also a route for small boats. Locks appear regularly so you often find yourself watching as the boats go through.
 
 ![A boat sailing into the distance on the river meuse](https://github.com/tombye/trexit/raw/gh-pages/assets/images/meuse-with-boat-in-distance.jpg)
 
@@ -33,7 +33,7 @@ The land on one side of the river in Fumay is quite steep, so it towers over you
 
 ![Tom at the campsite in Fumay](https://github.com/tombye/trexit/raw/gh-pages/assets/images/tom-in-front-of-meuse.jpg)
 
-The other thing we noticed at Fumay was slate. They've got tons of it. You see it in the hills you pass and in all the buildings. For a grey(ish) stone, it's full of colour and really adds to find the beauty of the area.
+The other thing we noticed at Fumay was slate. They've got tons of it. You see it in the hills and in all the buildings. For a grey(ish) stone, it's full of colour and really adds to find the beauty of the area.
 
 ![Close-up of a slate wall in Fumay](https://github.com/tombye/trexit/raw/gh-pages/assets/images/close-up-of-slate.jpg)
 
@@ -53,11 +53,11 @@ It took a while to shake all the euro-pop and French disco from our dreams.
 
 ## Monthermé
 
-The walk between Revin and Monthermé  (the next town) ended up being 23 kilometres and it taught us a valuable lesson.
+The walk between Revin and Monthermé (the next town) ended up being 23 kilometres and it taught us a valuable lesson.
 
-The beauty of walking the Meuse is the lack of any up or down to it. The river is always the lowest point and the flattes but all the lovely winding loops mean you end up walking a long way to make progress in any direction.
+The beauty of walking the Meuse is the lack of any up or down to it. The river is always the lowest point and the flattest but all the lovely winding loops mean you end up walking a long way to make progress in any direction.
 
-I'd like to say something nice about Monthermé and it looked lovely walking through it but we'd come a long way and our minds were more focused on blisters and bed.
+I'd like to say something nice about Monthermé, and it looked lovely walking through it, but we'd come a long way and our minds were more focused on blisters and bed.
 
 ![Tom lying on a bench after some walking](https://github.com/tombye/trexit/raw/gh-pages/assets/images/tom-knackered.jpg)
 
