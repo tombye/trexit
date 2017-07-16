@@ -47,7 +47,7 @@ But our main memory of Revin is of camping there.
 
 We were given a pitch between a sewer opening and the ping-pong tables. That was OK actually but on returning from a walk around town, we realised a festival was being set up with a stage 20 yards from our tent.
 
-<video src="https://github.com/tombye/trexit/raw/gh-pages/assets/images/roz-oh-my-god.mp4" controls height="480" width="848" preload="metadata"><a href="https://github.com/tombye/trexit/raw/gh-pages/assets/images/roz-oh-my-god.mp4">download this video</a></video>
+<video src="https://github.com/tombye/trexit/raw/gh-pages/assets/images/roz-oh-my-god.mp4" controls height="480" width="848" preload="metadata"><a href="https://github.com/tombye/trexit/raw/gh-pages/assets/images/roz-oh-my-god.mp4">Download this video</a></video>
 
 It took a while to shake all the euro-pop and French disco from our dreams.
 
