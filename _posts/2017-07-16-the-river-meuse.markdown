@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The river Meuse"
+title: "The River Meuse"
 date: 2017-07-16 18:45 +0100
 categories: jekyll update
 ---
