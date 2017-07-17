@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Particularly pleasing pics"
+title:  "Pleasing pics"
 date:   2017-07-17 19:01 +0100
 categories: jekyll update
 ---
