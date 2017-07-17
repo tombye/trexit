@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "No Naux"
+date:   2017-07-17 10:01 +0100
+categories: jekyll update
+---
+
+![Road sign with Naux crossed out](https://github.com/tombye/trexit/raw/gh-pages/assets/images/no-naux.jpg)
+
+[No Naux](https://m.youtube.com/watch?v=RkEXGgdqMz8&t=56s).
