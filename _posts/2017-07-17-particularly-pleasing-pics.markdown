@@ -19,6 +19,8 @@ categories: jekyll update
 
 ![The River Semois with blue skies, trees and grass.](https://github.com/tombye/trexit/raw/gh-pages/assets/images/the-semois-from-les-hautes-rivieres.jpg)
 
+![Blue sky, green trees and yellow field.](https://github.com/tombye/trexit/raw/gh-pages/assets/images/blue-sky-green-trees-and-yellow-field.jpg)
+
 
 
 
