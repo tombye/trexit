@@ -22,7 +22,7 @@ Some towns even have their own mini-beaches so local families can spend the morn
 
 ## Walking the Semois
 
-Sometimes walking along the Semois was great. Thete were paths that were made for pedestrians and right next to the river. 
+Sometimes walking along the Semois was great. There were paths that were made for pedestrians and right next to the river. 
 
 ![Road sign saying pavement is only for walkers](https://github.com/tombye/trexit/raw/gh-pages/assets/images/reserved-for-walkers-sign.jpg)
 
