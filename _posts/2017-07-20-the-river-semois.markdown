@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The river Semois"
+title: "The River Semois"
 date: 2017-07-20 20:34 +0100
 categories: jekyll update
 ---
