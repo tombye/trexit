@@ -5,7 +5,7 @@ date: 2017-07-20 20:34 +0100
 categories: jekyll update
 ---
 
-We stayed in Bouillon yesterday, the last stop on our travels along the Semois river. We started in Monthermé and mainly followed the river through Les Hautes-Riviéres, Laforêt and Poupehan (I'll just leave that there) before reaching Bouillon. 
+We stayed in Bouillon yesterday, the last stop on our travels along the Semois river. We started in Monthermé and followed the river through Les Hautes-Riviéres, Laforêt and Poupehan (I'll just leave that there) before reaching Bouillon. 
 
 Looking back, walking along the Semois was quite a different experience from walking along the Meuse. On the stretch we walked, it was rarely deeper than a few feet and the water was clear enough that you could see everything below the surface.
 
