@@ -22,7 +22,7 @@ Some towns even have their own mini-beaches so local families can spend the morn
 
 ## Walking the Semois
 
-Sometimes walking along the Semois was great, made for pedestrians and right next to the river. 
+Sometimes walking along the Semois was great. Thete were paths that were made for pedestrians and right next to the river. 
 
 ![Road sign saying pavement is only for walkers](https://github.com/tombye/trexit/raw/gh-pages/assets/images/reserved-for-walkers-sign.jpg)
 
@@ -30,13 +30,13 @@ At other times the forest ran right up to the river on one side with only a road
 
 We've had mixed experiences walking alongside roads so we started investigating the forest paths.
 
-In France, following the Grande Randonnée [GR routes](https://en.m.wikipedia.org/wiki/GR_footpath) was pretty straightforward. Whenever we saw a red and white marking we blindly followed it. Along the Semois though, we were seeing red and white GR markings everywhere and in ways inconsistent enough to make us doubt if we were on the right track.
+In France, following the [Grande Randonnée (GR) routes](https://en.m.wikipedia.org/wiki/GR_footpath) was pretty straightforward. Whenever we saw a red and white marking we blindly followed it. Along the Semois though, we were seeing red and white GR markings everywhere and in ways inconsistent enough to make us doubt if we were on the right track.
 
 Our favourite example is this terrifying sign telling hikers the route ahead is both a GR route (by having a red and white marking) and one you should never take.
 
 ![Sign warning of dangerous route while being marked as a GR route](https://github.com/tombye/trexit/raw/gh-pages/assets/images/contradictory-sign.jpg)
 
-With hindsight these kinds of paths might be OK for walkers with little baggage and an interest in routes that put you right in among the trees. The weight of our packs meant our focus was more on getting somewhere as quickly as possible and with as little 'up and down' as possible.
+With hindsight, these kinds of paths might be OK for walkers without much baggage and an interest in routes that put you right in the trees. The weight of our packs meant our focus was more on getting somewhere as quickly as possible and with as little 'up and down' as possible.
 
 Despite all this, following these trails did mean we got to see views like this.
 
@@ -47,3 +47,5 @@ Despite all this, following these trails did mean we got to see views like this.
 It turns out France isn't the only country with churches that look like people. Here's one we saw in Bohan, a village we passed through on our second day walking the Semois. 
 
 ![Church in Bohan that looks like a surprised gentleman](https://github.com/tombye/trexit/raw/gh-pages/assets/images/bohan-gentleman-church.jpg)
+
+Tom
