@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Bonjour!"
+date: 2017-07-22 07:01 +0100
+categories: jekyll update
+---
+
+We've been repeatedly saying "bonjour" in our very advanced french to everyone we pass on our walks - even when we're tired and broken.
+
+Here's what Tom saying "bonjour" looks like.
+
+<video src="https://github.com/tombye/trexit/raw/gh-pages/assets/images/bonjour-tom.mp4" controls height="848" width="480" preload="metadata"><a href="https://github.com/tombye/trexit/raw/gh-pages/assets/images/bonjour-tom.mp4">Download this video</a></video>
+
+Here's what Roz saying "bonjour" looks like.
+
+<video src="https://github.com/tombye/trexit/raw/gh-pages/assets/images/bonjour-roz.mp4" controls height="848" width="480" preload="metadata"><a href="https://github.com/tombye/trexit/raw/gh-pages/assets/images/bonjour-roz.mp4">Download this video</a></video>
+
+We tried to recreate what it might look like to see us both saying "bonjour" but it didn't go well.
+
+<video src="https://github.com/tombye/trexit/raw/gh-pages/assets/images/bonjour-outtakes-2.mp4" controls height="848" width="480" preload="metadata"><a href="https://github.com/tombye/trexit/raw/gh-pages/assets/images/bonjour-outtakes-2.mp4">Download this video</a></video>
