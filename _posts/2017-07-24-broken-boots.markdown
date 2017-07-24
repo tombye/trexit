@@ -24,7 +24,7 @@ https://github.com/tombye/trexit/raw/gh-pages/assets/images/tom-buying-boots.jpg
 
 Here they are, next to the old ones, looking a bit like new soldiers sent to relieve a battalion who've done their tour of duty.
 
-![The old and new boots side by side](https://github.com/tombye/trexit/raw/gh-pages/assets/images/old-and-new-boots.jpg
+![The old and new boots side by side](https://github.com/tombye/trexit/raw/gh-pages/assets/images/old-and-new-boots.jpg)
 
 I left my old ones with the rubbish bags at our friends Stu and Sam's flat in Brussels. I think it's fair to say they performed above and beyond what was expected of them and the next time we have a drink in hand I'll be raising it to them.
 
