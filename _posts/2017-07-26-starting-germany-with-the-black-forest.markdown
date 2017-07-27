@@ -9,13 +9,13 @@ We arrived in Germany yesterday after getting a train to Baden Baden (so good th
 
 To explain, the day before we got a train to Strasbourg to get us into the Alsace region and give us a place from which to enter Germany.
 
-Here's Strasbourg, nice isn't it?
+Here's Strasbourg. Nice isn't it?
 
 ![Double rainbow over Strasbourg](https://github.com/tombye/trexit/raw/gh-pages/assets/images/strasbourg-double-rainbow.jpg)
 
 We chose Baden Baden as what we thought would be a good starting place for walking the Black Forest.
 
-Here's Baden Baden, nice isn't it?
+Here's Baden Baden. Nice isn't it?
 
 ![Baden Baden from the edge of the Black Forest](https://github.com/tombye/trexit/raw/gh-pages/assets/images/baden-baden-from-a-park.jpg)
 
