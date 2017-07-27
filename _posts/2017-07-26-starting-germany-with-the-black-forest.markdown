@@ -13,7 +13,7 @@ Here's Strasbourg. Nice isn't it?
 
 ![Double rainbow over Strasbourg](https://github.com/tombye/trexit/raw/gh-pages/assets/images/strasbourg-double-rainbow.jpg)
 
-We chose Baden Baden as what we thought would be a good starting place for walking the Black Forest.
+We chose Baden Baden because we thought it would be a good starting place for walking the Black Forest.
 
 Here's Baden Baden. Nice isn't it?
 
