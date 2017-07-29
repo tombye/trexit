@@ -11,7 +11,7 @@ When you're walking everywhere, distances matter. And when you see signs telling
 
 Well, not any more we don't. Not after yesterday's 18-kilometre hike which was supposed to be 12.5 kilometres. 
 
-And not after we diligently followed a series of signs to Oberkirch which stretched our gullibility to breaking point. 
+And not after we dutifully followed a series of signs to Oberkirch which stretched our gullibility to breaking point. 
 
 We'd see one sign which told us we had 4 kilometres to go, then at least 2 kilometres later, we'd see one saying that we had 5 kilometres to go after all. Cue some colourful language describing what we were going to do with the next duplicitous sign we saw. 
 
