@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lying signs"
+title: Lying signs
 date:   2017-07-29 16:01 +0100
 categories: jekyll update
 ---
