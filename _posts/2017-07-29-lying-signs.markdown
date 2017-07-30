@@ -5,7 +5,7 @@ date:   2017-07-29 16:01 +0100
 categories: jekyll update
 ---
 
-When you're walking everywhere, distances matter. And when you see signs telling you how far it is until your destination, you believe them.
+When you're walking everywhere, distances matter. And when you see signs telling you how far it is to your destination, you believe them.
 
 ![lying signs with lots of distances to lots of places](https://github.com/tombye/trexit/raw/gh-pages/assets/images/stupid-signs.jpg)
 
