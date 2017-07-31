@@ -470,6 +470,12 @@ body {
   box-sizing: border-box;
 }
 
+iframe {
+  border: none;
+  padding: 1rem 0;
+  max-width: 100%;
+}
+
 a:focus,
 button:focus {
   outline: solid 3px #ffbf47;
