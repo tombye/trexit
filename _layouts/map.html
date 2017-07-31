@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+
+  <div class="post-content">
+    <iframe src="{{ page.mapurl }}" width="640" height="480"></iframe>
+    {{ content }}
+  </div>
+
+</article>
