@@ -1,0 +1,34 @@
+---
+layout: post
+title: "The doors"
+date: 2017-08-03 20:45 +0100
+categories: jekyll update
+---
+
+So far, walking in Germany has involved  puzzling over a lot of doors. We've seen these mysterious equations on a lot of the doors we've passed:
+
+![Equation in chalk, on a tiny blackboard at the top of a dark wood door](https://github.com/tombye/trexit/raw/gh-pages/assets/images/door-dark-wood-code-on-blackboard.jpg)
+
+After a bit of Googling, we found out it's part of a catholic tradition people have been following since the 1500s.
+
+Kids dress up as one of the [Magi](https://en.m.wikipedia.org/wiki/Biblical_Magi). (Casper, Melchior or Balthasar) and go door to door collecting for a good cause.
+
+The letters are an abbreviation for the latin "Christus maisonem benedictat", which means "Christ blesses this house". The "20" and "17" are this year so the last 2 numbers change each time. After they've done their rounds, the kids get to write the equation on the door.
+
+Here's some more we've seen along the way. 
+
+![Equation in chalk, on a tiny blackboard at the top of a dark wood door](https://github.com/tombye/trexit/raw/gh-pages/assets/images/door-metal-grate-code-on-blackboard.jpg)
+
+![Equation in chalk, on a tiny blackboard at the top of a dark wood door](https://github.com/tombye/trexit/raw/gh-pages/assets/images/door-white-code-on-top-of-frame.jpg)
+
+![Equation in chalk, on a tiny blackboard at the top of a dark wood door](https://github.com/tombye/trexit/raw/gh-pages/assets/images/door-display-area-above-code-on-door.jpg)
+
+![Equation in chalk, on a tiny blackboard at the top of a dark wood door](https://github.com/tombye/trexit/raw/gh-pages/assets/images/door-of-pub-code-on-blackboard.jpg)
+
+![Equation in chalk, on a tiny blackboard at the top of a dark wood door](https://github.com/tombye/trexit/raw/gh-pages/assets/images/door-wood-glass-inner-code-on-top.jpg)
+
+![Equation in chalk, on a tiny blackboard at the top of a dark wood door](https://github.com/tombye/trexit/raw/gh-pages/assets/images/door-code-on-right-side.jpg)
+
+![Equation in chalk, on a tiny blackboard at the top of a dark wood door](https://github.com/tombye/trexit/raw/gh-pages/assets/images/door-code-on-right-of-frame.jpg)
+
+![Equation in chalk, on a tiny blackboard at the top of a dark wood door](https://github.com/tombye/trexit/raw/gh-pages/assets/images/door-code-on-letterbox.jpg)
