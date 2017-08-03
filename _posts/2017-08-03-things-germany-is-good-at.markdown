@@ -31,7 +31,7 @@ Even though we've tried to avoid it, we've had to walk alongside roads a few tim
 
 * clearly marked
 * wide 
-* well-maintained.
+* well-maintained
 
 ![long path in the middle of Black Forest hills](https://github.com/tombye/trexit/raw/gh-pages/assets/images/german-walking-path.jpg)
 
