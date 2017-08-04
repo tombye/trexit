@@ -37,6 +37,6 @@ Even though we've tried to avoid it, we've had to walk alongside roads a few tim
 
 ## Stopping for a chat
 
-In France and Belgium, we got lots of "bonjours" and "bonne routes", but in Germany we've had much more than the occasional "hallo" and "viel spaß". People have stopped to talk about everything from the weather to "scheisse Brexit".
+In France and Belgium, we got lots of "bonjours" and "bonne routes", but in Germany we've had much more than the occasional "hallo" and "viel spaß". People have stopped to talk about everything from the weather to "scheiße Brexit".
 
 ![viel spaß German text book with 2 stereotypical Germans on the front cover](https://github.com/tombye/trexit/raw/gh-pages/assets/images/typical-german-people-saying-hello.jpg)
