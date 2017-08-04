@@ -15,7 +15,7 @@ It may not be romantic but the hotel bedding has been a revelation. This is the 
 
 ## Loo roll
 
-All the loo roll is excellent - even in public toilets (also excellent). Not too thick. Not too thin. Just right. Life-affirming stuff.
+All the loo roll is excellent - even in public toilets (also excellent). Not too thick. Not too thin. Just right. Life-affirmingly good.
 
 ![comfy loo roll](https://github.com/tombye/trexit/raw/gh-pages/assets/images/excellent-loo-roll.jpg)
 
