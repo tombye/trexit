@@ -4,7 +4,7 @@ title: "World's largest"
 date: 2017-08-05 20:30 +0100
 categories: jekyll update
 ---
-Today, with no planning or vague intention to do so, we saw two world's largest things.
+Today, with no planning or vague intention to do so, we saw two of the world's largest things.
 
 Here's the world's largest cuckoo clock.
 
