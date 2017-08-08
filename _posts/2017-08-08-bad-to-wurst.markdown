@@ -89,10 +89,10 @@ It was great to feel like we were really in the depths of the Black Forest, but 
 
 ## Konus guest cards
 
-A lot of the places we stayed gave us a magical thing called a Konus Gästekarte.
+A lot of the places we've stayed in have given us a magical thing called a Konus Gästekarte.
 
 ![Konus cards we got by staying at a campsite in Kinzig](https://github.com/tombye/trexit/raw/gh-pages/assets/images/konus-cards.jpg)
 
-It's a brilliant card that gives you free access to things like the local swimming pool or tourist attractions like the Triberg waterfall. It also lets you travel on pretty much all the buses and trains in the Black Forest for free. Amazing.
+It's a brilliant card that gives you free access to things like the local swimming pool or tourist attractions like the Triberg waterfall. It also lets you travel on pretty much all the buses and trains in the Black Forest for free. It's really helped us feel like we're getting the most out of our time in the Black Forest.
 
 
