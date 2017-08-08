@@ -13,7 +13,7 @@ We've walked through vineyards, valleys, forest trails and mountains. And we've 
 
 The Black Forest has been great for walking. There are well-kept paths that wind around the hills in a way that lets you cover height and distance relatively easily.
 
-There are also signs which, despite their [dubious approach to measuring distance], appear in all the places you need them. They also use consistent language and icons so you know when you're on the right track.
+There are also signs which, despite their [dubious approach to measuring distance](http://trexit.org.uk/jekyll/update/2017/07/29/lying-signs.html), appear in all the places you need them. They also use consistent language and icons so you know when you're on the right track.
 
 ### Rest stops when you need them
 
