@@ -55,7 +55,7 @@ Most of the villages and towns we passed through were filled with traditional ti
 
 ![sasbachwalden timber house with window boxes filled with red flowers](https://github.com/tombye/trexit/raw/gh-pages/assets/images/sasbachwalden-house.jpg)
 
-Lots of of the villages looked a bit like somewhere the child catcher from Chitty Chitty Bang Bang might hang out but thankfully we didn't notice any funny business. 
+Lots of the villages looked a bit like somewhere the child catcher from Chitty Chitty Bang Bang might hang out but thankfully we didn't notice any funny business. 
 
 ![tom in a Gengenbach cobbled street surrounded by old, colourful houses](https://github.com/tombye/trexit/raw/gh-pages/assets/images/tom-in-gengenbach-side-road.jpg)
 
