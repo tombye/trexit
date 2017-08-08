@@ -15,7 +15,7 @@ The Black Forest has been great for walking. There are well-kept paths that wind
 
 There are also signs which, despite their [dubious approach to measuring distance](http://trexit.org.uk/jekyll/update/2017/07/29/lying-signs.html), appear in all the places you need them. They also use consistent language and icons so you know when you're on the right track.
 
-### Rest stops when you need them
+## Rest stops when you need them
 
 There always seem to be benches at regular intervals, usually with spectacular views, so you can collapse in a heap for long stretches of time with plenty to keep you entertained. 
 
@@ -27,11 +27,11 @@ And you don't just get any old bench. There are picnic tables and huts for shelt
 
 You always get the feeling someone's thought of what it would be like to actually walk your route and what you'll need when.
 
-### Not much camping
+## Not much camping
 
 We've stayed at a couple of campsites (one small field, the other more of a holiday camp) but they've been few and far between. Most campsites we found in the Black Forest were just for mobile homes so we've mainly been staying in hotels.
 
-### In the vineyards
+## In the vineyards
 
 Our first walks were along the Ortenauer wine route which runs along the western edge of the Black Forest. 
 
@@ -39,7 +39,7 @@ Our first walks were along the Ortenauer wine route which runs along the western
 
 We were either walking in the hills with a view of the surrounding towns or down in those towns, looking up at the vineyards and forest. The hill walks were a mix of sunny paths in between the vines or shaded forest trails. There was a lot of up and down but there were only a few really steep climbs.
 
-### Bloomin' blumen
+## Bloomin' blumen
 
 It's not just grapes that people grow in the wine region. We saw loads of flower fields - some with honesty boxes and cutters so you could pick your own sunflowers en route. Very civilised. 
 
@@ -49,7 +49,7 @@ It's not just grapes that people grow in the wine region. We saw loads of flower
 
 ![sunflowers with black forest hills in the background](https://github.com/tombye/trexit/raw/gh-pages/assets/images/blumen-sunflowers.jpg)
 
-### Pretty villages
+## Pretty villages
 
 Most of the villages and towns we passed through were filled with traditional timber-framed houses, kept with obvious pride and decorated with tons of flowers. 
 
@@ -65,7 +65,7 @@ Lots of the villages looked a bit like somewhere the child catcher from Chitty C
 
 ![church in oberkirch](https://github.com/tombye/trexit/raw/gh-pages/assets/images/oberkirch-church.jpg)
 
-### Along the river
+## Along the river
 
 After the wine route we wanted to get deeper into the forest without having to tackle any hard climbs. Taking a tip from our time in France, we kept to the lowest point by following a river.
 
@@ -75,7 +75,7 @@ This was quite different to walk. You're surrounded by forest hills but the path
 
 ![Roz on path alongside the Kinzig river made of two dirt trails going off into the far distance](https://github.com/tombye/trexit/raw/gh-pages/assets/images/roz-on-path-alongside-the-kinzig.jpg)
 
-### In the mountains
+## In the mountains
 
 The Gutach was the second river we followed and it took us through Hornberg uphill to Triberg, 800 metres up in the mountains. 
 
@@ -87,7 +87,7 @@ It was great to feel like we were really in the depths of the Black Forest, but 
 
 ![red train in the Black Forest hills](https://github.com/tombye/trexit/raw/gh-pages/assets/images/train-from-kinzig-path-2.jpg)
 
-### Konus guest cards
+## Konus guest cards
 
 A lot of the places we stayed gave us a magical thing called a Konus Gästekarte.
 
