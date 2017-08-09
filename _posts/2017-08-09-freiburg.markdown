@@ -7,7 +7,7 @@ categories: jekyll update
 
 We'd been aiming for Freiburg from the start of our adventures in the Black Forest so we'd piled a whole load of expectations on it before we got there. Luckily, it was brilliant.
 
-Freiburg's a student town and you can see it everywhere you go. There's a very relaxed vibe, everyone cycles everywhere, and by early evening, people start gathering by the river and streams that run through town to drink and chat. 
+Freiburg's a student town and you can see it everywhere you go. There's a very relaxed vibe, everyone cycles everywhere, and by early evening, people start gathering by the river to drink and chat. 
 
 ![people gathering near the riverbank at sunset](https://github.com/tombye/trexit/raw/gh-pages/assets/images/path-by-the-river-at-sunset-in-freiburg.jpg)
 
