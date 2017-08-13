@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Barefoot park
+title: Barefoot in the park
 date:   2017-08-13 16:01 +0100
 categories: jekyll update
 ---
