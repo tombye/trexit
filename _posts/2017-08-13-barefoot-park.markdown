@@ -7,7 +7,7 @@ categories: jekyll update
 
 Today we walked from Bad Bellingen (sung to the tune of [Bad Medicine](https://youtu.be/eOUtsybozjg?t=46s)) to Efringen-Kirchen. 
 
-On our way, we walked round the Bad Bellingen 'barfuß park'. Apparently, [Germany has a few barefoot parks](http://www.barfusspark.info/en/park.htm) but it's not alone. It looks like the UK is representing too with [one in Stoke-on-Trent](http://www.trentham.co.uk/trentham-gardens/western-pleasure-ground/barefoot-walk).
+On our way, we walked round the Bad Bellingen 'barfußpark'. Apparently, [Germany has a few barefoot parks](http://www.barfusspark.info/en/park.htm) but it's not alone. It looks like the UK is representing too with [one in Stoke-on-Trent](http://www.trentham.co.uk/trentham-gardens/western-pleasure-ground/barefoot-walk).
 
 The idea of the parks is that you walk on loads of different surfaces to stimulate different areas of your feet. It's supposed to work a bit like reflexology. 
 
