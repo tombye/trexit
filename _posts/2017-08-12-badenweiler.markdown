@@ -31,6 +31,6 @@ It's like there's a network of pipes under the park, carrying your voice.
 
 As you can see here, I'm not convinced. 
 
-<video src="https://github.com/tombye/trexit/raw/gh-pages/assets/images/tom-and-roz-funnel-chat.mp4" controls height="848" width="480" preload="metadata"><a href="https://github.com/tombye/trexit/raw/gh-pages/assets/images/tom-and-roz-funnel-chat.mp4">download this video</a></video>
+<video src="https://github.com/tombye/trexit/raw/gh-pages/assets/images/tom-and-roz-funnel-chat.mp4" controls height="848" width="480" preload="metadata"><a href="https://github.com/tombye/trexit/raw/gh-pages/assets/images/tom-and-roz-funnel-chat.mp4">Download this video</a></video>
 
 Tom.
