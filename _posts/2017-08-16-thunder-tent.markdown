@@ -11,7 +11,7 @@ Usefully, we'd gone down an internet hole a few weeks ago reading about how safe
 
 - clutching a walking boot each for 2 hours in the misguided hope that the rubber soles would ground us 
 - crouching in unsustainable positions in our attempts to stay low without having too much of our bodies touching the ground
-- Roz muttering at least 3 full renditions of ['My Favourite Things'](xhttp://youtu.be/33o32C0ogVM)
+- Roz muttering at least 3 full renditions of ['My Favourite Things'](http://youtu.be/0IagRZBvLtw)
 - some terribly mis-timed farts that we'd mistakenly hoped the noise of the thunder would hide
 
 Textbook.
