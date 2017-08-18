@@ -59,7 +59,7 @@ He's also been busy with sculptures - remaking quite ordinary, functional forms 
 
 ![Will Delvoye work comprising several gas cannisters decorated like delft ceramics](https://github.com/tombye/trexit/raw/gh-pages/assets/images/wim-delvoye-delft-gas-cannisters.jpg)
 
-We thought the exhibition was lots of fun and it fitted in really well at the Tinguely. You can read more about the show on [the museum's website](https://www.tinguely.ch/en/ausstellungen/ausstellungen/2017/Wim-Delvoye.html).
+We thought the exhibition was great and it fitted in really well at the Tinguely. You can read more about the show on [the museum's website](https://www.tinguely.ch/en/ausstellungen/ausstellungen/2017/Wim-Delvoye.html).
 
 ## Swimming through Basel
 
@@ -94,7 +94,7 @@ Tom wasn't wearing his glasses which meant:
 - Roz had to tell him when to go left and right a bit
 - he missed all the naked sunbathers along the banks (poor Tom)
 
-Anyway, once you're in and going, it's amazing. The city zooms past and it feels like you're seeing the city from a whole new perspective when you pass under the bridges. When you're done it's easy enough to swim to shore.
+Anyway, once you're in and going, it's amazing. The city zooms past and it feels like you're seeing it from a whole new perspective when you pass under the bridges. When you're done it's easy enough to swim to shore.
 
 We were very pleased with ourselves when we got out.
 
