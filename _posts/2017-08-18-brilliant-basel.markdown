@@ -17,7 +17,7 @@ We only really had a day there though. Just enough time to enjoy a few excellent
 
 ## Museum Tinguely
 
-According to the local tourist information there are over 34 museums in Basel. We had enough time to go to one and we lucked out with our choice.
+According to the local tourist information, there are over 34 museums in Basel. We had enough time to go to one and we lucked out with our choice.
 
 Museum Tinguely is an art gallery with a permanent collection of works by the Swiss artist [Jean Tinguely](https://en.m.wikipedia.org/wiki/Jean_Tinguely) as well as space for more contemporary shows.
 
