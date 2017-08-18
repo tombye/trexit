@@ -7,7 +7,7 @@ categories: jekyll update
 
 It's totally inaccurate (because it's a Swiss city) but Basel was kind of like our last stop in Germany. 
 
-In our defence, it's complicated. Walking down the Rhine into Basel, we crossed from Germany into Switzerland while aware that just 100 metres away, on the opposite bank was France.
+In our defence, it's complicated. Walking down the Rhine into Basel, we crossed from Germany into Switzerland with France just 100 metres away on the opposite bank.
 
 ![Sign in front of a footbridge across the Rhine explaining that by crossing it you enter France](https://github.com/tombye/trexit/raw/gh-pages/assets/images/sign-on-rhine-bridge-saying-france-100-metres.jpg)
 
@@ -51,7 +51,7 @@ Yes, it does poo.
 
 ### Other works
 
-He's also been busy with sculptures that take quite ordinary, functional forms remade in a humourous, overly decorative way.
+He's also been busy with sculptures - remaking quite ordinary, functional forms in a humourous, overly decorative way.
 
 ![Wim Delvoye work looking like a truck tyre engraved with complex patterns you'd normally see in church ironwork](https://github.com/tombye/trexit/raw/gh-pages/assets/images/wim-delvoye-baroque-tyre.jpg)
 
@@ -59,7 +59,7 @@ He's also been busy with sculptures that take quite ordinary, functional forms r
 
 ![Will Delvoye work comprising several gas cannisters decorated like delft ceramics](https://github.com/tombye/trexit/raw/gh-pages/assets/images/wim-delvoye-delft-gas-cannisters.jpg)
 
-We thought it was lots of fun and that it fitted in really well at the Tinguely. You can read more about the show on [the museum's website](https://www.tinguely.ch/en/ausstellungen/ausstellungen/2017/Wim-Delvoye.html).
+We thought the exhibition was lots of fun and it fitted in really well at the Tinguely. You can read more about the show on [the museum's website](https://www.tinguely.ch/en/ausstellungen/ausstellungen/2017/Wim-Delvoye.html).
 
 ## Swimming through Basel
 
