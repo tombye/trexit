@@ -98,6 +98,6 @@ Anyway, once you're in and going, it's amazing. The city zooms past and it feels
 
 We were very pleased with ourselves when we got out.
 
-![Roz post Rhine swim](https://github.com/tombye/trexit/raw/gh-pages/assets/images/roz-post-rhine-swim.jpg)
+![Roz post Rhine swim](https://github.com/tombye/trexit/raw/gh-pages/assets/images/roz-post-rhine-swim-2.jpg)
 
 ![Tom post Rhine swim](https://github.com/tombye/trexit/raw/gh-pages/assets/images/tom-post-rhine-swim.jpg)
