@@ -18,6 +18,7 @@ description: |
   We (Tom and Roz) are taking 6 months off to walk around Europe before Brexit happens. We’re going to Trexit. Get it?
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+google_analytics: "UA-104969389-1"
 
 # Build settings
 markdown: kramdown
