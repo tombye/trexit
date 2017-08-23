@@ -17,7 +17,11 @@ It worked quite well but on this trip, mainly thanks to the EU dropping roaming 
 
 We've used a combination of [Galileo](https://galileo-app.com) and [Google Maps](https://maps.google.com).
 
+A GPS walking route on Galileo
+
 ![A GPS route on Galileo](https://github.com/tombye/trexit/raw/gh-pages/assets/images/a-gps-route-on-galileo.jpg)
+
+A walking route on Google Maps
 
 ![A walking route on Google Maps](https://github.com/tombye/trexit/raw/gh-pages/assets/images/a-route-on-google-maps.jpg)
 
