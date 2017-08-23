@@ -72,7 +72,7 @@ Having 'location' on does drain your battery though.
 
 The majority of campsites only have one type of plug in their fields: a three-pin 230V socket. This is pretty standard for caravans but, as far as we can see, isn't any use for anything with a standard European two-pin plug - so it's no good for charging our phones.
 
-The campsite in Felleries had two-pin sockets in its fields but we think it's only because they haven't updated things yet.
+The campsite in Maroilles had two-pin sockets in its fields but we think it's only because they haven't updated things yet.
 
 Not having easy access to power when we we're camping means we always end up asking where we can charge our phones when we arrive. The response is usually one of (in order of fun for us):
 
