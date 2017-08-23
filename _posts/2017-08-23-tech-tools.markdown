@@ -7,7 +7,7 @@ categories: jekyll update
 
 We've used our phones quite a lot on this trip so we thought it was worth writing about how we've been doing it and what we've learnt.
 
- ## Navigating
+## Navigating
 
 We went on a camping trip to Cornwall before Trexit to get a feel for walking from place to place. We navigated using paper maps of the area and a compass.
 
