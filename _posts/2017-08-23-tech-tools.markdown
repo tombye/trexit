@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tech' tools"
+title: "Tech tools"
 date: 2017-08-23 19:30 +0100
 categories: jekyll update
 ---
