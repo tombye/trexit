@@ -61,7 +61,7 @@ Its pages are a pain in the arse to load on 3G but the content is great.
 ### Culture trip
 [https://culturetrip.com](https://culturetrip.com)
 
-The culture trip website has good articles on places of interest around the world. We found the ones on [the Belgium Ardennes](https://theculturetrip.com/europe/belgium/articles/the-top-3-hikes-in-the-belgian-ardennes/) and [hiking in the Black Forest](https://theculturetrip.com/europe/germany/articles/the-10-most-beautiful-spots-in-germanys-black-forest/) excellent starting points for planning our walking routes.
+The culture trip website has good articles on places of interest around the world. The ones on [the Belgium Ardennes](https://theculturetrip.com/europe/belgium/articles/the-top-3-hikes-in-the-belgian-ardennes/) and [hiking in the Black Forest](https://theculturetrip.com/europe/germany/articles/the-10-most-beautiful-spots-in-germanys-black-forest/) were excellent starting points for planning our walking routes.
 
 ## Accommodation
 
@@ -75,7 +75,7 @@ When we can't find anywhere to camp, Booking.com is normally our fallback. It's 
 
 We've used Airbnb a few times but it hasn't been great for booking super-short notice and it doesn't normally have as many places to stay as Booking.com.
 
-We also got a bit weirded out when it recently asked us to upload photos of our passports. We didn't, which meant we were blocked from making a booking.
+We also got a bit weirded out when it recently asked us to upload photos of our passports. We didn't, which meant we couldn't make a booking.
 
 ## Planning
 
