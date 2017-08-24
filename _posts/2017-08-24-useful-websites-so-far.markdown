@@ -12,7 +12,7 @@ We've been spending a ridiculous amount of time on the internet since we've been
 ### GitHub 
 [https://github.com](https://github.com)
 
-We built Trexit using [Jekyll](https://jekyllrb.com) [GitHub Pages](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/). We work on [markdown](https://daringfireball.net/projects/markdown/) files and Jekyll turns them into web pages. GitHub hosts the whole thing. We just had to buy the domain name and point it at their servers.
+We built Trexit using [Jekyll](https://jekyllrb.com) and [GitHub Pages](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/). We work on [markdown](https://daringfireball.net/projects/markdown/) files and Jekyll turns them into web pages. GitHub hosts the whole thing. We just had to buy the domain name and point it at their servers.
 
 We update Trexit using the GitHub website to create posts, upload images and videos, and make changes. It's a bit fiddly doing it all on our phones but we've been amazed that we've been able to do as much as we have.
 
