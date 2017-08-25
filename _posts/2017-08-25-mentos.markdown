@@ -1,0 +1,12 @@
+---
+layout: post
+title: Mentos
+date:   2017-08-25 11:01 +0100
+categories: jekyll update
+---
+
+We've been eating a lot of Mentos on our walks. We found this one the other day. 
+
+![a mento with a picture of two walkers on it](https://github.com/tombye/trexit/raw/gh-pages/assets/images/mentos.jpg)
+
+It was mento be ([sorry](https://youtu.be/fRh_vgS2dFE?t=1m21s)). We think it's a great momento of our trip ([sorry](https://youtu.be/fRh_vgS2dFE?t=1m21s) again).
