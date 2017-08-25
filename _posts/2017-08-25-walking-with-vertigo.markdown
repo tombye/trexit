@@ -13,7 +13,7 @@ We've managed my abject cowardice in a few ways so far.
 
 ## Lots of planning
 
-Before we start a walk,  we always spend some time looking at how hilly the area is and how wide we think the paths are. If we have a choice between the valley or the mountain, wel almost always choose the valley. 
+Before we start a walk,  we always spend some time looking at how hilly the area is and how wide we think the paths are. If we have a choice between the valley or the mountain, we'll almost always choose the valley. 
 
 ## The scout
 
