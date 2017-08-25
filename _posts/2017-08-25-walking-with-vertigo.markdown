@@ -17,11 +17,11 @@ Before we start a walk,  we always spend some time looking at how hilly the area
 
 ## The scout
 
-Even when we've carefully planned our route, we can't always predict when there's going to be a bit of the walk that massively freaks me out. Sometimes when this happens, Tom scouts out the path ahead and comes back with a report on how long it's likely to be hideous for. Then I can make a decision about whether I can stick with it. 
+Even when we've carefully planned our route, we can't always predict when there's going to be a bit of the walk that massively freaks me out. Sometimes when this happens, Tom scouts out the path ahead and comes back with a report on how long it's likely to be hideous for. Then I can make a decision about whether I can carry on or not. 
 
 ## The pack mule
 
-If we do stick with a difficult, Tom normally takes the water and - if it's really bad - my backpack, so I can use my hands and bum if I have to. This approach is very undignified and I normally have at least one tantrum in the process. Tom is - as always - unrufflable in these situations. 
+If we do stay on a difficult path, Tom normally takes the water and - if it's really bad - my backpack, so I can use my hands and bum if I have to. This approach is very undignified and I normally have at least one tantrum in the process. Tom is - as always - unrufflable in these situations. 
 
 ## Alternative routes
 
