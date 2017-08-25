@@ -19,7 +19,7 @@ We update Trexit using the GitHub website to create posts, upload images and vid
 ### Dropbox
 [https://dropbox.com](https://dropbox.com)
 
-Roz's iPhone won't let her rename images, which is really annoying if you want to call your images sensible things. Using Dropbox means we can store and rename images before we upload them to GitHub.
+Roz's iPhone won't let her rename images, which is really annoying if you want to call your images sensible things. Using Dropbox means she can store and rename images before she uploads them to GitHub.
 
 ## Rail travel
 
