@@ -25,6 +25,6 @@ If we do stay on a difficult path, Tom normally takes the water and - if it's re
 
 ## Alternative routes
 
-We hate turning back. One of our most hated - and overused - phrases on the trip so far has been: "We just have to go back on ourselves a bit." But sometimes it can't be avoided. When the path is too much, I always ask if we can turn back. Luckily, most of the time, there's an alternative route. 
+We don't like turning back. One of our most hated - and overused - phrases on the trip so far has been: "We just have to go back on ourselves a bit." But sometimes it can't be avoided. When the path is too much, I always ask if we can turn back. Luckily, most of the time, there's an alternative route. 
 
 Roz
