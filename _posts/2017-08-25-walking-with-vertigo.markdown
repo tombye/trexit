@@ -21,7 +21,7 @@ Even when we've carefully planned our route, we can't always predict when there'
 
 ## The pack mule
 
-If we do stick with it, Tom normally takes the water and - if it's really bad - my backpack, so I can use my hands and bum if I have to. This approach is very undignified and I normally have at least one tantrum in the process. Tom is - as always - unrufflable in these situations. 
+If we do stick with a difficult, Tom normally takes the water and - if it's really bad - my backpack, so I can use my hands and bum if I have to. This approach is very undignified and I normally have at least one tantrum in the process. Tom is - as always - unrufflable in these situations. 
 
 ## Alternative routes
 
