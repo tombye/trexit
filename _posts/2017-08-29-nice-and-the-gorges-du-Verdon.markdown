@@ -33,11 +33,11 @@ While we were in the area, we decided to go on a camping trip to the [Gorges du 
 
 ![The top of the Gorges du Verdon, seen from the sublime viewpoint](https://github.com/tombye/trexit/raw/gh-pages/assets/images/sublime-viewpoint-of-gorges-du-verdon.jpg)
 
-The River Verdon runs through mountains and turns into some beautiful lakes along the way. After reading this [article about wild swimming in France](https://www.theguardian.com/travel/gallery/2012/may/04/france-wild-swimming-lakes-rivers), we were determined to swim in the lakes.
+After reading this [article about wild swimming in France](https://www.theguardian.com/travel/gallery/2012/may/04/france-wild-swimming-lakes-rivers), we were determined to swim in the lakes.
 
 ### Castellane 
 
-We stayed in a campsite in a little town called Castellane.
+We stayed in a campsite in a beautiful, little town called Castellane.
 
 ![Two houses in Castellane in front of an old clocktower](https://github.com/tombye/trexit/raw/gh-pages/assets/images/clocktower-in-castellane.jpg)
 
@@ -47,17 +47,17 @@ We stayed in a campsite in a little town called Castellane.
 
 ![The Verdon river as a small stream running through Castellane](https://github.com/tombye/trexit/raw/gh-pages/assets/images/verdon-river.jpg)
 
+Good eh?
+
 ### Lac de Castillon
 
-Our first lake was Lac de Castillon just north of Castellane.
-
-We spotted a beach full of people when we were driving alongside the lake. A quick u-turn later and we were there.
+After we were settled, we went to Lac de Castillon just north of Castellane.
 
 The water was colder than the sea but not too bad and so clear we could see our feet when we were wading in.
 
 ![Lac de Castillon](https://github.com/tombye/trexit/raw/gh-pages/assets/images/lac-de-castillon.jpg)
 
-It was pretty definitely one of the highlights of our trip so far.
+It was definitely one of the highlights of our trip so far.
 
 ### Lac de Sainte-Croix
 
