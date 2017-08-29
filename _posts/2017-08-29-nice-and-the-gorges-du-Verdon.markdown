@@ -33,7 +33,7 @@ While we were in the area, we decided to go on a camping trip to the [Gorges du 
 
 ![The top of the Gorges du Verdon, seen from the sublime viewpoint](https://github.com/tombye/trexit/raw/gh-pages/assets/images/sublime-viewpoint-of-gorges-du-verdon.jpg)
 
-The River Verdon runs through mountains and turns into some beautiful lakes along the way. Ater reading this [article about wild swimming in France](https://www.theguardian.com/travel/gallery/2012/may/04/france-wild-swimming-lakes-rivers), we were determined to swim in the lakes.
+The River Verdon runs through mountains and turns into some beautiful lakes along the way. After reading this [article about wild swimming in France](https://www.theguardian.com/travel/gallery/2012/may/04/france-wild-swimming-lakes-rivers), we were determined to swim in the lakes.
 
 ### Castellane 
 
@@ -75,7 +75,8 @@ We had a great time swimming up the river and looking up at the mountains toweri
 
 To get to any part of the Verdon Gorge, you have to drive around lots of hills and mountains. This means a lot of time driving on narrow roads, with a tall rock face on one side and a sheer drop on the other.
 
-It's really hard to drive, despite how easy Siân made it look, and another fun.test of [Roz's vertigo](http://trexit.org.uk/jekyll/update/2017/08/25/walking-with-vertigo.html). But on the bright side, the views were amazing
+It's really hard to drive, despite how easy Siân made it look, and another fun test of [Roz's vertigo](http://trexit.org.uk/jekyll/update/2017/08/25/walking-with-vertigo.html). But on the bright side, the views were amazing.
+
 ![Lac de Sainte-Croix from above](https://github.com/tombye/trexit/raw/gh-pages/assets/images/lac-de-saint-croix-from-above.jpg).
 
 ![The River Verdon, running along the bottom of the Gorge du Verdon](https://github.com/tombye/trexit/raw/gh-pages/assets/images/gorges-du-verdon.jpg)
