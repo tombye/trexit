@@ -87,7 +87,7 @@ It acted like a snowplough so any cars coming towards us had to either make room
 
 ![Czech cycling team's bus, ahead of our car on the road alongside the Gorges du Verdon](https://github.com/tombye/trexit/raw/gh-pages/assets/images/cycling-team-bus-on-gorges-du-verdon-road.jpg)
 
-It was going so slowly and carefully, it felt like it was making the journey much safer for us. So much so that when it pulled over to let the cars behind it pass, we pulled over too. When it set off again, we cheerfully followed it like particularly guileless spies tailing a suspect.
+When it pulled over to let cars overtake it, we pulled over too. And when it set off again, we cheerfully followed it like particularly guileless spies tailing a suspect.
 
 ![Tom giving a thumbs up in the car, parked behind the cycling tram's bus](https://github.com/tombye/trexit/raw/gh-pages/assets/images/tom-in-car-behind-cycling-team-coach.jpg)
 
