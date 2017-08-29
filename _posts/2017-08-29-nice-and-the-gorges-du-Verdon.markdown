@@ -13,7 +13,7 @@ First on the list is Siân who's living in Nice for the summer. (Clever Siân.)
 
 Siân lives close to the beach so we were in the sea less than an hour after we arrived.
 
-Nice has a long pebble beach with showers at the back so you just need your swimming stuff, a towel and some flipflops. 
+Nice has a long, pebble beach with showers at the back so you just need your swimming stuff, a towel and some flipflops. 
 
 The water's warm and you can see the art-deco hotels along the front while you swim in the sea.
 
@@ -23,7 +23,7 @@ Later on, Siân took us on a tour of the city at night. Nice is beautiful in the
 
 ![A street in Nice at night lit by a warm, yellow streetlight](https://github.com/tombye/trexit/raw/gh-pages/assets/images/street-in-nice-at-night.jpg)
 
-These fountains, which light up in different colours, are excellent.
+And these fountains, which light up in different colours, are excellent.
 
 ![Roz and Siân in surrounded by mist and different colours from a fountain in Nice](https://github.com/tombye/trexit/raw/gh-pages/assets/images/sian-and-roz-in-the-fountain-in-nice.jpg)
 
