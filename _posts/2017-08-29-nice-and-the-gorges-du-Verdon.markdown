@@ -77,7 +77,7 @@ To get to any part of the Verdon Gorge, you have to drive around lots of hills a
 
 It's really hard to drive, despite how easy Siân made it look, and another fun test of [Roz's vertigo](http://trexit.org.uk/jekyll/update/2017/08/25/walking-with-vertigo.html). But on the bright side, the views were amazing.
 
-![Lac de Sainte-Croix from above](https://github.com/tombye/trexit/raw/gh-pages/assets/images/lac-de-saint-croix-from-above.jpg).
+![Lac de Sainte-Croix from above](https://github.com/tombye/trexit/raw/gh-pages/assets/images/lac-de-saint-croix-from-above.jpg)
 
 ![The River Verdon, running along the bottom of the Gorge du Verdon](https://github.com/tombye/trexit/raw/gh-pages/assets/images/gorges-du-verdon.jpg)
 
