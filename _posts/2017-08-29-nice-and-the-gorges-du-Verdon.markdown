@@ -23,7 +23,7 @@ Later on, Siân took us on a tour of the city at night. Nice is beautiful in the
 
 ![A street in Nice at night lit by a warm, yellow streetlight](https://github.com/tombye/trexit/raw/gh-pages/assets/images/street-in-nice-at-night.jpg)
 
-And these fountains, which light up in different colours, are excellent.
+These fountains, which light up in different colours, are particularly excellent.
 
 ![Roz and Siân in surrounded by mist and different colours from a fountain in Nice](https://github.com/tombye/trexit/raw/gh-pages/assets/images/sian-and-roz-in-the-fountain-in-nice.jpg)
 
@@ -33,7 +33,7 @@ While we were in the area, we decided to go on a camping trip to the [Gorges du 
 
 ![The top of the Gorges du Verdon, seen from the sublime viewpoint](https://github.com/tombye/trexit/raw/gh-pages/assets/images/sublime-viewpoint-of-gorges-du-verdon.jpg)
 
-After reading this [article about wild swimming in France](https://www.theguardian.com/travel/gallery/2012/may/04/france-wild-swimming-lakes-rivers), we were determined to swim in the lakes.
+And after reading this [article about wild swimming in France](https://www.theguardian.com/travel/gallery/2012/may/04/france-wild-swimming-lakes-rivers), we were determined to swim in the lakes.
 
 ### Castellane 
 
