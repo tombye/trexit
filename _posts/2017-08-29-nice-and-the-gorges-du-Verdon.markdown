@@ -13,9 +13,7 @@ First on the list is Siân who's living in Nice for the summer. (Clever Siân.)
 
 Siân lives close to the beach so we were in the sea less than an hour after we arrived.
 
-Nice has a long, pebble beach with showers at the back so you just need your swimming stuff, a towel and some flipflops. 
-
-The water's warm and you can see the art-deco hotels along the front while you swim in the sea.
+The water was warm and we could see the art-deco hotels along the front while we were swimming.
 
 ![The seafront at Nice from above](https://github.com/tombye/trexit/raw/gh-pages/assets/images/nice-seafront-from-above.jpg)
 
