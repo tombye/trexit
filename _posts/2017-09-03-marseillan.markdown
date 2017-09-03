@@ -27,7 +27,7 @@ Marseillan is an excellent port town, close to Montpellier.
 
 ![Marseillan harbour](https://github.com/tombye/trexit/raw/gh-pages/assets/images/marseillan-harbour.jpg)
 
-It's got lovely a church and pretty houses. 
+It's got a lovely church and pretty houses. 
 
 ![The church in Marseillan with a man on a bike in the foreground](https://github.com/tombye/trexit/raw/gh-pages/assets/images/marseillan-church-with-man-on-bike.jpg)
 
