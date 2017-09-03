@@ -51,7 +51,7 @@ The men of Marseillan play Capèlet twice a year. They drunkenly compete to clim
 
 John and Fanny are always brilliant hosts* but they were super-super kind this time. They housed and fed us, they let us ditch our big bags with them, and they even drove us to St-Jean-Pied-de-Port.
 
-With their kids away, we got to listen to normally outlawed banging tunes.
+With their kids away, we got to listen to normally-outlawed, banging tunes.
 
 <video src="https://github.com/tombye/trexit/raw/gh-pages/assets/images/wu-tang-in-the-car.mp4" controls height="480" width="848" preload="metadata"><a href="https://github.com/tombye/trexit/raw/gh-pages/assets/images/wu-tang-in-the-car.mp4">download video of us all listening to Wu Tang Clan on the way to Saint Jean Pied de Port</a>.</video>
 
