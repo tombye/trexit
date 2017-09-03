@@ -11,29 +11,29 @@ We're not so sure. Our first walk from Saint-Jean-Pied-de-Port to Roncesvalles i
 
 Here's what we've done. 
 
-## Visited online Camino forums
+## 1. Visited online Camino forums.
 
-[Online Camino forums like this one](https://www.caminodesantiago.me/community/threads/st-jean-to-roncesvalles.20124/) are a great way to get an idea of what it might be like.
+[Camino forums like this one](https://www.caminodesantiago.me/community/threads/st-jean-to-roncesvalles.20124/) are a great way to get an idea of what it might be like.
 
-## Bought a tiny book of Camino maps
+## 2. Bought a tiny book of Camino maps.
 
 ![Front cover of our Camino de Santiago maps book](https://github.com/tombye/trexit/raw/gh-pages/assets/images/camino-de-santiago-book-of-maps-front.jpg)
 
 ![Inside our Camino de Santiago maps book showing a map of the first route](https://github.com/tombye/trexit/raw/gh-pages/assets/images/camino-de-santiago-book-of-maps-inside.jpg)
 
-## Brought smaller bags
+## 3. Brought smaller bags.
 
 We swapped out our big, heavy bags for smaller ones that weigh half as much.
 
-## Visited the pilgrim's office
+## 4. Visited the pilgrim's office.
 
-They offer route advice and give you your pilgrim passports with your first stamp.
+The volunteers in the pilgrim's office provide route advice and give you a pilgrim passport with your very first stamp.
 
 ![Pilgrim passports with their first stamp](https://github.com/tombye/trexit/raw/gh-pages/assets/images/pilgrim-passports.jpg)
 
-## Bought walking poles
+## 5. Bought walking poles.
 
-To help with the steep climbs and descents.
+Roz bought poles in Saint-Jean-Pied-de-Port to help with the steep climbs and descents.
 
 ![Roz with her walking poles](https://github.com/tombye/trexit/raw/gh-pages/assets/images/roz-with-poles.jpg)
 
