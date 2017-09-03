@@ -39,7 +39,7 @@ It's the home of [Noilly Prat](https://www.noillyprat.com/).
 
 ![The sign on the wall of the Noilly Prat factory in Marseillan](https://github.com/tombye/trexit/raw/gh-pages/assets/images/noilly-prat-sign.jpg)
 
-And Marseillan plage has an excellent roundabout, which depicts the traditional Marseillan game of Capèlet.
+And Marseillan Plage has an excellent roundabout, which has an artwork celebrating the traditional Marseillan game of Capèlet.
 
 ![Artwork on a roundabout near Marseillan based on the game of Capèlet](https://github.com/tombye/trexit/raw/gh-pages/assets/images/capelet-roundabout.jpg)
 
