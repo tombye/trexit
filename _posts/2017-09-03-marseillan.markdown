@@ -53,7 +53,7 @@ John and Fanny are always brilliant hosts* but they were super-super kind this t
 
 With their kids away, we got to listen to normally outlawed banging tunes.
 
-<video src="https://github.com/tombye/trexit/raw/gh-pages/assets/images/wu-tang-in-the-car.mp4" controls height="480" width="848" preload="metadata"><a href=" https://github.com/tombye/trexit/raw/gh-pages/assets/images/wu-tang-in-the-car.mp4">download this video</a></video>
+<video src="https://github.com/tombye/trexit/raw/gh-pages/assets/images/wu-tang-in-the-car.mp4" controls height="480" width="848" preload="metadata"><a href="https://github.com/tombye/trexit/raw/gh-pages/assets/images/wu-tang-in-the-car.mp4">download video of us all listening to Wu Tang Clan on the way to Saint Jean Pied de Port</a>.</video>
 
 And we arrived in St-Jean-Pied-de-Port with plenty of time to see the sights and eat Tapas together. Mmmm.
 
