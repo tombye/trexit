@@ -1,0 +1,40 @@
+---
+layout: post
+title: "Preparing for the Camino: Basque to basics"
+date: 2017-09-03 15:55 +0100
+categories: jekyll update
+---
+
+Our friend Fanny reckons we've done so much walking already, we'll be able to walk the Camino "avec les deux doigts dans le nez" (an excellent french saying). 
+
+We're not so sure. Our first walk from Saint-Jean-Pied-de-Port to Roncesvalles is going to be 27 kilometres over a mountain. It sounds like a lot so we've decided to be as prepared as we possibly can be. 
+
+Here's what we've done. 
+
+## Visited online Camino forums
+
+[Online Camino forums like this one](https://www.caminodesantiago.me/community/threads/st-jean-to-roncesvalles.20124/) are a great way to get an idea of what it might be like.
+
+## Bought a tiny book of Camino maps
+
+![Front cover of our Camino de Santiago maps book](https://github.com/tombye/trexit/raw/gh-pages/assets/images/camino-de-santiago-book-of-maps-front.jpg)
+
+![Inside our Camino de Santiago maps book showing a map of the first route](https://github.com/tombye/trexit/raw/gh-pages/assets/images/camino-de-santiago-book-of-maps-inside.jpg)
+
+## Brought smaller bags
+
+We swapped out our big, heavy bags for smaller ones that weigh half as much.
+
+## Visited the pilgrim's office
+
+They offer route advice and give you your pilgrim passports with your first stamp.
+
+![Pilgrim passports with their first stamp](https://github.com/tombye/trexit/raw/gh-pages/assets/images/pilgrim-passports.jpg)
+
+## Bought walking poles
+
+To help with the steep climbs and descents.
+
+![Roz with her walking poles](https://github.com/tombye/trexit/raw/gh-pages/assets/images/roz-with-poles.jpg)
+
+This may make the whole 'fingers-in-the-nose' thing a bit tricky but you never know.
