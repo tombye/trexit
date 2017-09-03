@@ -16,19 +16,19 @@ It's a bit like handball but with a few differences. The most obvious is that ea
 
 That's a massive simplification. If you're interested in a more detailed explanation, this [article on the different forms of Pelote Basque](https://www.touradour.com/towns/pelote.htm) should help.
 
-We liked it so much for these reasons (based entirely on the game we saw). 
+Based entirely on the game we saw, we liked it because:
 
-## The guy who does the scoring also sings songs
+## 1. The guy who does the scoring also sings songs.
 
 A man sings every time somebody scores a point. And when the scores are tied, the crowd is encouraged to make as much noise as possible.
 
-## The ball goes really fast
+## 2. The ball goes really fast.
 
 It's the fastest handball sport in the world because of the pace the ball gets from the Chistera.
 
 When all the players are at the front of the court, the play gets very quick and the skill of the players really comes out.
 
-## There's lots of joking around between points
+## 3. There's lots of joking around between points.
 
 The players joke with each other during and between points, and they often encourage the crowd to shout support.
 
