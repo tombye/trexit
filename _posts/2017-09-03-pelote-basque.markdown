@@ -20,7 +20,7 @@ We liked it so much for these reasons (based entirely on the game we saw).
 
 ## The guy who does the scoring also sings songs
 
-A man sings every time somebody scores a point.  And when the scores are tied,  the crowd is encouraged to make as much noise as possible.
+A man sings every time somebody scores a point. And when the scores are tied, the crowd is encouraged to make as much noise as possible.
 
 ## The ball goes really fast
 
