@@ -59,6 +59,6 @@ With their kids away, we got to listen to [normally outlawed banging tunes](). A
 
 ![Tom, Fanny and John sharing a joke in a restaurant in Saint Jean Pied de Port](https://github.com/tombye/trexit/raw/gh-pages/assets/images/tom-fanny-and-john-sharing-a-joke.jpg)
 
-After all that, it was time to say goodbye and prepare for the Camino.
+After all that, it was time to say goodbye and [prepare for the Camino](http://trexit.org.uk/jekyll/update/2017/09/03/preparing-for-the-camino.html).
 
 *If you fancy staying in Marseillan, you should stay in [John and Fanny's flat](http://abnb.me/EVmg/9L9qatpI8F). They'll be nice to you even though you know us.
