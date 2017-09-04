@@ -47,15 +47,15 @@ The men of Marseillan play Capèlet twice a year. They drunkenly compete to clim
 
 ![Capèlet being played in Marseillan in 2015](https://github.com/tombye/trexit/raw/gh-pages/assets/images/capelet-in-marseillan-2015.jpg)
 
-## Driving to St-Jean-Pied-de-Port
+## Driving to Saint-Jean-Pied-de-Port
 
-John and Fanny are always brilliant hosts* but they were super-super kind this time. They housed and fed us, they let us ditch our big bags with them, and they even drove us to St-Jean-Pied-de-Port.
+John and Fanny are always brilliant hosts* but they were super-super kind this time. They housed and fed us, they let us ditch our big bags with them, and they even drove us to Saint-Jean-Pied-de-Port.
 
 With their kids away, we got to listen to normally-outlawed, banging tunes.
 
 <video src="https://github.com/tombye/trexit/raw/gh-pages/assets/images/wu-tang-in-the-car.mp4" controls height="480" width="848" preload="metadata"><a href="https://github.com/tombye/trexit/raw/gh-pages/assets/images/wu-tang-in-the-car.mp4">download video of us all listening to Wu Tang Clan on the way to Saint Jean Pied de Port</a>.</video>
 
-And we arrived in St-Jean-Pied-de-Port with plenty of time to see the sights and eat Tapas together. Mmmm.
+And we arrived in Saint-Jean-Pied-de-Port with plenty of time to see the sights and eat Tapas together. Mmmm.
 
 ![The La Nive river in Saint Jean Pied de Port](https://github.com/tombye/trexit/raw/gh-pages/assets/images/la-nive-river-in-saint-jean-pied-de-port.jpg)
 
@@ -65,4 +65,4 @@ And we arrived in St-Jean-Pied-de-Port with plenty of time to see the sights and
 
 After all that, it was time to say goodbye and [prepare for the Camino](http://trexit.org.uk/jekyll/update/2017/09/03/preparing-for-the-camino.html).
 
-*If you fancy staying in Marseillan, you should stay in [John and Fanny's flat](http://abnb.me/EVmg/9L9qatpI8F). They'll be nice to you even though you know us.
+*If you fancy going to Marseillan, you should stay in [John and Fanny's flat](http://abnb.me/EVmg/9L9qatpI8F). They'll be nice to you even though you know us.
