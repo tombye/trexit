@@ -34,4 +34,4 @@ The players joke with each other during and between points, and they often encou
 
 Here's a video we took which should give you an idea of what it's like.
 
-<video src="https://github.com/tombye/trexit/raw/gh-pages/assets/images/pelote-basque-match.mp4" controls height="848" width="480" preload="metadata"><a href="https://github.com/tombye/trexit/raw/gh-pages/assets/images/pelote-basque-match.mp4">download this video of Pelote Basque</a>.</video>
+<video src="https://github.com/tombye/trexit/raw/gh-pages/assets/images/pelote-basque-match.mp4" controls height="848" width="480" preload="metadata"><a href="https://github.com/tombye/trexit/raw/gh-pages/assets/images/pelote-basque-match.mp4">Download the video of a Pelote Basque point being played</a>.</video>
