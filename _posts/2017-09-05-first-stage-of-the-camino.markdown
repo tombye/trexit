@@ -9,7 +9,7 @@ We started walking the Camino de Santiago yesterday. We walked over the Pyrenees
 
 It was the first stage on the Camino Frances, also known as the French Way and the Chemin de Saint Jacques. There are a few different ways to do the Camino and the Camino Frances is the most popular. 
 
-All in all, our first Camino walk was about 27 kilometres long.  We climbed 1,200 metres and descended 500 metres. The highest we got was around 1,400 metres, which gave us amazing views of the surrounding countryside.
+All in all, our first Camino walk was about 27 kilometres long. We climbed 1,200 metres and descended 500 metres. The highest we got was around 1,400 metres, which gave us amazing views of the surrounding countryside.
 
 ![View from the Pyrenees mountains with clouds hovering over hills in the valley](https://github.com/tombye/trexit/raw/gh-pages/assets/images/views-walking-the-pyrenees-1.jpg)
 
