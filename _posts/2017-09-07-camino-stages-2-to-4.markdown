@@ -17,7 +17,7 @@ The walks start early so you're up with the sun. That means you sometimes get to
 
 ## The River Arga
 
-Some of the towns we've passed through are on the river Arga. Here it is running through the town of Zubiri.
+Some of the towns we've passed through are on the River Arga. Here it is running through the town of Zubiri.
 
 ![The river Arga passing alongside the town of Zubiri](https://github.com/tombye/trexit/raw/gh-pages/assets/images/river-arga-next-to-zubiri.jpg)
 
