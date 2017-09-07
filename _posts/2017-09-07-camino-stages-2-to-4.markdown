@@ -23,7 +23,7 @@ Some of the towns we've passed through are on the river Arga. Here it is runnin
 
 ## Churches
 
-Almost every town has a church and they're often very beautiful. Here are a few favourites.
+Almost every town has a church and they're often very beautiful. Here are a couple of good ones.
 
 ![The spire of a church in the town of Burguete](https://github.com/tombye/trexit/raw/gh-pages/assets/images/church-in-burguete.jpg)
 
