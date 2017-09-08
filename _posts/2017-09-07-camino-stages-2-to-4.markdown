@@ -11,7 +11,7 @@ Here are a few things we've seen along the way.
 
 ## Misty mornings
 
-The walks start early so you're up with the sun. That means you sometimes get to see sights like this:
+We start walking early so we sometimes get up before sunrise. That means we get to see sights like this:
 
 ![A pilgrim walking down a country road through the mist early in the morning](https://github.com/tombye/trexit/raw/gh-pages/assets/images/misty-morning.jpg)
 
