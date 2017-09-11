@@ -5,7 +5,9 @@ date: 2017-09-11 18:31 +0100
 categories: jekyll update
 ---
 
-From Friday to Sunday, we walked just over 70 kilometres from Puenta la Reina to Logroño. We had more early starts and saw some more lovely views.
+Over the last 3 days, we've walked just over 70 kilometres from Puenta la Reina to Logroño. Yesterday's walk was 27.8 kilometres, which was our longest so far. We're sore but smug. 
+
+The last few days have involved:
 
 ## Early starts
 
@@ -21,9 +23,7 @@ From Friday to Sunday, we walked just over 70 kilometres from Puenta la Reina to
 
 ![A stack of hay bales, lit yellow by the sun under a dark sky](https://github.com/tombye/trexit/raw/gh-pages/assets/images/stack-of-hay-bales-with-dark-sky-overhead.jpg)
 
-We also saw some new things.
-
-## Wine fountain 
+## A wine fountain 
 
 We stopped at what our fellow hikers had been excitedly calling 'the wall of wine'. It turns out that - in the grand tradition of pisshead monks - the Irache Monastery has an actual wine fountain that Camino pilgrims can drink from. There's a water fountain too but no-one was very interested in that. 
 
