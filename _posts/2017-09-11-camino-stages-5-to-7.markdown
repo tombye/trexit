@@ -25,7 +25,7 @@ The last few days have involved:
 
 ## A wine fountain 
 
-We stopped at what our fellow hikers had been excitedly calling 'the wall of wine'. It turns out that - in the grand tradition of pisshead monks - the Irache Monastery has an actual wine fountain that Camino pilgrims can drink from. There's a water fountain too but no-one was very interested in that. 
+We stopped at what other hikers had been excitedly calling "the wall of wine". It turns out that - in the grand tradition of pisshead monks - the Irache Monastery has an actual wine fountain that Camino pilgrims can drink from. There's a water fountain too but no-one was very interested in that. 
 
 ![Roz drinking from the wine fountain](https://github.com/tombye/trexit/raw/gh-pages/assets/images/roz-drinking-from-the-fountain-of-wine.jpg)
 
