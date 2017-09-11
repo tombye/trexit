@@ -13,9 +13,9 @@ The last few days have involved:
 
 ![Church in the town of Puenta la Reina in the early morning with the moon behind](https://github.com/tombye/trexit/raw/gh-pages/assets/images/church-in-puento-la-reina.jpg)
 
-![Bridge outside the town of Puenta la Reina, reflected in the river it crosses](https://github.com/tombye/trexit/raw/gh-pages/assets/images/bridge-in-puenta-la-reina.jpg)
-
 ## Lovely views
+
+![Bridge outside the town of Puenta la Reina, reflected in the river it crosses](https://github.com/tombye/trexit/raw/gh-pages/assets/images/bridge-in-puenta-la-reina.jpg)
 
 ![Vineyards outside the town of Cirauqui](https://github.com/tombye/trexit/raw/gh-pages/assets/images/vineyard-outside-cirauqui.jpg)
 
