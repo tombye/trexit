@@ -33,6 +33,8 @@ See?
 
 ![Caricatured sculpture of Santo Domingo with a chicken and a rooster](https://github.com/tombye/trexit/raw/gh-pages/assets/images/caricatured-sculpture-of-santo-domingo.jpg)
 
+![Graffiti in Santo Domingo featuring a chicken and a rooster](https://github.com/tombye/trexit/raw/gh-pages/assets/images/graffiti-in-santo-domingo.jpg)
+
 ## Amazing pastries
 
 If you go to Santo Domingo, there's chicken-related imagery everywhere. The best are these excellent, and very tasty, pastries.
