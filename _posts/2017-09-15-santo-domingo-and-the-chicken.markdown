@@ -15,7 +15,7 @@ Here's why they're hanging out together.
 
 ## The legend of the rooster and the chicken
 
-The story goes that a pilgrim was travelling the Camino with his family. They were staying in a hostel when a Spanish girl tried to pull him. He wasn't up for it so, as women often do, she decided to frame him for a serious crime. She put a silver cup in his bag and told everyone he stole it.
+The story goes that a pilgrim was travelling the Camino with his family. They were staying in a hostel when a Spanish girl tried to seduce him. He wasn't up for it so, as women often do, she decided to frame him for a serious crime. She put a silver cup in his bag and told everyone he stole it.
 
 He was found guilty and hung. Thinking he was dead, his parents ploughed on to Santiago (maybe they only had a limited number of days off work for their trip). On their way back, they checked the body and realised he wasn't dead. He said Santo Domingo had saved him.
 
