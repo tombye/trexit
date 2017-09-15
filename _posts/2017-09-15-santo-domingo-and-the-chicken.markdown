@@ -5,7 +5,7 @@ date: 2017-09-15 20:10 +0100
 categories: jekyll update
 ---
 
-A few days ago, we were in a town called Santo Domingo. While we were there our new friend Mary told us the story of Santo Domingo.
+A few days ago, we were in a town called Santo Domingo. While we were there, our new friend Mary told us the story of Santo Domingo.
 
 ![Painting of Santo Domingo and a chicken](https://github.com/tombye/trexit/raw/gh-pages/assets/images/painting-of-santo-domingo-with-a-chicken.jpg)
 
