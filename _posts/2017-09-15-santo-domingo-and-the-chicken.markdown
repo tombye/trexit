@@ -43,4 +43,4 @@ Miracle chicken:
 
 Hanged man:
 
-![Pastry of the hanged man who Santo Domingo kept alive as part of a miracle](https://github.com/tombye/trexit/raw/gh-pages/assets/images/chicken-pastry.jpg)
+![Pastry of the hanged man who Santo Domingo kept alive as part of a miracle](https://github.com/tombye/trexit/raw/gh-pages/assets/images/hanged-man-pastry.jpg)
