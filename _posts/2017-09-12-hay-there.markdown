@@ -53,7 +53,7 @@ Look at this:
 
 ![Tom in front of a giant haystack](https://github.com/tombye/trexit/raw/gh-pages/assets/images/tom-in-front-of-a-giant-haystack.jpg)
 
-![Tom in the corner of a giant haystack](https://github.com/tombye/trexit/raw/gh-pages/assets/images/tom-in-the-corner-of-a-giant-haystack.jpg
+![Tom in the corner of a giant haystack](https://github.com/tombye/trexit/raw/gh-pages/assets/images/tom-in-the-corner-of-a-giant-haystack.jpg)
 
 ## Hay experts
 
