@@ -37,7 +37,7 @@ See?
 
 ## Amazing pastries
 
-If you go to Santo Domingo, there's chicken-related imagery everywhere. The best are these excellent, and very tasty, pastries.
+If you go to Santo Domingo, you see things related to the chicken story everywhere. The best are these excellent, and very tasty, pastries.
 
 Miracle chicken:
 
