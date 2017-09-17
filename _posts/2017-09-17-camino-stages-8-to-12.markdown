@@ -45,7 +45,7 @@ People have gone to all kinds of lengths to point us in the right direction.
 
 ## Sweet relief
 
-We've been to lots of places with rivers so we've been able to take our shoes and socks off for a soothing paddle. 
+We've been to lots of places with rivers. Almost every time we see one, we go for a soothing paddle. 
 
 <video src="https://github.com/tombye/trexit/raw/gh-pages/assets/images/river-najerilla-and-rozs-feet.mp4" controls height="848" width="480" preload="metadata"><a href="https://github.com/tombye/trexit/raw/gh-pages/assets/images/river-najerilla-and-rozs-feet.mp4">Download this video of the river Najerilla with Roz's feet.</a></video>
 
