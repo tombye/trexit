@@ -7,7 +7,7 @@ categories: jekyll update
 
 ## Super-early starts
 
-We've had long, hot walks with lots of people competing for the same accommodation over the last few days so we've been getting up even earlier than normal. See?
+We've been on some long, hot walks with lots of people competing for the same accommodation over the last few days so we've been getting up even earlier than normal. See?
 
 ![Leaving Najera early in the morning before sunrise](https://github.com/tombye/trexit/raw/gh-pages/assets/images/leaving-najera-early-in-the-morning.jpg)
 
