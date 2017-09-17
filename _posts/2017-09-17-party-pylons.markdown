@@ -5,7 +5,7 @@ date: 2017-09-17 18:30 +0100
 categories: jekyll update
 ---
 
-We saw pylons doing hip bumps everywhere today.
+We saw pylons doing [hip bumps](https://giphy.com/gifs/television-celebs-jimmy-fallon-XpUlDItKy57mo?tc=1) everywhere today.
 
 ![Electricity pylons that look like they're bumping hips](https://github.com/tombye/trexit/raw/gh-pages/assets/images/pylons-doing-hip-bumps.jpg)
 
