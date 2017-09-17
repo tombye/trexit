@@ -17,7 +17,15 @@ On the bright side...
 
 ## Views
 
-We've continued to see some delightful sights. 
+We've continued to see some delightful sights.
+
+![Vineyards in Rioja](https://github.com/tombye/trexit/raw/gh-pages/assets/images/rioja-vineyards.jpg)
+
+![Tom in vineyards in Rioja](https://github.com/tombye/trexit/raw/gh-pages/assets/images/tom-inbetween-rioja-vines.jpg)
+
+![Country fields on the way to Najera](https://github.com/tombye/trexit/raw/gh-pages/assets/images/fields-on-the-way-to-najera.jpg)
+
+![Ancient stone house outside Najera](https://github.com/tombye/trexit/raw/gh-pages/assets/images/ancient-stone-house-outside-najera.jpg)
 
 ![Church in Tosantos at sunrise](https://github.com/tombye/trexit/raw/gh-pages/assets/images/church-in-tosantos.jpg)
 
