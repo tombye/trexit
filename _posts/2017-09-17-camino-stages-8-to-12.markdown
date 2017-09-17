@@ -51,7 +51,7 @@ We've been to lots of places with rivers so we've been able to take our shoes an
 
 ## Food tips
 
-We also had the good sense to befriend Leisa and Steve, a couple from [Delaware](https://youtu.be/TK_FiRm6ZK8) who we met early on in the Camino. They're a few stages ahead of us now and they've been emailing us restaurant tips in all the places we're going to next.
+We also had the good sense to befriend Leisa and Steve, an excellent couple from [Delaware](https://youtu.be/TK_FiRm6ZK8) who we met early on in the Camino. They're a few stages ahead of us now and they've been emailing us restaurant tips in all the places we're going to next.
 
 ![Tom gazing in delight at pintxos in Burgos](https://github.com/tombye/trexit/raw/gh-pages/assets/images/tom-staring-at-pintxos-in-burgos.jpg)
 
