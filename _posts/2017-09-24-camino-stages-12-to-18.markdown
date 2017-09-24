@@ -99,6 +99,6 @@ If you go to the Santuario de la Peregrina, a church in the south of Sahagun, yo
 
 Here's Tom's one.
 
-![Tom's certificate saying he made it halfway through the Camino](https://github.com/tombye/trexit/raw/gh-pages/assets/images/tom-halfway-certificate.jpg)
+![Tom's certificate proving he made it halfway through the Camino](https://github.com/tombye/trexit/raw/gh-pages/assets/images/tom-halfway-certificate.jpg)
 
 We think that's a dragon at the top. We're not sure why it's there but we like it.
