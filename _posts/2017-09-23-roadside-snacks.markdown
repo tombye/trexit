@@ -5,7 +5,7 @@ date: 2017-09-23 19:50 +0100
 categories: jekyll update
 ---
 
-Before we started the Camino, we always packed some food before each walk so we wouldn't starve. The emphasis was always on weight rather than nutrition. This meant we ate a lot of trail mix, dried bananas, Pringles and Mentos. 
+Before we started the Camino, we always packed some food before each walk so we wouldn't starve. The emphasis was always on weight rather than nutrition. That meant we ate a lot of trail mix, dried bananas, Pringles and Mentos. 
 
 Since we've started the Camino, lunch is easier because there's normally at least one cafe on the way. More smug-inducingly, there are often snacks we can grab off nearby bushes and trees too. 
 
