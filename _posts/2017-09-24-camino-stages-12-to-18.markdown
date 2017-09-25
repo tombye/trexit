@@ -83,8 +83,6 @@ A few have caved in (sorry) but most were OK and still being used.
 
 ![Door to one of the wine caves](https://github.com/tombye/trexit/raw/gh-pages/assets/images/wine-cave-doorway.jpg)
 
-What a great idea.
-
 ## Halfway
 
 A few days ago, we got to the town of Sahagún, which is the 'geographical halfway point' of the Camino. We think that means halfway as the crow flies rather than kilometres walked.
