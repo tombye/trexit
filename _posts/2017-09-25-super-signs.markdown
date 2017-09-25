@@ -23,7 +23,7 @@ It's really hard to get lost on the [Camino de Santiago](https://en.m.wikipedia.
 
 ![bronze camino shell on the ground with feet and poles](https://github.com/tombye/trexit/raw/gh-pages/assets/images/bronze-camino-sign-on-floor-with-feet-and-poles.jpg)
 
-(![camino sign in stone floor with feet and poles](https://github.com/tombye/trexit/blob/gh-pages/assets/images/Camino-sign-in-stone-floor-and-feet-and-poles.jpg)
+![camino sign in stone floor with feet and poles](https://github.com/tombye/trexit/blob/gh-pages/assets/images/Camino-sign-in-stone-floor-and-feet-and-poles.jpg)
 
 ![yellow arrow sign with silhouette of smoking pilgrim](https://github.com/tombye/trexit/raw/gh-pages/assets/images/yellow-arrow-with-smoking-pilgrim.jpg)
 
