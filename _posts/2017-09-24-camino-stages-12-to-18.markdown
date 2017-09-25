@@ -91,11 +91,11 @@ A few days ago, we got to the town of Sahagun, which is the 'geographical halfwa
 
 It's marked by a kind of arch, just outside town. 
 
-We had some wine on the way with our friend Sheila. 
+We had some wine as we passed halfway with our friend Sheila. 
 
 ![Tom and Sheila toasting the halfway mark](https://github.com/tombye/trexit/raw/gh-pages/assets/images/sheila-and-tom-drinking-to-being-halfway.jpg)
 
-If you go to the Santuario de la Peregrina, a church in the south of Sahagun, you can get an official certificate to prove you made it.
+We also went to the Santuario de la Peregrina, a church in the south of Sahagun, to get an official certificate to prove we made it.
 
 Here's Tom's one.
 
