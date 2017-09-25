@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Camino stages 12 to 18: Burgos to Sahagun"
+title: "Camino stages 12 to 18: Burgos to Sahagún"
 date: 2017-09-24 20:50 +0100
 categories: jekyll update
 ---
@@ -87,7 +87,7 @@ What a great idea.
 
 ## Halfway
 
-A few days ago, we got to the town of Sahagun, which is the 'geographical halfway point' of the Camino. We think that means halfway as the crow flies rather than kilometres walked.
+A few days ago, we got to the town of Sahagún, which is the 'geographical halfway point' of the Camino. We think that means halfway as the crow flies rather than kilometres walked.
 
 It's marked by a kind of arch, just outside town. 
 
@@ -95,7 +95,7 @@ We had some wine as we passed halfway with our friend Sheila.
 
 ![Tom and Sheila toasting the halfway mark](https://github.com/tombye/trexit/raw/gh-pages/assets/images/sheila-and-tom-drinking-to-being-halfway.jpg)
 
-We also went to the Santuario de la Peregrina, a church in the south of Sahagun, to get an official certificate to prove we made it.
+We also went to the Santuario de la Peregrina, a church in the south of Sahagún, to get an official certificate to prove we made it.
 
 Here's Tom's one.
 
