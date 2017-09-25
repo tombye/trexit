@@ -21,7 +21,7 @@ We heard it's great. It's got lots of archaeological finds from nearby [Atapuerc
 
 ### Burgos cathedral
 
-We did manage to visit Burgos cathedral but we were a bit intimidated by all the religious sculptures, gold leaf and rich mahogany.
+We did manage to visit Burgos cathedral but we were a bit intimidated by all the gold leaf and rich mahogany.
 
 There were a lot of things like this:
 
