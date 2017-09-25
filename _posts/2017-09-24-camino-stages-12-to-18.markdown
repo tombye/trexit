@@ -17,7 +17,7 @@ Here's a sculpture just outside it.
 
 ![Sculpture based on the picture of man evolving from a neanderthal featuring the man but holding hands with a young boy while walking through metal arches, each a silhouette of a figure](https://github.com/tombye/trexit/raw/gh-pages/assets/images/sculpture-outside-museum-of-evolution.jpg)
 
-We heard it's great. It's got lots of archaeological finds from nearby [Atapuerca](http://whc.unesco.org/en/list/989).
+We heard that the museum's great. It's got lots of archaeological finds from nearby [Atapuerca](http://whc.unesco.org/en/list/989).
 
 ### Burgos cathedral
 
