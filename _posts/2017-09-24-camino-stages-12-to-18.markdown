@@ -57,7 +57,7 @@ Here are some pics from one early morning.
 
 ### Dry and flat
 
-The bits of the Meseta we've seen have  mainly been dry and flat farmland. Most of the time, all we saw for miles around were fields and sky. That meant the landscape often looked pretty abstract.
+The bits of the Meseta we've seen have mainly been dry and flat farmland. Most of the time, all we saw for miles around were fields and sky. That meant the landscape often looked pretty abstract.
 
 ![Photo from the Meseta split into two equal sections: deep blue sky and warm yellow field](https://github.com/tombye/trexit/raw/gh-pages/assets/images/meseta-abstract-fallow-field.jpg)
 
