@@ -7,7 +7,7 @@ categories: jekyll update
 
 ## Burgos
 
-Burgos is a brilliant city, north of Madrid. It has a massive museum and an elaborate cathedral. 
+Burgos is a brilliant city with a massive museum and an elaborate cathedral. 
 
 ### The Museum of Human Evolution
 
