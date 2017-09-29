@@ -38,3 +38,5 @@ It's really hard to get lost on the [Camino de Santiago](https://en.m.wikipedia.
 ![cartoon mural saying buen camino pilgrim](https://github.com/tombye/trexit/raw/gh-pages/assets/images/buen-camino-peregrino-pilgrim.jpg)
 
 ![camino sign and tall pile of stones](https://github.com/tombye/trexit/raw/gh-pages/assets/images/camino-sign-and-pile-of-stones.jpg)
+
+![Buen Camino written in stones](https://github.com/tombye/trexit/raw/gh-pages/assets/images/buen-camino-written-in-stones.jpg)
