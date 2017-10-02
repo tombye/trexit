@@ -23,6 +23,8 @@ Here we both are looking extremely pleased not to be walking.
 
 And here's León Cathedral.
 
+![Leon Cathedral from the outside](https://github.com/tombye/trexit/raw/gh-pages/assets/images/leon-cathedral.jpg)
+
 ### León Cathedral
 
 León Cathedral is best known for its stained-glass windows. They're everywhere.
@@ -85,7 +87,7 @@ We didn't have time to go to the museum but Tom had churros for breakfast. He wa
 
 ![Tom eating churros](https://github.com/tombye/trexit/raw/gh-pages/assets/images/tom-eating-churros.jpg)
 
-Here are some other photos of excellent things we saw in Astorga.
+Here are a couple of other excellent things we saw in Astorga.
 
 ![View of the town hall in a square in Astorga](https://github.com/tombye/trexit/raw/gh-pages/assets/images/square-in-astorga.jpg)
 
