@@ -35,7 +35,7 @@ León Cathedral is best known for its stained-glass windows. They're everywhere.
 
 ![Close up of a window from the entrance hall of León cathedral](https://github.com/tombye/trexit/raw/gh-pages/assets/images/leon-cathedral-window-close-up.jpg)
 
-You're encouraged to visit at certain times of the day to see how the difference in light changes your experience. We couldn't be arsed though.
+Apparently, it's good to visit at different times of the day to see how the difference in light changes the experience. We couldn't be arsed though.
 
 Fully rested, our next big stop was Astorga.
 
