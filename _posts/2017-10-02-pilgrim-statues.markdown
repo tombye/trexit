@@ -5,7 +5,7 @@ date: 2017-10-02 21:40 +0100
 categories: jekyll update
 ---
 
-People who walk the Camino de Santiago route are generally called "pilgrims". Apart from Tom and I. We're mainly called "twats". Anyway. We've seen a lot of statues of pilgrims so far. Here they are.
+People who walk the Camino de Santiago are generally called "pilgrims". Apart from Tom and me. We're mainly called "twats". Anyway. We've seen a lot of statues of pilgrims so far. Here they are.
 
 ![Pilgrim statue in Fromista](https://github.com/tombye/trexit/raw/gh-pages/assets/images/pilgrim-statue-in-fromista.jpg)
 
