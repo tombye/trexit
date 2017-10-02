@@ -137,7 +137,7 @@ It may be 31 degrees out but Autumn is definitely on its way. Weird.
 
 Here our some other things we've seen.
 
-![Orange building with a single tree in front of it on the Camino path](https://github.com/tombye/trexit/raw/gh-pages/assets/images/)
+![Orange building with a single tree in front of it on the Camino path](https://github.com/tombye/trexit/raw/gh-pages/assets/images/tree-in-front-of-orange-building.jpg)
 
 ![Tree sitting in the middle of a Camino path split into two](https://github.com/tombye/trexit/raw/gh-pages/assets/images/camino-path-with-tree-in-the-middle.jpg)
 
@@ -148,3 +148,5 @@ Here our some other things we've seen.
 ![Orange dusty path below a blue sky](https://github.com/tombye/trexit/raw/gh-pages/assets/images/dusty-orange-track-and-blue-sky.jpg)
 
 ![Stone house with blue windows and doors](https://github.com/tombye/trexit/raw/gh-pages/assets/images/stone-house-with-blue-doors-and-windows.jpg)
+
+![Village house with yellow beaded curtain ](https://github.com/tombye/trexit/raw/gh-pages/assets/images/ village-house-with-yellow-beaded-curtain.jpg)
