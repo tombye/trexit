@@ -149,4 +149,4 @@ Here our some other things we've seen.
 
 ![Stone house with blue windows and doors](https://github.com/tombye/trexit/raw/gh-pages/assets/images/stone-house-with-blue-doors-and-windows.jpg)
 
-![Village house with yellow beaded curtain ](https://github.com/tombye/trexit/raw/gh-pages/assets/images/ village-house-with-yellow-beaded-curtain.jpg)
+![Village house with yellow beaded curtain](https://github.com/tombye/trexit/raw/gh-pages/assets/images/village-house-with-yellow-beaded-curtain.jpg)
