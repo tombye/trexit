@@ -103,7 +103,7 @@ One of the best known parts of the Camino de Santiago is the iron cross. Here's 
 
 The iron cross is mounted on a wooden pole at the top of a mountain between Foncebadón and Manjarin.
 
-At its foot is a pile of stones. Pilgrims are meant to bring a stone from their home town and leave it at the cross as a symbol of any burdens they feel they've been carrying that they want to leave behind.
+There's a pile of stones at the bottom of the pole. Pilgrims are meant to bring a stone from their home town and leave it at the cross as a symbol of any burdens they feel they've been carrying that they want to leave behind.
 
 Whatever our thoughts on the cross, it was hard not to be moved by what the different stones meant to so many different people. Well, it was hard until a dude with a drone turned up.
 
