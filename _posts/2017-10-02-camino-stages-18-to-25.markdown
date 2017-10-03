@@ -43,7 +43,7 @@ Fully rested, our next big stop was Astorga.
 
 Astorga is another beautiful city which, like León, would be a great place to visit outside the Camino.
 
-Its claims to fame are its cathedral, the Episcopal Palace and its chocolate.
+Its claims to fame are its palace, cathedral and chocolate.
 
 ### The Episcopal Palace
 
