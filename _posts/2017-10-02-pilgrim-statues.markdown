@@ -32,6 +32,8 @@ People who walk the Camino de Santiago are generally called "pilgrims". Apart fr
 
 ![Pilgrim statue in Villafranca del bierzo](https://github.com/tombye/trexit/raw/gh-pages/assets/images/pilgrim-statue-in-villafranca-del-bierzo.jpg)
 
+![Pilgrim statue at alto San roque](https://github.com/tombye/trexit/raw/gh-pages/assets/images/pilgrim-statue-at-alto-san-roque.jpg)
+
 And finally...
 
 ![Tom pretending to be a pilgrim statue](https://github.com/tombye/trexit/raw/gh-pages/assets/images/pilgrim-tom.jpg)
