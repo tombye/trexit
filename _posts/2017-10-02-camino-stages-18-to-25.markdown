@@ -83,7 +83,7 @@ Astorga was one of the first places in Europe to produce chocolate. It has a [ch
 
 You can read more about [the history of chocolate in Astorga](http://astorga.co/en/astorga-chocolate/) if you're curious.
 
-We didn't have time to go to the museum but Tom had churros for breakfast. He was very pleased.
+We didn't have time to go to the museum but Tom had churros for breakfast. He was very smug.
 
 ![Tom eating churros](https://github.com/tombye/trexit/raw/gh-pages/assets/images/tom-eating-churros.jpg)
 
@@ -105,7 +105,7 @@ The iron cross is mounted on a wooden pole at the top of a mountain between Fonc
 
 There's a pile of stones at the bottom of the pole. Pilgrims are meant to bring a stone from their home town and leave it at the cross as a symbol of any burdens they feel they've been carrying that they want to leave behind.
 
-Whatever our thoughts on the cross, it was hard not to be moved by what the different stones meant to so many different people. Well, it was hard until a dude with a drone turned up.
+It was hard not to be moved by what the different stones meant to so many different people. Well, it was hard until a dude with a drone turned up.
 
 <video src="https://github.com/tombye/trexit/raw/gh-pages/assets/images/iron-cross-with-drone.mp4" controls height="848" width="480" preload="metadata"><a href="https://github.com/tombye/trexit/raw/gh-pages/assets/images/iron-cross-with-drone.mp4">Download this video of someone flying a drone near the iron cross.</a></video>
 
