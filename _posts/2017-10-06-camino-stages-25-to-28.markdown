@@ -55,7 +55,7 @@ There's a town called Sarria about 100 kilometres away from Santiago so it's a p
 
 For anyone walking the whole thing, Sarria's a reminder of how far they've come and that they're on the last stretch.
 
-Here's one of a few of the town's churches. 
+Here's one of the town's many churches. 
 
 ![A church in Sarria](https://github.com/tombye/trexit/raw/gh-pages/assets/images/church-in-sarria.jpg)
 
