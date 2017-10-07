@@ -31,7 +31,7 @@ We couldn't decide if it was cloud or mist. But whatever it was, it was beautifu
 
 Just after midday, we came within 100 kilometres of Santiago.
 
-We were about 94km away when we realised where we were because all the signs seemed to have had their distance stolen. 
+We were about 99 kilometres away when we realised where we were because all the signs seemed to have had their distance stolen. 
 
 This sign did tell us the distance to Santiago but it also told us to change how we look so we had mixed feelings about it:
 
