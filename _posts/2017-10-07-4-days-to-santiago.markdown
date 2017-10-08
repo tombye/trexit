@@ -37,7 +37,7 @@ There seems to be a lot of pride in having a nice one. We think it's because you
 
 We found a bar in Palas de Rei that does gin and tonics with this Galician gin.
 
-<a href="https://www.ginfestival.com/products/nordes><img src=" https://github.com/tombye/trexit/raw/gh-pages/assets/images/nordes-gin.jpg" alt="Nordes Galician gin" /></a>
+<a href="https://www.ginfestival.com/products/nordes"><img src="https://github.com/tombye/trexit/raw/gh-pages/assets/images/nordes-gin.jpg" alt="Nordes Galician gin" /></a>
 
 They also happen to be the size of a small fishbowl but we didn't let that stop us.
 
