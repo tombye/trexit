@@ -7,7 +7,7 @@ categories: jekyll update
 
 ## Castromaior hill fort
 
-On our way to Palas de Rei, we passed through Castromaior, where we saw the remains of a British hill fort. We got to the fort through a path that briefly breaks off from the Camino and rejoins it later.
+On our way to Palas de Rei, we passed through Castromaior, where we saw the remains of a British hill fort.
 
 There are plans to build a museum around it but at the moment, you can still walk right through it.
 
@@ -23,7 +23,7 @@ We've seen these big stone things everywhere in Galicia.
 
 ![Two corn sheds with wooden sides and doors](https://github.com/tombye/trexit/raw/gh-pages/assets/images/corn-sheds-in-shade.jpg)
 
-We found out farmers use them to dry out their corn after it's been harvested. The corn goes inside and the heat of the day drys it out.
+Farmers use them to dry out their corn after it's been harvested. The corn goes inside and the heat of the day drys it out.
 
 ![Corn shed with the corn inside showing](https://github.com/tombye/trexit/raw/gh-pages/assets/images/corn-shed-with-corn-showing.jpg)
 
@@ -43,7 +43,7 @@ They also happen to be the size of a small fishbowl but we didn't let that stop 
 
 ## Loo dancing
 
-Most of the loos we've used in Spain have lights that go out if they don't detect any movement for a while. 
+Most of the loos we've been to in Spain have lights that go out if they don't detect any movement for a while. 
 
 That means if you do anything more than a 5-second wee, you find yourself in total darkness. The only way out is to dance around on the loo, flailing your arms around until the light comes on. It's very unrelaxing.
 
