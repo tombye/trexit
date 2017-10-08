@@ -45,7 +45,7 @@ They also happen to be the size of a small fishbowl but we didn't let that stop 
 
 Most of the loos we've used in Spain have lights that go out if they don't detect any movement for a while. 
 
-That means if you do anything more than a 5-second wee,  you find yourself in total darkness. The only way out is to dance around on the loo, flailing your arms around until the light comes on. It's very unrelaxing.
+That means if you do anything more than a 5-second wee, you find yourself in total darkness. The only way out is to dance around on the loo, flailing your arms around until the light comes on. It's very unrelaxing.
 
 ## Señoras 
 
