@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "4 days to Santiago: Portomarin to Palas de Rei"
-date: 2017-10-06 11:30 +0100
+date: 2017-10-07 22:30 +0100
 categories: jekyll update
 ---
 
