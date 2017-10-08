@@ -47,7 +47,7 @@ Most of the loos we've used in Spain have lights that go out if they don't detec
 
 That means if you do anything more than a 5-second wee,  you find yourself in total darkness. The only way out is to dance around on the loo, flailing your arms around until the light comes on. It's very unrelaxing.
 
- ## Señoras 
+## Señoras 
 
 In other toilet news, Roz now finds it impossible to go to a toilet marked 'Señoras' without coming back singing the word 'señoras' to the tune of '[Informer](https://m.youtube.com/watch?v=StlMdNcvCJo?t=12s)' by Snow. 
 
