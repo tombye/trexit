@@ -20,7 +20,7 @@ When he realised his mistake, he made an oath to dedicate his life to looking af
 
 We're pretty sure we aren't the only ones finding the lack of any jail term a bit troubling.
 
-Extra bonus fact: he's the patron saint of boatmen, inn-keepers and circus entertainers. Roz says that last one only makes her hate him more.
+Extra bonus fact: he's the patron saint of boatmen, innkeepers and circus entertainers. Roz says that last one only makes her hate him more.
 
 ## Paralympic champion stamps
 
