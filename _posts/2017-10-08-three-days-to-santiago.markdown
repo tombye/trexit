@@ -38,7 +38,7 @@ We've seen a couple of these small houses made of straw.
 
 ![Small straw house in the middle of town](https://github.com/tombye/trexit/raw/gh-pages/assets/images/small-hay-house.jpg)
 
-We're not sure what they're for. Maybe storing corn too. We saw a small gecko in one of them so we've decided they're gecko houses until anyone tells something different.
+We're not sure what they're for. Maybe storing corn too. We saw a small gecko in one of them so we've decided they're gecko houses until anyone tells us something different.
 
 ## Melide
 
