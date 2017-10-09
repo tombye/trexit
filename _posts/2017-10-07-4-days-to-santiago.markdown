@@ -23,15 +23,15 @@ We've seen these big stone things everywhere in Galicia.
 
 ![Two corn sheds with wooden sides and doors](https://github.com/tombye/trexit/raw/gh-pages/assets/images/corn-sheds-in-shade.jpg)
 
-Farmers use them to dry out their corn to be used as animal feed. The corn goes inside and the heat of the day drys it out.
+Farmers use them to dry out their corn for animal feed. The corn goes inside and the heat of the day drys it out.
 
-We also heard that they're used to dry out other crops like wheat and maize and that the height they sit at is to prevent rats eating any.
+We also heard that they're used to dry out other crops, like wheat and maize. And apparently, they're high up so rats can't get to the crops and eat it all.
 
 ![Corn shed with the corn inside showing](https://github.com/tombye/trexit/raw/gh-pages/assets/images/corn-shed-with-corn-showing.jpg)
 
 The frames of the sheds are always made of stone but the sides and doors can be wood or air bricks.
 
-There seems to be a lot of pride in having a nice one. We think it's because you can always see them from the road.
+A lot of people seem to take pride in having a nice one. We think it's because you can always see them from the road.
 
 ![Posh corn shed newly painted](https://github.com/tombye/trexit/raw/gh-pages/assets/images/fancy-corn-shed.jpg)
 
