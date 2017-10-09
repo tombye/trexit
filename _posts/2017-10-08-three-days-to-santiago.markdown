@@ -11,11 +11,10 @@ Our first stop of the day was a town called San Xulian (Saint Julian).
 
 We looked it up and the story of how he became a saint is pretty uncool.
 
-He was out hunting and came back to find people in his bedroom.
+One day, while he was out hunting, his parents came to visit. His wife, being a good daughter-in-law, suggested they stay in the main bedroom.
 
-The people were his parents. They'd come to visit and his wife had given them the bed.
-
-He didn't know this and assumed it was his wife having sex with another man. So, naturally, he took out his sword and killed them both.
+He came home, went into the bedroom and assumed his wife was in
+there having sex with another man. So, naturally, he took out his sword and killed them both.
 
 When he realised his mistake, he made an oath to dedicate his life to looking after pilgrims. After his death, he was made a saint for his work.
 
