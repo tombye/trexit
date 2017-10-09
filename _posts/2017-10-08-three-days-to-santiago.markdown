@@ -40,6 +40,14 @@ We've seen a couple of these small houses made of straw.
 
 We're not sure what they're for. Maybe storing corn too. We saw a small gecko in one of them so we've decided they're gecko houses until anyone tells us something different.
 
+## Beware of the dog signs 
+
+We've seen some excellent 'beware of the dog' signs on a few of our walks. Tom particularly likes the tile showing a man being savaged by a rottweiler.
+
+![Ceramic tile with a picture of a man being attacked by a rottweiler outside a pleasant cottage](https://github.com/tombye/trexit/raw/gh-pages/assets/images/beware-of-the-dog-painted-tile.jpg)
+
+![Black and white sign showing a man being bitten on the bottom by a small dog](https://github.com/tombye/trexit/raw/gh-pages/assets/images/beware-of-the-dog-black-and-white-sign.jpg)
+
 ## Melide
 
 Melide is famous for its many pulpo (octopus) restaurants.
