@@ -1,0 +1,45 @@
+---
+layout: post
+title: "We made it to Santiago"
+date: 2017-10-10 13:00 +0100
+categories: jekyll update
+---
+
+## Santiago
+
+We got to Santiago today. The Camino officially ends in front of Santiago de Compostela Cathedral.
+
+Here we are at the end.
+
+![Roz and Tom outside the Santiago de Compostela cathedral](https://github.com/tombye/trexit/raw/gh-pages/assets/images/roz-and-tom-at-santiago-de-compostela.jpg)
+
+## We've walked a long way 
+
+There are a few different Camino routes, all with different lengths. We did the 'Way of Saint James' from the French town of Saint-Jean-Pied-de-Port, which our certificate says was 799 kilometres.
+
+We'd already walked about 660 kilometres in France, Belgium and Germany so our current total is now about 1,460 kilometres.
+
+## Certificates
+
+At the start of the Camino, you need to get a document called a 'pilgrim passport'. It's stamped along the route to prove you've actually walked the full distance.
+
+![A pilgrim passport, showing some of the stamps inside](https://github.com/tombye/trexit/raw/gh-pages/assets/images/pilgrim-passport-overview.jpg)
+
+When you finish, you present it at the pilgrims' office and, if they believe you, they give you a certificate to prove you completed the walk.
+
+Here are our certificates.
+
+![Roz's certificate of distance covered](https://github.com/tombye/trexit/raw/gh-pages/assets/images/rozs-distance-certificate.jpg)
+
+![Tom's compostela certificate](https://github.com/tombye/trexit/raw/gh-pages/assets/images/toms-compostela-certificate.jpg)
+
+## Walnuts
+
+Tom bought a bag of walnuts in a village a week ago (a bargain at 1 euro).
+
+On the walk in today, we finally found the time and the tools to crack some open.
+
+It turns out Roz is weirdly good at it. And she wasn't at all smug about it either.  Nope. Not at all.
+
+<video src="https://github.com/tombye/trexit/raw/gh-pages/assets/images/roz-cracking-a-walnut.mp4" controls height="" width="" preload="metadata"><a href="https://github.com/tombye/trexit/raw/gh-pages/assets/images/roz-cracking-a-walnut.mp4">Download this video of Roz cracking a walnut.</a></video>
+
