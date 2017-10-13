@@ -19,7 +19,7 @@ Some people were walking to grieve for someone they'd lost. A couple of people w
 
 ### Recovery
 
-Some were walking the Camino after recovering from serious injuries. One woman was covering more distance than anyone else every day. When Tom asked her if she was a professional walker, she said that actually she'd been paralysed from the neck down in a cycling accident just a year before. One of the reasons she was doing the Camino was to prove to herself that she could. 
+Some were walking the Camino after recovering from serious illnesses or injuries. One woman was covering more distance than anyone else every day. When Tom asked her if she was a professional walker, she said that actually she'd been paralysed from the neck down in a cycling accident just a year before. One of the reasons she was doing the Camino was to prove to herself that she could. 
 
 ### Raising awareness
 
