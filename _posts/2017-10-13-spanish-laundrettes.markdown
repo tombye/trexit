@@ -7,7 +7,7 @@ categories: jekyll update
 
 We're leaving Spain soon so I want to talk about one of the best things in it. Laundrettes.
 
-Laundrettes in Spain are fully automatic. I mean they have no staff. Customers set up and run the washing and drying machines themselves.
+Laundrettes in Spain are fully automatic. They don't have any staff. Customers set up and run the washing and drying machines themselves.
 
 It works really well because the whole process has been so well designed.
 
