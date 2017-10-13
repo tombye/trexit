@@ -27,7 +27,7 @@ At the moment, the other 5 per cent of our conversation is about:
 
 Thankfully, we've managed to have slightly more interesting conversations with other people. We've heard some excellent anecdotes. 
 
-We met someone from Queens in New York who said when they were young, they used to go to the same Chinese restaurant all the time and they always had ice cream for pudding. The man that ran the place was very no-nonsense. Every time they asked for ice cream, he would say "42 flavours. 2 left." They were always chocolate and vanilla. 
+We met someone from Queens in New York who said when they were young, they used to go to the same Chinese restaurant all the time and they always had ice cream for pudding. The man that ran the place was very no-nonsense. Every time they asked for ice cream, he would say: "42 flavours. 2 left". They were always chocolate and vanilla. 
 
 And we met someone who grew up in the south of France. She said that during the Second World War, when the Nazis imposed Daylight Savings Time, her grandfather refused to accept it. When she used to ask him what time it was when she was a child, he would always gruffly give a time that was 2 hours behind the 'official' time. She said she didn't understand it then but it all made sense when she grew up. 
 
