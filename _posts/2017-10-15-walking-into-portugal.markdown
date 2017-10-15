@@ -15,7 +15,7 @@ The morning after our rest day, we set off to do our new Camino backwards. Our f
 
 ## A new route
 
-We knew we wanted to get to Porto in about a week and that walking all the stages would take two so we decided to skip the rest of the Spanish bits and do all the Portuguese ones instead. So we got a couple of trains to border town Tui - stopping for lunch at Pontevedra - and after a bit of sightseeing in Tui, got ready to walk our way into Portugal.
+We knew we wanted to get to Porto in about a week and that walking all the stages would take two so we decided to skip the rest of the Spanish bits and do all the Portuguese ones instead. So we got a couple of trains to border town Tui - stopping for lunch at Pontevedra - and after a bit of sightseeing in Tui, we got ready to walk our way into Portugal.
 
 ![Pilgrim chapel in Pontevedra, built with a floor plan the shape of a shell](https://github.com/tombye/trexit/raw/gh-pages/assets/images/pilgrim-chapel-in-pondevedra.jpg)
 
@@ -43,7 +43,7 @@ Spain and Portugal both have clever recycling bins. From the street they look li
 
 ![The magic bins, as seen from the street](https://github.com/tombye/trexit/raw/gh-pages/assets/images/magic-recycling-bins.jpg)
 
-In the ground underneath though, there are much bigger bins. Turns out the ones you see on the street are just openings for those below. We know this because we saw them being emptied but forgot to take a pic. It's kind of like this though:
+In the ground underneath though, there are much bigger bins. It turns out that the ones you see on the street are just openings for bigger bins below. We know this because we saw them being emptied but forgot to take a pic. They're kind of like this though:
 
 ![Magic bins when fully raised up, showing the bigger bins below](https://github.com/tombye/trexit/raw/gh-pages/assets/images/Royston-Street-underground-bins.jpg)
 
@@ -59,7 +59,7 @@ Walking through a pine forest, we saw lots of trees with bags of something attac
 
 ![Close up of the bags of sap resin](https://github.com/tombye/trexit/raw/gh-pages/assets/images/close-up-of-pine-tree-sap-bleeding.jpg)
 
-We're pretty sure it was someone collecting pine sap resin. The resin can be used for loads of things, most notably to make turpentine. More info in this [article on pine tree sap](https://sciencing.com/do-trees-give-off-sap-6536543.html).
+We're pretty sure it was someone collecting pine sap resin. The resin can be used for loads of things, including turpentine. More info in this [article on pine tree sap](https://sciencing.com/do-trees-give-off-sap-6536543.html).
 
 ## The Virgin Mary and the lamppost 
 
@@ -73,4 +73,4 @@ And here's a singing lamppost.
 
 <video src="https://github.com/tombye/trexit/raw/gh-pages/assets/images/musical-lamppost.mp4" controls height="848" width="480" preload="metadata"><a href="https://github.com/tombye/trexit/raw/gh-pages/assets/images/musical-lamppost.mp4">Download this video of a lamppost in Pontevedra de Lima broadcasting music.</a></video>
 
-Who needs Bladerunner? This is the future.
+We really are living in the future.
