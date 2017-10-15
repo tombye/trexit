@@ -15,7 +15,7 @@ The morning after our rest day, we set off to do our new Camino backwards. Our f
 
 ## A new route
 
-We knew we wanted to get to Porto in about a week and that walking all the stages would take two so we decided to skip the rest of the Spanish bits and do all the Portuguese ones instead. So we got a couple of trains to the border town of Tui - stopping for lunch at Pontevedra - and after a bit of sightseeing in Tui, we got ready to walk our way into Portugal.
+We wanted to get to Porto in about a week but walking all the stages takes 2 weeks so we decided to skip the rest of the Spanish bits and do all the Portuguese ones instead. We got a couple of trains to the border town of Tui - stopping for lunch at Pontevedra - and after a bit of sightseeing in Tui, we got ready to walk to Portugal.
 
 ![Pilgrim chapel in Pontevedra, built with a floor plan the shape of a shell](https://github.com/tombye/trexit/raw/gh-pages/assets/images/pilgrim-chapel-in-pondevedra.jpg)
 
@@ -23,11 +23,11 @@ We knew we wanted to get to Porto in about a week and that walking all the stage
 
 ![The miňo river at sunrise, from Tui](https://github.com/tombye/trexit/raw/gh-pages/assets/images/mino-river-from-tui.jpg)
 
+![View from the ramparts of Valença fort, across the river to Tui](https://github.com/tombye/trexit/raw/gh-pages/assets/images/view-from-valenca-fort.jpg)
+
 ## Portugal
 
 Portugal's been great so far. The people have been super-friendly and there's been plenty to see.
-
-![View from the ramparts of Valença fort, across the river to Tui](https://github.com/tombye/trexit/raw/gh-pages/assets/images/view-from-valenca-fort.jpg)
 
 ![Tom on a roman bridge near Rubiaes](https://github.com/tombye/trexit/raw/gh-pages/assets/images/tom-on-roman-bridge.jpg)
 
