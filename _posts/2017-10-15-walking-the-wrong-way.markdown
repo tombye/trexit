@@ -7,9 +7,9 @@ categories: jekyll update
 
 People normally walk the Camino Portuguese towards Santiago.
 
-We're walking it in the opposite direction, because it looked like a nice way to get from Santiago to Porto on foot.
+We're walking it in the opposite direction because it looked like a nice way to get from Santiago to Porto on foot.
 
-Walking it the other way round is harder but still pretty good. We've been doing it for two days now so we've picked up a few tricks.
+Walking it the other way round is harder but still fun. We've been doing it for two days now so we've picked up a few tricks.
 
 ## Blue arrows
 
