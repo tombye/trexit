@@ -23,11 +23,11 @@ We knew we wanted to get to Porto in about a week and that walking all the stage
 
 ![The miňo river at sunrise, from Tui](https://github.com/tombye/trexit/raw/gh-pages/assets/images/mino-river-from-tui.jpg)
 
-![View from the ramparts of Valença fort, across the river to Tui](https://github.com/tombye/trexit/raw/gh-pages/assets/images/view-from-valenca-fort.jpg)
-
 ## Portugal
 
 Portugal's been great so far. The people have been super-friendly and there's been plenty to see.
+
+![View from the ramparts of Valença fort, across the river to Tui](https://github.com/tombye/trexit/raw/gh-pages/assets/images/view-from-valenca-fort.jpg)
 
 ![Tom on a roman bridge near Rubiaes](https://github.com/tombye/trexit/raw/gh-pages/assets/images/tom-on-roman-bridge.jpg)
 
