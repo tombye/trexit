@@ -15,7 +15,7 @@ The morning after our rest day, we set off to do our new Camino backwards. Our f
 
 ## A new route
 
-We wanted to get to Porto in about a week but walking all the stages takes 2 weeks so we decided to skip the rest of the Spanish bits and do all the Portuguese ones instead. We got a couple of trains to the border town of Tui - stopping for lunch at Pontevedra - and after a bit of sightseeing in Tui, we got ready to walk to Portugal.
+We had a week to get to Porto but walking all the stages takes about 2 weeks so we decided to skip the rest of the Spanish bits and do all the Portuguese ones instead. We got a couple of trains to the border town of Tui - stopping for lunch at Pontevedra - and after a bit of sightseeing in Tui, we got ready to walk to Portugal.
 
 ![Pilgrim chapel in Pontevedra, built with a floor plan the shape of a shell](https://github.com/tombye/trexit/raw/gh-pages/assets/images/pilgrim-chapel-in-pondevedra.jpg)
 
