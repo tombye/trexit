@@ -43,7 +43,7 @@ Spain and Portugal both have clever recycling bins. From the street they look li
 
 ![The magic bins, as seen from the street](https://github.com/tombye/trexit/raw/gh-pages/assets/images/magic-recycling-bins.jpg)
 
-In the ground underneath though, there are much bigger bins. It turns out that the ones you see on the street are just openings for bigger bins below. We know this because we saw them being emptied but forgot to take a pic. They're kind of like this though:
+But underground, there are secret, bigger bins. It turns out that the ones you see on the street are just openings for bigger bins below. We know this because we saw them being emptied but forgot to take a pic. They're kind of like this though:
 
 ![Magic bins when fully raised up, showing the bigger bins below](https://github.com/tombye/trexit/raw/gh-pages/assets/images/Royston-Street-underground-bins.jpg)
 
