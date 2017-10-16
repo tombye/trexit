@@ -41,11 +41,11 @@ We've started to plan some time for getting lost into our days and that seems to
 
 ## Pilgrims as markers
 
-Pilgrims walking towards you is one of the best ways to know you're on the right track. A few times when there have been no arrows in sight, a pilgrim appearing out of a side road has saved the day.
+Pilgrims walking towards you is one of the best ways to know you're on the right track. A few times when there've been no arrows in sight, a pilgrim appearing out of a side road has saved the day.
 
 ## Making people confused and cross
 
-Walking the other way can confuse any pilgrims not sure they're going in the right direction. A couple of days ago, a class full of students helpfully shouted at us: "You're walking the wrong way!"
+Walking the other way can confuse any pilgrims who aren't sure that they're going in the right direction. A couple of days ago, a class full of students helpfully shouted at us: "You're walking the wrong way!"
 
 We were thinking about getting t-shirts that say: "Don't worry, we're walking it backwards" in all major European languages. Seems a bit too much like hard work, though.
 
