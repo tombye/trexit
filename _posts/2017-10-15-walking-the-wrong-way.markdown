@@ -39,9 +39,13 @@ With fewer obvious markers, it's easy to get a bit lost. On average, we've gone 
 
 We've started to plan some time for getting lost into our days and that seems to make it less stressful.
 
-## People
+## Pilgrims as markers
 
-Walking the other way can confuse any pilgrims not sure they're going in the right direction. (The title of this post was shouted at us by a teacher walking with his class.)
+Pilgrims walking towards you is one of the best ways to know you're on the right track. A few times when there have been no arrows in sight, a pilgrim appearing out of a side road has saved the day.
+
+## Public relations
+
+Walking the other way can confuse any pilgrims not sure they're going in the right direction. A couple of days ago, a class full of students helpfully shouted at us: "You're walking the wrong way!".)
 
 We were thinking about getting t-shirts that say: "Don't worry, we're walking it backwards" in all major European languages. Until then, we'll keep on with all the explaining and reassuring we've been doing.
 
