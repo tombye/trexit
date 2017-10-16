@@ -43,10 +43,10 @@ We've started to plan some time for getting lost into our days and that seems to
 
 Pilgrims walking towards you is one of the best ways to know you're on the right track. A few times when there have been no arrows in sight, a pilgrim appearing out of a side road has saved the day.
 
-## Public relations
+## Making people confused and cross
 
-Walking the other way can confuse any pilgrims not sure they're going in the right direction. A couple of days ago, a class full of students helpfully shouted at us: "You're walking the wrong way!".)
+Walking the other way can confuse any pilgrims not sure they're going in the right direction. A couple of days ago, a class full of students helpfully shouted at us: "You're walking the wrong way!"
 
-We were thinking about getting t-shirts that say: "Don't worry, we're walking it backwards" in all major European languages. Until then, we'll keep on with all the explaining and reassuring we've been doing.
+We were thinking about getting t-shirts that say: "Don't worry, we're walking it backwards" in all major European languages. Seems a bit too much like hard work, though.
 
 We also bumped into an elderly Spanish lady just outside Santiago who got cross at us for going in the wrong direction. We tried to explain that we'd already walked to Santiago but she wasn't having any of it. She was livid. Clearly not a Trexit reader. We were outraged.
