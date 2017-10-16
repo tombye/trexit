@@ -43,3 +43,5 @@ It turns out Roz is weirdly good at it. And she wasn't at all smug about it eith
 
 <video src="https://github.com/tombye/trexit/raw/gh-pages/assets/images/roz-cracking-a-walnut.mp4" controls height="" width="" preload="metadata"><a href="https://github.com/tombye/trexit/raw/gh-pages/assets/images/roz-cracking-a-walnut.mp4">Download this video of Roz cracking a walnut.</a></video>
 
+Cracking.
+
