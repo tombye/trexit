@@ -15,13 +15,15 @@ It warmed up soon enough, though. Phew.
 
 ## Eucalyptus and oak trees
 
-We walked through forests of eucalyptus and oak trees for a lot of the day.
+We walked through forests of eucalyptus, pine and oak trees for a lot of the day.
 
 They smelt and looked amazing.
 
 ![Tom walking through a forest of eucalyptus and oak trees](https://github.com/tombye/trexit/raw/gh-pages/assets/images/tom-walking-in-eucalyptus-and-oak-forest.jpg)
 
 ![The path through the forest of eucalyptus and oak trees](https://github.com/tombye/trexit/raw/gh-pages/assets/images/path-through-eucalyptus-and-oak-forest.jpg)
+
+Tom said it was like walking past Lush. City kid.
 
 ## Not long now
 
