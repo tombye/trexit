@@ -51,7 +51,7 @@ We didn't just use websites to find out what was going on. We asked at hostels a
 - only the worst stuff made the headlines
 - it was all in Portuguese
 
-That meant we get a lot of our info from scary images rather than nuanced language. Very unrelaxing for cowards like us.
+That meant we got a lot of our info from scary images rather than nuanced language. Very unrelaxing for cowards like us.
 
 ## On the bright side
 
