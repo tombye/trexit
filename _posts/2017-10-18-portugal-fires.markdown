@@ -26,7 +26,7 @@ He also said that it had been so dry this year that the fires were impossible to
 
 ## Websites we've used
 
-We first found out about fires on Sunday when the hashtag #prayforportugal started trending on Twitter. We were a bit alarmed.
+We first found out about the fires on Sunday when the hashtag #prayforportugal started trending on Twitter. We were a bit alarmed.
 
 Then we looked at [Google Maps](http://maps.google.com) and saw an SOS alert for the area we were in:
 
