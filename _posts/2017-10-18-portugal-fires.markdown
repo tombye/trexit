@@ -28,17 +28,19 @@ He also said that it had been so dry this year that the fires were impossible to
 
 We first found out about fires on Sunday when the hashtag #prayforportugal started trending on Twitter. We were a bit alarmed.
 
-Then we looked at [Google Maps](http://maps.google.com) and saw an SOS alert for the area we were in.
+Then we looked at [Google Maps](http://maps.google.com) and saw an SOS alert for the area we were in:
 
 ![Google Maps showing a fire alert for our location](https://github.com/tombye/trexit/raw/gh-pages/assets/images/google-maps-fire-alert.jpg)
 
 Google didn't give us any solutions, though. Only problems. So we went to [GOV.UK](https://www.gov.uk) to see what the [latest Portugal travel advice](https://www.gov.uk/foreign-travel-advice/portugal) was. 
 
-[GOV.UK](https://www.gov.uk) linked to the [Portuguese Met Office website](https://www.ipma.pt/en/). It had a map showing the relative severity of the fires in different areas. (Not ideal if you're colour blind.)
+[GOV.UK](https://www.gov.uk) linked to the [Portuguese Met Office website](https://www.ipma.pt/en/). It had a map showing the relative severity of the fires in different areas:
 
 ![Map of Portugal split into regions, each of which are colour-coded to indicate the fire risk there. The highest risk areas take up all the top half of the map except for a strip of low-risk in the north-west](https://github.com/tombye/trexit/raw/gh-pages/assets/images/map-showing-fire-risk-in-portugal-with-lots.jpg)
 
-[GOV.UK](https://www.gov.uk) also linked to the [Civil Protection Authority website](http://www.prociv.pt/en-us/Pages/default.aspx). It had a map with real-time information about current fires (when it wasn't overloaded with traffic). 
+(Not ideal if you're colour blind.)
+
+[GOV.UK](https://www.gov.uk) also linked to the [Civil Protection Authority website](http://www.prociv.pt/en-us/Pages/default.aspx). It had a map with real-time information about current fires:
 
 ![Map of Portugal on the Civil Protection Authority website, zoomed in to focus on our area. It shows markers for wildfires, bad weather and where there is a mix of the two. There is a wildfire marker north of Porto](https://github.com/tombye/trexit/raw/gh-pages/assets/images/map-of-wildfires-showing-some-near-porto.jpg)
 
