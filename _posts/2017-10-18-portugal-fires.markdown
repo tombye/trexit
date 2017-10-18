@@ -7,7 +7,7 @@ categories: jekyll update
 
 There've been [forest fires all over Portugal this week](http://www.bbc.co.uk/news/world-europe-41634125) so we've been in a constant state of low-level anxiety.
 
-It's obviously [a much bigger deal for people who actually live here](http://www.bbc.co.uk/news/world-europe-41634125).
+It's obviously [a much bigger deal for people who actually live here](https://www.bbc.com/news/amp/world-europe-41648932).
 
 For us, it's meant:
 
