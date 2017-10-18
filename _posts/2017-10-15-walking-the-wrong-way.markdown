@@ -45,7 +45,7 @@ Pilgrims walking towards you is one of the best ways to know you're on the right
 
 ## Making people confused and cross
 
-Walking the other way can confuse any pilgrims who aren't sure that they're going in the right direction. A couple of days ago, a class full of students helpfully shouted at us: "You're walking the wrong way!"
+Walking the other way can confuse any pilgrims who aren't sure that they're going in the right direction. A couple of days ago, a class full of students helpfully shouted at us: ["You're walking the wrong way!"](https://youtu.be/_akwHYMdbsM)
 
 We were thinking about getting t-shirts that say: "Don't worry, we're walking it backwards" in all major European languages. Seems a bit too much like hard work, though.
 
