@@ -17,7 +17,7 @@ Both caminos we've walked have yellow arrows at important points to show the way
 
 ![A yellow arrow showing the way to Santiago](https://github.com/tombye/trexit/raw/gh-pages/assets/images/yellow-arrow.jpg)
 
-The Camino Portuguese has blue arrows in similar places for anyone doing it backwards.
+The Camino Portuguese has blue arrows for anyone doing it backwards.
 
 ![A blue arrow for anyone walking a Camino in the opposite direction]( https://github.com/tombye/trexit/raw/gh-pages/assets/images/blue-arrow.jpg)
 
