@@ -22,7 +22,7 @@ It's the middle of October and at the start of the week it was 33 degrees. Despi
 
 We spoke to the guy running our accommodation a few days ago and he told us how things have been for him. He said this year was the first time in 37 years that his water tank had been empty. 
 
-He also said that it had been so dry this year that the fires were impossible to manage. Sparks from one fire could start another fire 20 kilometres away, which left everyone feeling a bit uneasy. Having said that, we seemed to be the most visibly worried people. Everyone around us was stoically ploughing on. 
+He also said that it had been so dry this year that the fires were impossible to manage. When it was windy, sparks from one fire could start another fire 20 kilometres away, which left everyone feeling a bit uneasy. Having said that, we seemed to be the most visibly worried people. Everyone around us was stoically ploughing on. 
 
 ## Websites we've used
 
