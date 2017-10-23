@@ -45,9 +45,9 @@ It's hard to describe the speed with which we transitioned from knackered to eye
 
 ## Nuts
 
-A couple of days ago Tom got hit on the head by something falling from a tree. It looked a bit like a green fig but it wasn't as heavy. City kids that we are, it took us a few conversations with other people to discover that it was a walnut.
+A couple of days ago Tom got hit on the head by something falling from a tree. It looked a bit like a green fig but it wasn't as heavy. City kids that we are, it took us a few conversations with other people to discover that it was an almond.
 
-We made a few laboured jokes about Tom not knowing a walnut if it hit him on the head and resolved to eat the next one we saw.
+We made a few laboured jokes about Tom not knowing an almond if it hit him on the head and resolved to eat the next one we saw.
 
 Here's Tom cracking his nuts!
 
