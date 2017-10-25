@@ -49,7 +49,7 @@ In Portugal, if there's a surface that can be tiled, it is tiled.
 
 ![A boulder with ceramic tiles on](https://github.com/tombye/trexit/raw/gh-pages/assets/images/boulder-with-tiles.jpg)
 
-They are some excellent mosaics too.
+There are some excellent mosaics too.
 
 ![Mosaic of a fisherman bringing in his catch](https://github.com/tombye/trexit/raw/gh-pages/assets/images/mosaic-fisherman.jpg)
 
