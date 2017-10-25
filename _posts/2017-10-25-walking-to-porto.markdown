@@ -55,7 +55,7 @@ They are some excellent mosaics too.
 
 ## Boardwalk
 
-Our last walk in Portugal was from Vila do Conde to Porto. We took the coastal path, which is almost all a boardwalk that stretches all the way to Porto and beyond.
+Our last walk in Portugal was from Vila do Conde to Porto. We took the coastal path, which is almost all a boardwalk that stretches to Porto and beyond.
 
 ![The boardwalk on the west coast going south to Porto](https://github.com/tombye/trexit/raw/gh-pages/assets/images/portuguese-coastal-path.jpg)
 
