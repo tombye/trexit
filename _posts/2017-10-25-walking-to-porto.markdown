@@ -39,17 +39,17 @@ Except, because this is Portugal, there are a few with lovely tiles.
 
 ![Portuguese church with decorative tiling on the walls instead of plain white](https://github.com/tombye/trexit/raw/gh-pages/assets/images/tiled-portuguese-church.jpg)
 
+![The side of a small church chapel tiled with a repeated pattern of yellow circles](https://github.com/tombye/trexit/raw/gh-pages/assets/images/tiled-church-chapel.jpg)
+
 ## Tiles
 
 In Portugal, if there's a surface that can be tiled, it is tiled.
-
-![The side of a small church chapel tiled with a repeated pattern of yellow circles](https://github.com/tombye/trexit/raw/gh-pages/assets/images/tiled-church-chapel.jpg)
 
 ![The side of a staircase tiled with a repeated blue-to-white gradient pattern](https://github.com/tombye/trexit/raw/gh-pages/assets/images/patterned-tile-staircase.jpg)
 
 ![A boulder with ceramic tiles on](https://github.com/tombye/trexit/raw/gh-pages/assets/images/boulder-with-tiles.jpg)
 
-They also do some excellent mosaics.
+They are some excellent mosaics too.
 
 ![Mosaic of a fisherman bringing in his catch](https://github.com/tombye/trexit/raw/gh-pages/assets/images/mosaic-fisherman.jpg)
 
