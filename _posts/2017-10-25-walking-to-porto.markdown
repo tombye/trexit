@@ -19,7 +19,7 @@ That meant walking was a bit rough on our feet.
 
 On the bright side, at about 11am on most days, we somehow ended up near a 'pasteleria' (cake shop).
 
-That meant we often treated ourselves to a [second breakfast](https://en.m.wikipedia.org/wiki/Second_breakfast) - a concept we've now fully embraced. No trip to Portugal is complete without pasteis de nata so we've been bravely eating them whenever we've seen them.
+That meant we often treated ourselves to a [second breakfast](https://en.m.wikipedia.org/wiki/Second_breakfast) - a concept we've now fully embraced. No trip to Portugal is complete without 'pasteis de nata' (custard tarts) so we've been bravely eating them whenever we've seen them.
 
 ![Pastel de nata, a rich custard tart with flaky pastry outside](https://github.com/tombye/trexit/raw/gh-pages/assets/images/pastel-de-nata.jpg)
 
