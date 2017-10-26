@@ -7,7 +7,7 @@ categories: jekyll update
 
 We went to Valencia to have another small holiday from our holiday. It turned out to be an excellent choice. Valencia is pretty mega.
 
-## River
+## Rerouted river
 
 [In 1957, the River Turia flooded the city](https://en.m.wikipedia.org/wiki/1957_Valencia_flood) and killed over 80 people. After the disaster, the government rerouted the river and replaced it with gardens, walking and cycling paths, and fountains. 
 
