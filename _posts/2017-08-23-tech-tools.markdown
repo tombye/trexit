@@ -50,7 +50,7 @@ There are loads of caveats to all this:
 
 ### Where we get our maps from
 
-In France and Belgium we navigated with paper maps from tourist information and our mapping apps. If we took defined walking routes, it was by following signs when we saw them.
+In France and Belgium, we navigated with paper maps from tourist information and our mapping apps. If we took defined walking routes, it was by following signs when we saw them.
 
 Germany was different. There are several popular walking routes with GPX files freely available from sites like [http://www.schwarzwald-tourismus.info](http://www.schwarzwald-tourismus.info).
 
