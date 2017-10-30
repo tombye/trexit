@@ -11,11 +11,11 @@ A lot of other people we met were walking the Camino for very different reasons.
 
 ### Religion
 
-It's a pilgrimage route so lots of people are obviously walking the Camino for religious reasons. People walk the route to see the shrine of the apostle Saint James the Great at Santiago de Compostela cathedral. 
+It's a pilgrimage route so lots of people obviously walk the Camino for religious reasons. People walk the route to see the shrine of Saint James the Great at Santiago de Compostela cathedral. 
 
 ### Grief
 
-Some people were walking to grieve for someone they'd lost. A couple of people we met carried ashes with them and left them along the way. 
+Some people we met were walking to grieve for someone they'd lost. A couple of people we met carried ashes with them and left them along the way. 
 
 ### Recovery
 
