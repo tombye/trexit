@@ -5,7 +5,7 @@ date: 2017-10-31 21:30 +0100
 categories: jekyll update
 ---
 
-After Valencia, we had a few days back with our friends Fanny and John in [Marseillan](http://trexit.org.uk/jekyll/update/2017/09/03/marseillan.html). While we were there, we decided to send all the things we didn't need any more back to the UK.
+After Valencia, we had a few days back with our friends Fanny and John in [Marseillan](http://trexit.org.uk/jekyll/update/2017/09/03/marseillan.html). While we were there, we decided to send anything we didn't need any more back to the UK.
 
 Tom was so excited, he dressed up just like the parcel.
 
@@ -13,23 +13,23 @@ Tom was so excited, he dressed up just like the parcel.
 
 ## Why Italy
 
-We decided to walk a bit of the [Via Francigena](https://en.m.wikipedia.org/wiki/Via_Francigena) pilgrimage route in Italy next. 
+We decided to walk a bit of the Italian [Via Francigena](https://en.m.wikipedia.org/wiki/Via_Francigena) pilgrimage route next. 
 
 Pilgrimage routes seem to be a great way to see a country and Italy's an amazing country to see. It's also still warmish so the weather should be good for walking.
 
-The Via Francigena is the main route for pilgrims in northern Europe to get to various holy sites in Rome.
+Pilgrims in northern Europe follow the Via Francigena to get to various holy sites in Rome.
 
 We're aiming to walk along the route from Lucca to Rome. It's about 400 kilometres and we reckon we can it do in about 2 to 3 weeks.
 
 ## Getting there
 
-Getting to Lucca by train was lots of fun. At least it was fun for us because John kindly gave us a lift to Sète so we didn't have too many connections on the way.
+Getting to Lucca by train was lots of fun. At least it was fun for us because John kindly gave us a lift to Sète. That meant we didn't have too many connections on the way.
 
 Even with John's help, our journey ended up involving trains to (in this order):
 
 - Marseille
 - Nice (where we stayed overnight)
-- Ventimiglia (on the border with Italy)
+- Ventimiglia (on the border with France)
 - Genoa
 - Viareggio
 - Lucca
