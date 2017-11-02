@@ -34,7 +34,7 @@ Even with John's help, our journey ended up involving trains to (in this order):
 - Viareggio
 - Lucca
 
-Ventimiglia seems to be the station all journeys to Italy go through - at least from the very south of France. There are no border checks. You just switch trains.
+Ventimiglia seems to be the station through which all journeys from the very south of France to Italy go. There aren't any border checks. You just switch trains.
 
 ## Fun facts
 
