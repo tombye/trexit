@@ -23,7 +23,7 @@ We're aiming to walk along the route from Lucca to Rome. It's about 400 kilometr
 
 ## Getting there
 
-Getting to Lucca by train was lots of fun. At least it was fun for us because John kindly gave us a lift to Sête so we didn't have too many connections on the way.
+Getting to Lucca by train was lots of fun. At least it was fun for us because John kindly gave us a lift to Sète so we didn't have too many connections on the way.
 
 Even with John's help, our journey ended up involving trains to (in this order):
 
@@ -40,5 +40,5 @@ Ventimiglia seems to be the station all journeys to Italy go through - at least 
 
 Genoa is where [pesto](https://en.m.wikipedia.org/wiki/Pesto) comes from.
 
-In the early eighties, Monaco (which we passed through on the way to Ventimilla) had more people in its national orchestra than its army. We recently found out [Monaco's army is now bigger than its band](https://www.google.it/amp/s/adisquisitivemind.wordpress.com/2013/06/04/lesson-299-the-monaco-symphony-myth/amp/). Disappointing.
+In the early eighties, Monaco (which we passed through on the way to Ventimiglia) had more people in its national orchestra than its army. We recently found out [Monaco's army is now bigger than its band](https://www.google.it/amp/s/adisquisitivemind.wordpress.com/2013/06/04/lesson-299-the-monaco-symphony-myth/amp/). Disappointing.
 
