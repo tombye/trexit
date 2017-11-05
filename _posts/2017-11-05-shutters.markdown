@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Shutters"
+date: 2017-11-05 19:50 +0100
+categories: jekyll update
+---
+
+Old-school shutters are very popular in mainland Europe. While everyone else clearly loves them, they baffled us for at least the first month and a half of our trip. 
+
+In our defence, we don’t really do shutters in the UK because the weather’s almost always shit.
+
+Anyway, it took a kind cleaner to finally show us how to use them properly.
+
+Opening them was easy enough. See?
+
+<video src="https://github.com/tombye/trexit/raw/gh-pages/assets/images/tom-making-shutters-go-up.mp4" controls height="848" width="480" preload="metadata"><a href="https://github.com/tombye/trexit/raw/gh-pages/assets/images/tom-making-shutters-go-up.mp4">Download this video of Tom opening a shutter.</a></video>
+
+But closing them was less obvious. We got there in the end though. Look how happy Tom is about it.
+
+<video src="https://github.com/tombye/trexit/raw/gh-pages/assets/images/tom-making-shutters-go-down.mp4" controls height="848" width="480" preload="metadata"><a href="https://github.com/tombye/trexit/raw/gh-pages/assets/images/tom-making-shutters-go-down.mp4">Download this video this video of Tom closing a shutter.</a></video>
+
+So, if you’ve been struggling with shutters like us, this blog post could save you from curtain death.
