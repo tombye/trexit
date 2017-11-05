@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cheese? Yes please"
+title: "Cheese? Yes please."
 date: 2017-11-05 21:50 +0100
 categories: jekyll update
 ---
