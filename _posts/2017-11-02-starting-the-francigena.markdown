@@ -79,7 +79,7 @@ They cover all kinds of things from religious stories and local history to short
 
 ## First-aid kits 
 
-The Via Francigena seems to have pretty everything covered.
+The Via Francigena seems to have pretty much everything covered.
 
 We've even seen a few of these first-aid boxes when we've been walking on some of the more remote paths.
 
