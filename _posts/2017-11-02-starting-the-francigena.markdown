@@ -21,7 +21,7 @@ The cathedral gave us an excellent first stamp to start us off.
 
 ### Guidebook
 
-We got [our guidebook](http://libri.terre.it/libri/collana/0/libro/505/Guide-to-the-Via-Francigena---English-edition-(ebook)) from the [Via Francigena entry point museum](http://viafrancigenaentrypoint.eu).
+We got [our guidebook](http://libri.terre.it/libri/collana/0/libro/505/Guide-to-the-Via-Francigena---English-edition-(ebook)) from the [Via Francigena Entry Point Museum](http://viafrancigenaentrypoint.eu).
 
 ![The Via Francigena guidebook](https://github.com/tombye/trexit/raw/gh-pages/assets/images/via-francigena-guidebook.jpg)
 
