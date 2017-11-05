@@ -83,6 +83,6 @@ The Via Francigena seems to have pretty everything covered.
 
 We've even seen a few of these first-aid boxes when we've been walking on some of the more remote paths.
 
-![Box of medical supplies on a post along the side of the walking path](https://github.com/tombye/trexit/raw/gh-pages/assets/images/francigena-first-aid-box.jpg).
+![Box of medical supplies on a post along the side of the walking path](https://github.com/tombye/trexit/raw/gh-pages/assets/images/francigena-first-aid-box.jpg)
 
 So organised!
