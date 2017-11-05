@@ -7,7 +7,7 @@ categories: jekyll update
 
 ## What to get before you start
 
-Before starting the Via Francigena, we decided we needed a pilgrim passport and a guidebook.
+We decided we needed a pilgrim passport and a guidebook before we started the Via Francigena..
 
 ### Pilgrim passports
 
