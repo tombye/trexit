@@ -13,8 +13,6 @@ Our first day walking to Altopascio was super-sunny.
 
 ![Field of some green crops outside Capannori](https://github.com/tombye/trexit/raw/gh-pages/assets/images/field-outside-capannori.jpg)
 
-![San Miniato in the sunshine from across the valley](https://github.com/tombye/trexit/raw/gh-pages/assets/images/san-miniato.jpg)
-
 And we arrived just in time to see the aftermath of Halloween.
 
 ![Town square in Altopascio littered with the remains of pumpkins](https://github.com/tombye/trexit/raw/gh-pages/assets/images/altopascio-halloween-aftermath.jpg)
@@ -24,6 +22,10 @@ The next couple of days were less sunny but we still got to see some good church
 ![Tom on a rainy path to Castelfiorentino](https://github.com/tombye/trexit/raw/gh-pages/assets/images/tom-on-path-to-castelfiorentino.jpg)
 
 ![Typical Tuscan treeline of narrow pines near Castelfiorentino](https://github.com/tombye/trexit/raw/gh-pages/assets/images/treeline-near-castelfiorentino.jpg)
+
+![Church in Fucecchio](https://github.com/tombye/trexit/raw/gh-pages/assets/images/church-in-fucecchio.jpg)
+
+![San Miniato in the sunshine from across the valley](https://github.com/tombye/trexit/raw/gh-pages/assets/images/san-miniato.jpg)
 
 ![Treeline of narrow pines leading to a villa near Castelfiorentino](https://github.com/tombye/trexit/raw/gh-pages/assets/images/treeline-near-san-gimignano.jpg)
 
