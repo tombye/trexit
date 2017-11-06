@@ -7,9 +7,7 @@ categories: jekyll update
 
 There are lots of excellent things about being in Italy. The food, the landscape, the architecture, the art, the people... blah, blah, blah. The best thing, however, is the cheese etiquette in restaurants. 
 
-When you order pasta, you don’t have to ask for cheese. And when the cheese arrives, it isn’t jealously guarded by a waiter who decides how much cheese you should get. 
-
-Here, cheese service has evolved. As soon as you order pasta, the cheese is brought to your table and left there for the rest of your meal. No questions asked. See? 
+When you order pasta, you don’t have to ask for cheese. Here, cheese service has evolved. As soon as you order pasta, the cheese is brought to your table and left there for the rest of your meal. It isn't jealously guarded by a waiter who decides how much cheese you should get. See? 
 
 ![A bowl of parmesan on our dinner table between two glasses of wine](https://github.com/tombye/trexit/raw/gh-pages/assets/images/dinnertime-parmesan-1.jpg)
 
