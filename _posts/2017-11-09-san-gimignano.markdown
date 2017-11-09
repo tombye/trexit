@@ -53,7 +53,7 @@ Almost every road or alleyway is sloped. To help with this, there are clever flo
 
 The vineyards around San Gimignano grow a grape called Vernaccia.
 
-That means San Gimignano has its own (white) wine called 'Vernaccia di San Gimignano'.
+That means San Gimignano has its own white wine called 'Vernaccia di San Gimignano'.
 
 Apparently it's inspired poets and philosophers over the years. Sounds like an elaborate excuse to get pissed to us.
 
