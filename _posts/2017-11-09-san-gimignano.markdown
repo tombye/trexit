@@ -23,7 +23,7 @@ The Francigena used to be a route for trade as much as it was for pilgrims. This
 
 Around the 1200s, there were several wealthy, rival families in the town.
 
-In those days in San Gimignano, the way to show your family was the best was to build a tower. 
+The way to show your family was the best was to build a tower. 
 
 At its peak, there were 72 towers in the town, the tallest of which was 700 metres high. But after a while, the local council said enough was enough and set a limit on how high you could build.
 
