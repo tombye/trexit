@@ -9,11 +9,11 @@ categories: jekyll update
 
 We crossed the border from France to Belgium a couple of days ago while we were walking from Trélon (famous for its glass-making) to Chimay (famous for its Trappist beer).
 
-Trélon glass museum
+Trélon glass museum:
 
 ![trélon glass museum](https://github.com/tombye/trexit/raw/gh-pages/assets/images/trelon-glass-museum.jpg)
 
-Chimay roundabout
+Chimay roundabout:
 
 ![chimay roundabout with beer paraphernalia](https://github.com/tombye/trexit/raw/gh-pages/assets/images/chimay-roundabout-with-beer-paraphernalia.jpg)
 
@@ -30,21 +30,21 @@ In other news, we're now in Nismes and it's delightful. After 2 big walks in a r
 
 There's an excellent park where you can play with kinetic water sculpture things. 
 
-Tom jumping on a water sculpture 
+Tom jumping on a water sculpture: 
 
 <video src="https://github.com/tombye/trexit/raw/gh-pages/assets/images/tom-jumping-on-a-water-sculpture.MOV" controls height="848" width="480" preload="metadata"><a href="https://github.com/tombye/trexit/raw/gh-pages/assets/images/tom-jumping-on-a-water-sculpture.MOV">Download this video</a></video>
 
-Tom swaying on a water sculpture 
+Tom swaying on a water sculpture: 
 
 <video src="https://github.com/tombye/trexit/raw/gh-pages/assets/images/tom-swaying-on-a-water-sculpture.MOV" controls height="480" width="848" preload="metadata"><a href="https://github.com/tombye/trexit/raw/gh-pages/assets/images/tom-swaying-on-a-water-sculpture.MOV">Download this video</a></video>
 
 And the hotel we're staying in is great too. The owner collects everything from tea strainers to toilet roll. 
 
-Tea strainer collection
+Tea strainer collection:
 
 ![hotel tea strainer collection](https://github.com/tombye/trexit/raw/gh-pages/assets/images/nismes-tea-strainer-collection.jpg)
 
-Toilet roll collection
+Toilet roll collection:
 
 ![hotel toilet roll collection](https://github.com/tombye/trexit/raw/gh-pages/assets/images/nismes-toilet-paper-collection.jpg)
 
