@@ -17,7 +17,7 @@ Moving on, it’s olive-picking season at the moment so we’ve learnt a bit abo
 
 ## 1. Lay out a sheet under the trees.
 
-We saw big sheets of netting under the trees to catch the olives.
+We saw big sheets of netting under trees to catch as many olives as possible.
 
 ![Sheets of material covering the ground below the olive trees](https://github.com/tombye/trexit/raw/gh-pages/assets/images/olive-picking-with-catching-nets.jpg)
 
@@ -39,7 +39,7 @@ Clever eh? 
 
 It turns out olive farming is quite a varied activity. If you're interested, why not read these articles we found on the subject:
 
-- [Wikipedia page for olives](https://en.m.wikipedia.org/wiki/Olive)
-- [A collection of articles on olive cultivation by an olive farmer](http://www.mediterraneangardensociety.org/olives.html)
+- [Wikipedia page about olives](https://en.m.wikipedia.org/wiki/Olive)
+- [a collection of articles on olive cultivation by an olive farmer](http://www.mediterraneangardensociety.org/olives.html)
 
 Go on... olive a little!
