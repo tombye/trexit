@@ -23,7 +23,7 @@ We saw big sheets of netting under trees to catch as many olives as possible.
 
 ## 2. Cut off the branches.
 
-The pickers we saw were using a tool called an oliviera. This has tongs which spin around to cut the olives from the tree.
+The pickers we saw were using a tool called an oliviera. It has tongs which spin around to cut the olives from the tree.
 
 ## 3. Separate the olives from the branches.
 
@@ -37,7 +37,7 @@ Clever eh? 
 
 ## And that's not all...
 
-It turns out olive farming is quite a varied activity. If you're interested, why not read these articles we found on the subject:
+It turns out people do olive farming in lots of different ways. If you're interested, why not read these articles we found on the subject:
 
 - [Wikipedia page about olives](https://en.m.wikipedia.org/wiki/Olive)
 - [a collection of articles on olive cultivation by an olive farmer](http://www.mediterraneangardensociety.org/olives.html)
