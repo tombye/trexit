@@ -37,7 +37,7 @@ Clever eh? 
 
 ## And that's not all...
 
-It turns out people do olive farming in lots of different ways. If you're interested, why not read these articles we found on the subject:
+Apparently, people do olive farming in lots of different ways. If you're interested, why not read these articles we found on the subject:
 
 - [Wikipedia page about olives](https://en.m.wikipedia.org/wiki/Olive)
 - [a collection of articles on olive cultivation by an olive farmer](http://www.mediterraneangardensociety.org/olives.html)
