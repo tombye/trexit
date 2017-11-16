@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Olive groves"
+title: "Olive picking"
 date: 2017-11-15 22:45 +0100
 categories: jekyll update
 ---
