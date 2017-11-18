@@ -23,11 +23,9 @@ We saw big sheets of netting under trees to catch as many olives as possible.
 
 ## 2. Cut off the branches.
 
-Some of the pickers we saw were using small motor-powered rakes that cut the olives from the trees. In some of the bigger olive groves, we’ve seen people using more industrial machines. We think this one’s called an oliviera.
+Some of the pickers we saw were using small motor-powered rakes that cut the olives from the trees. In some of the bigger olive groves, we’ve seen people using more industrial machines that shake the olives down. We think this one’s called an oliviera.
 
 <video src="https://github.com/tombye/trexit/raw/gh-pages/assets/images/industrial-oliviera-in-action.mp4" controls height="848" width="480" preload="metadata"><a href="https://github.com/tombye/trexit/raw/gh-pages/assets/images/industrial-oliviera-in-action.mp4">Download this video</a></video>
-
-Hardcore.
 
 ## 3. Separate the olives from the branches.
 
