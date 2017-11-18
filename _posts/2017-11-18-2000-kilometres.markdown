@@ -1,0 +1,53 @@
+---
+layout: post
+title: "2,000 kilometres"
+date: 2017-11-18 23:00 +0100
+categories: jekyll update
+---
+
+As of today, we’ve walked about 2,000 kilometres. To celebrate, we thought we’d try and summarise our trip in numbers. (That’s a bit of a crap celebration so we’ll probably drink some wine later too.)
+
+## 99 walks
+
+Altogether, we’ve been on 99 ‘proper walks’ - that means walking from one night’s accommodation to the next. 
+
+## 20 kilometres a day
+
+Overall, we average about 20 kilometres a day. We started slowly because we were carrying more stuff, like our tent. With lighter bags, we average about 24 kilometres a day. Well done us.
+
+## 32 kilometres in a day
+
+We think the furthest we’ve walked in a day is 32 kilometres. We’ve only been over 30 a few times. Anything more than 25 tends to be a pain in the arse. But our hardest walk was 17 so you never know. It’s all about having:
+
+- regular rest stops (preferably with loos)
+- easy access to snacks
+- interesting stuff to look at
+- not terrible weather 
+
+## 7 countries
+
+We’ve been to 7 countries:
+
+- France
+- Belgium
+- Germany
+- Switzerland
+- Spain
+- Portugal
+- Italy
+
+## 5 broken things 
+
+We’ve broken 5 things:
+
+- Tom’s tooth
+- Roz’s toenail (ewww)
+- Tom’s boots 
+- Roz’s rucksack
+- all of our sporks
+
+## 4 sore feet
+
+We’ve been having the best time but our feet haven’t. This is how they’re celebrating their 2,000th kilometre walked:
+
+![Our feet, propped up against a hotel wall](https://github.com/tombye/trexit/raw/gh-pages/assets/images/our-feet-after-2000-kilometres.jpg)
