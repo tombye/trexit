@@ -42,7 +42,7 @@ We’ve broken 5 things:
 
 - Tom’s tooth
 - Roz’s toenail (ewww)
-- Tom’s boots 
+- [Tom’s boots](http://trexit.org.uk/jekyll/update/2017/07/24/broken-boots.html)
 - Roz’s rucksack
 - all of our sporks
 
