@@ -12,11 +12,9 @@ We stayed for two nights because:
 - it's such a beautiful city
 - Tom needed to see a dentist
 
-Here's what we saw when we arrived.
+Here's what we saw when we arrived:
 
 ![Piazza del Campo square at night with the tower and square lit up against a moody blue night sky](https://github.com/tombye/trexit/raw/gh-pages/assets/images/palazzo-del-pubblico-in-the-moonlight.jpg)
-
-See? Beautiful.
 
 ## Almost mist it
 
