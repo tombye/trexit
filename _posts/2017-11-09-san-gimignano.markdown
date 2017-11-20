@@ -27,7 +27,7 @@ The way to show your family was the best was to build a tower.
 
 At its peak, there were 72 towers in the town, the tallest of which was 700 metres high. But after a while, the local council said enough was enough and set a limit on how high you could build.
 
-Most of the towers are gone now but fourteen are still there.
+Most of the towers are gone now but 14 are still there.
 
 ![The top of towers in piazza della erb, all at different heights](https://github.com/tombye/trexit/raw/gh-pages/assets/images/san-gimignano-top-of-towers.jpg)
 
