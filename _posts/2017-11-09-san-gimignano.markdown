@@ -39,7 +39,7 @@ The people who ran the place we stayed in said lots of buildings had their tops 
 
 San Gimignano is full of alleyways leading to all kinds of wonderful places.
 
-When you turn a corner, you can end up looking at something like this.
+When you turn a corner, you can end up looking at something like this:
 
 ![View across the countryside near town through an arch at the end of an alleyway](https://github.com/tombye/trexit/raw/gh-pages/assets/images/end-of-alleyway-with-view-san-gimignano.jpg)
 
