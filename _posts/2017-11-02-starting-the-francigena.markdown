@@ -71,7 +71,7 @@ And we've seen some signs to other, less local, locations.
 
 ## Local information
 
-One of the nice things about the Francigena are these information boards that we've seen along the way.
+One of the nice things about the Francigena are these information boards that we've seen along the way:
 
 ![Board giving information about the area for that part of the Francigena](https://github.com/tombye/trexit/raw/gh-pages/assets/images/francigena-local-info-board.jpg)
 
