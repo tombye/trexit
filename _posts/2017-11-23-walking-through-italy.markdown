@@ -27,7 +27,7 @@ Walking in Italy has been consistently delightful. We’ve seen something beauti
 
 ## Thermal baths
 
-![Thermal pond in Bagno Vignoni](https://github.com/tombye/trexit/raw/gh-pages/assets/images/bagno-vignoni-thermal-bath)
+![Thermal pond in Bagno Vignoni](https://github.com/tombye/trexit/raw/gh-pages/assets/images/bagno-vignoni-thermal-bath.jpg)
 
 ## Roman roads
 
