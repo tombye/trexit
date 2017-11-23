@@ -41,7 +41,7 @@ Walking in Italy has been consistently delightful. We’ve seen something beauti
 
 ![Mountains seen across the valley next to the path from Radicofani](https://github.com/tombye/trexit/raw/gh-pages/assets/images/mountains-near-radicofani-1.jpg)
 
-![Mountains seen from a different angle, across the valley next to the path from Radicofani](https://github.com/tombye/trexit/raw/gh-pages/assets/images/mountains-near-radicofani-1.jpg)
+![Mountains seen from a different angle, across the valley next to the path from Radicofani](https://github.com/tombye/trexit/raw/gh-pages/assets/images/mountains-near-radicofani-2.jpg)
 
 ## Woods
 
