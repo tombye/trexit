@@ -44,7 +44,7 @@ We loved our time in Rome. Here's what we saw.
 
 ![Tree from a terrace overlooking the gardens in the Vatican](https://github.com/tombye/trexit/raw/gh-pages/assets/images/tree-on-vatican-city-terrace.jpg)
 
-![Ceiling in the Vatican museum made of hundreds of paintings and gold](https://github.com/tombye/trexit/raw/gh-pages/assets/images/tree-on-vatican-city-terrace.jpg)
+![Ceiling in the Vatican museum made of hundreds of paintings and gold](https://github.com/tombye/trexit/raw/gh-pages/assets/images/heavily-decorated-ceiling-in-vatican-museum.jpg)
 
 ![Raphael's 'The school of Athens' fresco from inside the Vatican](https://github.com/tombye/trexit/raw/gh-pages/assets/images/school-of-athens-fresco-by-raphael.jpg)
 
