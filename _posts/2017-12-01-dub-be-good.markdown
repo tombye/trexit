@@ -15,7 +15,7 @@ In countries like France, dubbing has been embraced as a way to preserve the Fre
 
 ## 2. Some film stars have ‘designated voices’.
 
-Famous actors often get dubbed by the same dubbing artist throughout their careers. These dubbing artists are called ‘designated voices’. We watched a film called [Being George Clooney](http://www.imdb.com/title/tt3562572/) about the dubbing artists who dub George Clooney’s voice in films. Each country has a single George Clooney voice actor apart from Germany, which has 2 because Steven Soderbergh shafted the original one when he insisted on auditioning dubbing artists for ‘Oceans 11’ and picked someone new for the job. When the film was released, German audiences were very confused when George Clooney suddenly had a new voice.
+Famous actors often get dubbed by the same dubbing artist throughout their careers. These dubbing artists are called ‘designated voices’. We watched a film called '[Being George Clooney]'(http://www.imdb.com/title/tt3562572/) about the dubbing artists who dub George Clooney’s voice in films. Each country has a single George Clooney voice actor apart from Germany, which has 2 because Steven Soderbergh shafted the original one when he insisted on auditioning dubbing artists for ‘Oceans 11’ and picked someone new for the job. When the film was released, German audiences were very confused when George Clooney suddenly had a new voice.
 
 ## 3. There’s often a way to avoid the dubbing. 
 
