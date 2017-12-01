@@ -11,7 +11,7 @@ We’ve watched TV in each of the 8 countries we’ve been to. That means we’v
 
 In Italy, Mussolini didn’t want people to hear foreign voices. He insisted that subtitles should replace the voices so people could read the dialogue instead of listening to it. Unfortunately, literacy was very low in Italy at the time so not many people could follow what was going on. Instead of addressing the literacy problem, dubbing was brought in to replace the subtitles and it soon became the norm. 
 
-In countries like France, dubbing has been embraced as a way to preserve the French language and ensure that it’s the default for people living in France.
+Like in many other countries, dubbing has been embraced in France to preserve the French language and ensure that it’s the default for people living in France.
 
 ## 2. Some film stars have ‘designated voices’.
 
