@@ -19,7 +19,7 @@ Famous actors often get dubbed by the same dubbing artist throughout their caree
 
 ## There’s often a way to avoid the dubbing
 
-In Spain, there was almost always a button we could press on the remote control to watch the original version in English. In other countries, we had to do a bit more work fiddling around in the TV settings, but we could normally reset at least one programme or film back to English.
+In Spain, there was almost always a button we could press on the remote control to watch the original version in English. In other countries, we had to do a bit more work fiddling around in the TV settings, but we could normally reset at least one programme or film to English.
 
 ## It gets tricky if a country speaks more than one language
 
