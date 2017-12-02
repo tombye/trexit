@@ -35,7 +35,7 @@ It was also the first stadium to have curved seating at the corners so everyone 
 
 ![The Erechthion temple from the Acropolis](https://github.com/tombye/trexit/raw/gh-pages/assets/images/erechthion-temple-in-acropolis.jpg)
 
-![Roof of the Propylaea in the Acropolis](https://github.com/tombye/trexit/raw/gh-pages/assets/images/roof-of-propylaea-in-acropol)
+![Roof of the Propylaea in the Acropolis](https://github.com/tombye/trexit/raw/gh-pages/assets/images/roof-of-propylaea-in-acropol.jpg)
 
 ![View from inside the Propylaea in the Acropolis with the blue sky showing through the gaps](https://github.com/tombye/trexit/raw/gh-pages/assets/images/roof-of-propylaea-in-acropolis-2.jpg)
 
@@ -83,7 +83,7 @@ Whenever we did even the smallest amount of climbing in Athens, we were always r
 
 ![The north-west of Athens as seen from a rocky hill next to the Acropolis](https://github.com/tombye/trexit/raw/gh-pages/assets/images/view-over-athens-from-rock.jpg)
 
-![Panorama of Athens from a rocky hill next to the Acropolis](https://github.com/tombye/trexit/raw/gh-pages/assets/images/athens-panorama.jpg)](https://github.com/tombye/trexit/raw/gh-pages/assets/images/athens-panorama.jpg)
+[![Panorama of Athens from a rocky hill next to the Acropolis](https://github.com/tombye/trexit/raw/gh-pages/assets/images/athens-panorama.jpg)](https://github.com/tombye/trexit/raw/gh-pages/assets/images/athens-panorama.jpg)
 
 ![Tom in front of some graffiti overlooking Athens](https://github.com/tombye/trexit/raw/gh-pages/assets/images/tom-with-fuck-the-police-graffiti-above-athens.jpg)
 
