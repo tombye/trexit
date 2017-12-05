@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Yassas!"
+date: 2017-12-05 20:45 +0100
+categories: jekyll update
+---
+
+We've been in Greece for over a week now and our Greek language skills are coming on a treat. We're at least 60 per cent sure we know how to say 'hello'. We've been going with 'yassas'.
+
+Here's Tom saying 'yassas':
+
+<video src="https://github.com/tombye/trexit/raw/gh-pages/assets/images/tom-saying-yassas.mp4" controls height="848" width="480" preload="metadata"><a href="https://github.com/tombye/trexit/raw/gh-pages/assets/images/tom-saying-yassas.mp4">Download this video of Tom saying Yassas.</a></video>
+
+And here's Roz saying 'yassas':
+
+<video src="https://github.com/tombye/trexit/raw/gh-pages/assets/images/roz-saying-yassas.mp4" controls height="848" width="480" preload="metadata"><a href="https://github.com/tombye/trexit/raw/gh-pages/assets/images/roz-saying-yassas.mp4">Download this video of Roz saying Yassas.</a></video>
+
+Badass.
