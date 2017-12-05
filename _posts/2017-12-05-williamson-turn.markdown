@@ -5,7 +5,7 @@ date: 2017-12-05 21:15 +0100
 categories: jekyll update
 ---
 
-When we were in Andros, we saw these instructions for doing a 'Williamson Turn'.
+When we were in Andros, we saw some instructions for doing a 'Williamson Turn'.
 
 They explain what to do if you're driving a boat and someone falls overboard.
 
