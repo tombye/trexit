@@ -13,4 +13,4 @@ The cutlery is always hidden. Sometimes it's under the bread. Sometimes it's  c
 
 ![Cutlery in a basket previously hidden from view by a napkin but now revealed](https://github.com/tombye/trexit/raw/gh-pages/assets/images/hidden-cutlery-revealed.jpg)
 
-We can't figure out what's so embarrassing about visible cutlery. It's definitely a thing, though. Weird.
+We can't figure out what's so embarrassing about visible cutlery. It's definitely a thing though. Weird.
