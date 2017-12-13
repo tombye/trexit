@@ -102,7 +102,7 @@ We checked mattresses for bed bugs, especially the seams and underneath. We chec
 
 If we ever thought we were staying in a place with bed bugs, we took all our stuff to a laundrette and put it through a hot drying cycle. This is how the backrest of Tom's rucksack ended up bent out of shape:
 
-![The backrest of Tom's rucksack which should be straight but is now curved into an s-bend](https://github.com/tombye/trexit/raw/gh-pages/assets/images/ toms-rucksack-with-bendy-backrest.jpg)
+![The backrest of Tom's rucksack which should be straight but is now curved into an s-bend](https://github.com/tombye/trexit/raw/gh-pages/assets/images/toms-rucksack-with-bendy-backrest.jpg)
 
 And how Roz's second rucksack met a sticky end:
 
