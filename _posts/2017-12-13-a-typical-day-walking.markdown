@@ -60,7 +60,8 @@ The routes we walked in France, Belgium and Germany followed both roads and foot
 
 Roads were less fun but easier to plan around because the distances and routes were pretty clear on our maps. There weren't too many extreme ups and downs but we did spend a lot of time crossing to the other side of the road to make sure we were as visible as possible to oncoming traffic.
 
-We preferred footpaths because they often had interesting landmarks, scenic rest stops, and there was less chance of being run over. They didn't always match our maps, though, and the terrain and elevation could vary a lot. We had to give up on a few paths in France because they became too hazardous.
+We preferred footpaths because they often had interesting landmarks
+and scenic rest stops, and there was less chance of being run over. They didn't always match our maps, though, and the terrain and elevation could vary a lot. We had to give up on a few paths in France because they became too hazardous.
 
 ![Sign warning of hazards on a walking path](https://github.com/tombye/trexit/raw/gh-pages/assets/images/contradictory-sign.jpg)
 
