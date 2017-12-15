@@ -43,7 +43,7 @@ Obvs.
 
 ### Good TV. 
 
-This was a particular problem for Roz who loves TV so much [she uses Trello to keep track of her TV watching](https://trello.com/b/tvYpam18/rozs-tv-planning)
+This was a particular problem for Roz who loves TV so much [she uses Trello to keep track of her TV watching](https://trello.com/b/tvYpam18/rozs-tv-planning).
 
 ### Different clothes. 
 
