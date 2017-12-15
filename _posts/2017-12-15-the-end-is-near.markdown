@@ -21,7 +21,7 @@ We needed 4 pairs of walking socks each. 1 pair of socks wasn’t enough to avoi
 
 ### It doesn’t need to cost that much. 
 
-We made a budget and we came in just under it. Our cheapest day (excluding staying with friends) cost about €26 (€13 each). That includes accommodation and meals.
+We made a budget and we finished just under it. Our cheapest day (excluding staying with friends) cost about €26 (€13 each). That includes accommodation and meals.
 
 ### Plans change. 
 
