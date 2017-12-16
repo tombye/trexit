@@ -47,7 +47,7 @@ This was a particular problem for Roz who loves TV so much [she uses Trello to k
 
 ### Different clothes. 
 
-We’ve been wearing about 3 outfits each for 6 months. It’s surprisingly wearing. ([Sorry](https://youtu.be/fRh_vgS2dFE?t=1m21s)). 
+We’ve been wearing about 3 outfits each for 6 months. It’s surprisingly wearing. ([Sorry](https://youtu.be/fRh_vgS2dFE?t=1m21s).)
 
 ### Home. 
 
