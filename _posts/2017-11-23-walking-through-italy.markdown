@@ -53,4 +53,4 @@ Walking in Italy has been consistently delightful. We’ve seen something beauti
 
 ![Francigena stone marker with picture of a pilgrim walking with various landmarks in the background like st Peters basilica](https://github.com/tombye/trexit/raw/gh-pages/assets/images/stone-francigena-marker-with-st-peters-in-back.jpg)
 
-Everything’s been so pretty, we started to call the Francigena the ‘Fancygena’ instead. Then we stopped because we were annoying ourselves.
+Everything’s been so pretty, we started to call the Francigena the "Fancygena" instead. Then we stopped because we were annoying ourselves.
