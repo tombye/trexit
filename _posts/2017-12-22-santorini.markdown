@@ -31,7 +31,7 @@ The caldera started off as the top of a massive volcano. When the aftermath of t
 
 ![Close up of the cliffside rock on Santorini showing the different coloured layers of rock](https://github.com/tombye/trexit/raw/gh-pages/assets/images/layers-of-rock-santorini.jpg)
 
-There’s another island in the middle of the lagoon but it’s the top of a volcano that appeared later. It was active as recently as 1956, when it last erupted but it’s now dormant enough that there are tours around the crater.
+There’s another island in the middle of the lagoon but it’s the top of a volcano that appeared later. It was active as recently as 1956 when it last erupted but it’s now dormant enough that there are tours around the crater.
 
 You can see other signs of Santorini's origins everywhere you look, particularly on its beaches. They have either red, white or black pebbles or sand depending on the type of lava they're made of.
 
@@ -125,10 +125,10 @@ We loved it so much it was hard to leave. It was only later that we found out th
 
 On our last night in Greece, we read this quote by [Odysseas Elytis](https://en.wikipedia.org/wiki/Odysseas_Elytis) in a restaurant menu:
 
-“If you take Greece apart,
-in the end you will be left with
-an olive tree, a vineyard and a boat...
-which means that in the end with these items,
+“If you take Greece apart,<br />
+in the end you will be left with<br />
+an olive tree, a vineyard and a boat...<br />
+which means that in the end with these items,<br />
 you can rebuild Greece...”
 
 Not that we’re planning on taking Greece apart or anything. It just seemed like a neat quote.
