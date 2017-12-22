@@ -11,7 +11,7 @@ The last stop on our trip was the island of Santorini.
 
 On a few of the other Greek Islands, people told us Santorini was the most beautiful island in Greece.
 
-![View of Oia from the above](https://github.com/tombye/trexit/raw/gh-pages/assets/images/view-of-oia-from-above.jpg)
+![The houses of Oia, viewed from the side, showing the different coloured houses running down the cliff](https://github.com/tombye/trexit/raw/gh-pages/assets/images/oia-from-the-side.jpg)
 
 ![View from a pathway through the houses in Fira](https://github.com/tombye/trexit/raw/gh-pages/assets/images/santorini-from-fira-pathway.jpg)
 
@@ -47,7 +47,7 @@ We stayed in Fira and Oia, which are towns on the inside edge of the caldera. Th
 
 ![The houses of Imerovigli and Fira, viewed from the side, showing them running along the cliff top against a blue sky](https://github.com/tombye/trexit/raw/gh-pages/assets/images/santorini-fira-from-the-side.jpg)
 
-![The houses of Oia, viewed from the side, showing the different coloured houses running down the cliff](https://github.com/tombye/trexit/raw/gh-pages/assets/images/oia-from-the-side.jpg)
+![View of Oia from above](https://github.com/tombye/trexit/raw/gh-pages/assets/images/view-of-oia-from-above.jpg)
 
 There are also lots of small, blue and white churches that almost always have pleasing blue domes.
 
