@@ -45,8 +45,6 @@ They also make a great sound when the tide comes out.
 
 We stayed in Fira and Oia, which are towns on the inside edge of the caldera. The houses there are all built into the cliffs in a mass of (mainly) white [geometric](https://trexit.org.uk/jekyll/update/2017/12/14/geometric-greece.html) shapes.
 
-![The houses of Imerovigli and Fira, viewed from the side, showing them running along the cliff top against a blue sky](https://github.com/tombye/trexit/raw/gh-pages/assets/images/santorini-fira-from-the-side.jpg)
-
 ![View of Oia from above](https://github.com/tombye/trexit/raw/gh-pages/assets/images/view-of-oia-from-above.jpg)
 
 There are also lots of small, blue and white churches that almost always have pleasing blue domes.
