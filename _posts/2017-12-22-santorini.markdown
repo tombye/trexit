@@ -39,7 +39,7 @@ You can see other signs of Santorini's origins everywhere you look, particularly
 
 They also make a great sound when the tide comes out. 
 
-<video src="https://github.com/tombye/trexit/raw/gh-pages/assets/images/noisy-pebbles-on-santorini-beach.mp4" controls height=“720” width=“1280” preload="metadata"><a href="https://github.com/tombye/trexit/raw/gh-pages/assets/images/noisy-pebbles-on-santorini-beach.mp4">Download this video of the tide going in and out on a beach on Santorini.</a></video>
+<video src="https://github.com/tombye/trexit/raw/gh-pages/assets/images/noisy-pebbles-on-santorini-beach.mp4" controls height="720" width="1280" preload="metadata"><a href="https://github.com/tombye/trexit/raw/gh-pages/assets/images/noisy-pebbles-on-santorini-beach.mp4">Download this video of the tide going in and out on a beach on Santorini.</a></video>
 
 ## Cave houses, churches and windmills
 
@@ -81,7 +81,7 @@ Free of tourists, off-season is when the locals of Fira and Oia get most of thei
 
 The houses are built into the cliffs and accessed by passageways and flights of steps. The builders still use donkeys to move all their heavy materials around.
 
-<video src="https://github.com/tombye/trexit/raw/gh-pages/assets/images/santorini-donkeys.mp4" controls height=“480” width="848" preload="metadata"><a href="https://github.com/tombye/trexit/raw/gh-pages/assets/images/santorini-donkeys.mp4">Download this video of donkeys on Santorini.</a></video>
+<video src="https://github.com/tombye/trexit/raw/gh-pages/assets/images/santorini-donkeys.mp4" controls height="480" width="848" preload="metadata"><a href="https://github.com/tombye/trexit/raw/gh-pages/assets/images/santorini-donkeys.mp4">Download this video of donkeys on Santorini.</a></video>
 
 They were everywhere. 
 
