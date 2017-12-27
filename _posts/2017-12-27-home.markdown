@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Home!"
+date:   2017-12-23 20:01 +0100
+categories: jekyll update
+---
+![The lights of Electric Avenue, as seen from the top deck of a bus in Brixton](https://github.com/tombye/trexit/raw/gh-pages/assets/images/brixton-lights.jpg)
