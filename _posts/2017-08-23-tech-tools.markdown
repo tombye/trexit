@@ -74,7 +74,7 @@ The majority of campsites only have one type of plug in their fields: a three-pi
 
 The campsite in Maroilles had two-pin sockets in its fields but we think it's only because they haven't updated things yet.
 
-Not having easy access to power when we we're camping means we always end up asking where we can charge our phones when we arrive. The response is usually one of (in order of fun for us):
+Not having easy access to power when we're camping means we always end up asking where we can charge our phones when we arrive. The response is usually one of (in order of fun for us):
 
 1. "No problem, we'll plug them in here. Just come back in a bit."
 2. "Use the sockets in the washrooms."
