@@ -595,7 +595,7 @@ button:focus {
 .home .page-heading,
 .grouping .page-heading {
   float: left;
-  width: 66%;
+  width: 54%;
   padding: 1em 0;
 }
 
@@ -614,9 +614,9 @@ button:focus {
 
 .other-groupings {
   float: right;
-  width: 33%;
+  width: 44%;
   margin: 0;
-  padding-top: 9.6rem;
+  padding-top: 10rem;
   text-align: right;
   font-size: 1.8rem;
 }
