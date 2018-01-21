@@ -589,13 +589,40 @@ button:focus {
   border-right: none;
 }
 
-/* Site homepage
+/* Site home and grouping pages
    ========================================================================== */
 
-.home h2 {
+.home .page-heading,
+.grouping .page-heading {
+  float: left;
+  width: 66%;
+  padding: 1em 0;
+}
+
+.home h2,
+.grouping h2 {
+  clear: both;
   margin: 0;
   padding: 0;
 }
+
+.home .post-meta,
+.grouping .post-meta {
+  margin: 0;
+  padding: 0;
+}
+
+.other-groupings {
+  float: right;
+  width: 33%;
+  margin: 0;
+  padding-top: 9.6rem;
+  text-align: right;
+  font-size: 1.8rem;
+}
+
+/* Site homepage
+   ========================================================================== */
 
 .post-list {
   border-top: solid 1px #0b0c0c;
@@ -618,11 +645,6 @@ button:focus {
   margin-bottom: 2.4rem;
 }
 
-.home .post-meta {
-  margin: 0;
-  padding: 0;
-}
-
 .post-link {
   font-size: 2.4rem;
   font-weight: 700;
@@ -641,4 +663,13 @@ button:focus {
 .post-content {
   font-size: 1.9rem;
   max-width: 30em;
+}
+
+/* Tag pages
+   ========================================================================== */
+
+.page-heading .grouping-name {
+  font-size: 0.5em;
+  display: block;
+  width: 100%;
 }

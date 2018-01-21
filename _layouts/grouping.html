@@ -1,0 +1,32 @@
+---
+layout: default
+---
+<div class="grouping">
+  <h1 class="page-heading">
+    Posts
+    <span class="grouping-name">by {{ page.grouping_name }}</span>
+  </h1>
+  <p class="other-groupings">
+    {% if page.grouping_name == "country" %}
+      <a href="/"><span class="visuallyhidden">View posts </span>by date</a> | <a href="/trails"><span class="visuallyhidden">View posts </span>by trail</a>
+    {% endif %}
+    {% if page.grouping_name == "trail" %}
+      <a href="/"><span class="visuallyhidden">View posts </span>by date</a> | <a href="/trails"><span class="visuallyhidden">View posts </span>by trail</a>
+    {% endif %}
+  </p>
+  {{ content }}
+  {% for tagName in page.grouping_tags %}
+    <h2>{{ tagName | capitalize }}</h2>
+    <ul class="post-list">
+      {% for post in site.tags[tagName] %}
+      <li>
+        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <a class="post-link" href="{{ post.url | relative_url }}"><span class="visuallyhidden">Name of post: </span>{{ post.title | escape }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+  {% endfor %}
+  <p class="rss-subscribe"><a href="{{ "/feed.xml" | relative_url }}">Subscribe to RSS</a>.</p>
+  <p>Send any feedback to <a href="mailto:trexitfeedback@yandex.com">trexitfeedback@yandex.com</a>.</p>
+</div>

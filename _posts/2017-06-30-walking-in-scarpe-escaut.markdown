@@ -3,6 +3,7 @@ layout: post
 title: "Walking in Scarpe-Escaut"
 date: 2017-06-30 23:09 +0100
 categories: jekyll update
+tags: france
 ---
 Over the last few days we've been walking through the Scarpe-Escaut national park.
 
