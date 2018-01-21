@@ -3,11 +3,15 @@ layout: post
 title: "Walking into Portugal"
 date: 2017-10-15 21:30 +0100
 categories: jekyll update
+tags:
+- Spain
+- Portugal
+- "Camino Portugués"
 ---
 
 After reaching Santiago, we decided we wanted to walk to Porto in Portugal next.
 
-Porto's one of the stops on the Camino Portuguese, which also ends in Santiago so there wasn't much need for elaborate route planning.
+Porto's one of the stops on the Camino Portugués, which also ends in Santiago so there wasn't much need for elaborate route planning.
 
 The morning after our rest day, we set off to do our new Camino backwards. Our first stage was a 26-kilometre walk to Padron - the home of Padron peppers. Yum.
 

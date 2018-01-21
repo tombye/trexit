@@ -3,6 +3,9 @@ layout: post
 title: "First stage of the Camino"
 date: 2017-09-05 21:00 +0100
 categories: jekyll update
+tags:
+- Spain
+- "Camino de Santiago"
 ---
 
 We started walking the Camino de Santiago yesterday. We walked over the Pyrenees from Saint-Jean-Pied-de-Port in France to Roncesvalles in Spain. 

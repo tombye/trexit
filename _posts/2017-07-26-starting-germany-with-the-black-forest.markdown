@@ -3,6 +3,7 @@ layout: post
 title: "Starting Germany with the Black Forest"
 date: 2017-07-26 22:21 +0100
 categories: jekyll update
+tags: Germany
 ---
 
 We arrived in Germany yesterday after getting a train to Baden Baden (so good they named it twice) from Strasbourg.

@@ -3,6 +3,9 @@ layout: post
 title: "Camino stages 25 to 28: Cacabelos to Sarria"
 date: 2017-10-06 08:30 +0100
 categories: jekyll update
+tags:
+- Spain
+- "Camino de Santiago"
 ---
 
 Since our last post, we've climbed and descended another mountain, crossed into Galicia and visited a monastery.

@@ -3,6 +3,9 @@ layout: post
 title: "Camino stages 12 to 18: Burgos to Sahagún"
 date: 2017-09-24 20:50 +0100
 categories: jekyll update
+tags:
+- Spain
+- "Camino de Santiago"
 ---
 
 ## Burgos

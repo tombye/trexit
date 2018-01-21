@@ -3,6 +3,7 @@ layout: post
 title: Thunder tent
 date:   2017-08-16 06:01 +0100
 categories: jekyll update
+tags: Switzerland
 ---
 
 Last night we survived our first proper thunderstorm in the tent. 

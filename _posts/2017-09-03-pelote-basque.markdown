@@ -3,6 +3,7 @@ layout: post
 title: "Pelote Basque"
 date: 2017-09-03 21:55 +0100
 categories: jekyll update
+tags: France
 ---
 Wandering the streets of Saint-Jean-Pied-de-Port, we saw a poster advertising a match of Pelote Basque.
 

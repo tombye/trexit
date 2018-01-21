@@ -3,6 +3,7 @@ layout: post
 title: Brussels
 date:   2017-07-24 18:01 +0100
 categories: jekyll update
+tags: Belgium
 ---
 
 After around 3 weeks of walking about 350 kilometres, we decided it was time to take a holiday from our holiday so we went to see friends in Brussels for the weekend.

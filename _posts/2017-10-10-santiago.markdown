@@ -3,6 +3,9 @@ layout: post
 title: "We made it to Santiago"
 date: 2017-10-10 13:00 +0100
 categories: jekyll update
+tags:
+- Spain
+- "Camino de Santiago"
 ---
 
 ## Santiago

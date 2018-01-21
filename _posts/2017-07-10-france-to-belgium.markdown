@@ -3,7 +3,7 @@ layout: post
 title:  "France to Belgium"
 date:   2017-07-10 11:01 +0100
 categories: jekyll update
-tags: france belgium
+tags: France Belgium
 ---
 
 ## Trélon to Chimay

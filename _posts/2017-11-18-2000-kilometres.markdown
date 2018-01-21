@@ -3,6 +3,9 @@ layout: post
 title: "2,000 kilometres"
 date: 2017-11-18 23:00 +0100
 categories: jekyll update
+tags:
+- Italy
+- "Via Francigena"
 ---
 
 As of today, we’ve walked about 2,000 kilometres. To celebrate, we thought we’d try and summarise our trip in numbers. (That’s a bit of a crap celebration so we’ll probably drink some wine later too.)

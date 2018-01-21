@@ -61,7 +61,7 @@ Its pages are a pain in the arse to load on 3G but the content is great.
 ### Culture trip
 [https://culturetrip.com](https://culturetrip.com)
 
-The culture trip website has good articles on places of interest around the world. The ones on [the Belgium Ardennes](https://theculturetrip.com/europe/belgium/articles/the-top-3-hikes-in-the-belgian-ardennes/) and [hiking in the Black Forest](https://theculturetrip.com/europe/germany/articles/the-10-most-beautiful-spots-in-germanys-black-forest/) were excellent starting points for planning our walking routes.
+The culture trip website has good articles on places of interest around the world. The ones on [the Belgium Ardennes](https://theculturetrip.com/europe/Belgium/articles/the-top-3-hikes-in-the-belgian-ardennes/) and [hiking in the Black Forest](https://theculturetrip.com/europe/Germany/articles/the-10-most-beautiful-spots-in-Germanys-black-forest/) were excellent starting points for planning our walking routes.
 
 ## Accommodation
 

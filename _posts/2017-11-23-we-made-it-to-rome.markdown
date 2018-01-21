@@ -3,6 +3,9 @@ layout: post
 title: "We made it to Rome!"
 date: 2017-11-23 10:45 +0100
 categories: jekyll update
+tags:
+- Italy
+- "Via Francigena"
 ---
 
 We finished the Via Francigena and arrived in Rome two days ago. 

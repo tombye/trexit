@@ -3,6 +3,9 @@ layout: post
 title: "4 days to Santiago: Portomarin to Palas de Rei"
 date: 2017-10-07 22:30 +0100
 categories: jekyll update
+tags:
+- Spain
+- "Camino de Santiago"
 ---
 
 ## Castromaior hill fort

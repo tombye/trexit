@@ -3,7 +3,7 @@ layout: post
 title:  "Maroilles"
 date:   2017-07-03 11:01 +0100
 categories: jekyll update
-tags: france
+tags: France
 ---
 Yesterday we walked around 20 kilometres from Frasnoy to Maroilles in the Avesnois natural regional park.
 

@@ -3,6 +3,9 @@ layout: post
 title: "Pilgrim statues"
 date: 2017-10-02 21:40 +0100
 categories: jekyll update
+tags:
+- Spain
+- "Camino de Santiago"
 ---
 
 People who walk the Camino de Santiago are generally called "pilgrims". Apart from Tom and me. We're mainly called "twats". Anyway. We've seen a lot of statues of pilgrims so far. Here they are.

@@ -3,6 +3,9 @@ layout: post
 title: "Olive picking"
 date: 2017-11-15 22:45 +0100
 categories: jekyll update
+tags:
+- Italy
+- "Via Francigena"
 ---
 
 We’ve seen a lot of olive groves since we’ve been walking in Italy. 

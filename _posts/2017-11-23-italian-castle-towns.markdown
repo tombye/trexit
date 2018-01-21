@@ -3,6 +3,9 @@ layout: post
 title: "Italian castle towns"
 date: 2017-11-23 10:30 +0100
 categories: jekyll update
+tags:
+- Italy
+- "Via Francigena"
 ---
 
 There are a lot of what we've been calling 'castle towns' on the Via Francigena. 

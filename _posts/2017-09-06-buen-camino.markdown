@@ -3,6 +3,9 @@ layout: post
 title: Buen Camino!
 date: 2017-09-06 16:01 +0100
 categories: jekyll update
+tags:
+- Spain
+- "Camino de Santiago"
 ---
 
 We've had "bonjours" and "bonne routes", "hallos" and "viel spaßes". And now we're walking the Camino de Santiago, everyone says "buen Camino".

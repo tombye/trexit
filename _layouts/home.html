@@ -4,10 +4,10 @@ layout: default
 <div class="home">
   <h1 class="page-heading">
     Posts
-    <span class="grouping-name">By date</span>
+    <span class="grouping-name">by date</span>
   </h1>
   <p class="other-groupings">
-    <a href="/countries"><span class="visuallyhidden">View posts </span>by country</a> | <a href="/trails"><span class="visuallyhidden">View posts </span>by trail</a>
+    <a href="/countries"><span class="visuallyhidden">View posts </span>by country</a> | <a href="/routes"><span class="visuallyhidden">View posts </span>by route</a>
   </p>
   {{ content }}
   {% assign postsByMonth = site.posts | group_by_exp:"post", "post.date | date: '%B'" %}

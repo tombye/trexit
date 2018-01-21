@@ -3,6 +3,7 @@ layout: post
 title: "Nice and the Gorges du Verdon"
 date: 2017-08-29 22:01 +0100
 categories: jekyll update
+tags: France
 ---
 
 The next stage of our trip will be walking the [Camino de Santiago](https://en.m.wikipedia.org/wiki/Camino_de_Santiago). But before all that starts, we're taking some time out to visit some friends in the south of France. 
@@ -31,7 +32,7 @@ While we were in the area, we decided to go on a camping trip to the [Gorges du 
 
 ![The top of the Gorges du Verdon, seen from the sublime viewpoint](https://github.com/tombye/trexit/raw/gh-pages/assets/images/sublime-viewpoint-of-gorges-du-verdon.jpg)
 
-And after reading this [article about wild swimming in France](https://www.theguardian.com/travel/gallery/2012/may/04/france-wild-swimming-lakes-rivers), we were determined to swim in the lakes.
+And after reading this [article about wild swimming in France](https://www.theguardian.com/travel/gallery/2012/may/04/France-wild-swimming-lakes-rivers), we were determined to swim in the lakes.
 
 ### Castellane 
 

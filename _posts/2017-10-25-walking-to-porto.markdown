@@ -3,6 +3,9 @@ layout: post
 title: "Walking to Porto"
 date: 2017-10-25 00:30 +0100
 categories: jekyll update
+tags:
+- Portugal
+- "Camino Portugués"
 ---
 
 We really enjoyed walking through Portugal to Porto. We passed through vineyards, forests and some lovely towns and villages.

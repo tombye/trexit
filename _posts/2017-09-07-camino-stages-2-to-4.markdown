@@ -3,6 +3,9 @@ layout: post
 title: "Camino stages 2 to 4: Roncesvalles to Puente la Reina"
 date: 2017-09-07 21:01 +0100
 categories: jekyll update
+tags:
+- Spain
+- "Camino de Santiago"
 ---
 
 We're a few more days into the Camino now and we've just finished stage 4.

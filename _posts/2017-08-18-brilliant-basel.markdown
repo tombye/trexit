@@ -3,13 +3,14 @@ layout: post
 title: "Brilliant Basel"
 date: 2017-08-18 14:01 +0100
 categories: jekyll update
+tags: Switzerland
 ---
 
 It's totally inaccurate (because it's a Swiss city) but Basel was kind of like our last stop in Germany. 
 
 In our defence, it's complicated. Walking down the Rhine into Basel, we crossed from Germany into Switzerland with France just 100 metres away on the opposite bank.
 
-![Sign in front of a footbridge across the Rhine explaining that by crossing it you enter France](https://github.com/tombye/trexit/raw/gh-pages/assets/images/sign-on-rhine-bridge-saying-france-100-metres.jpg)
+![Sign in front of a footbridge across the Rhine explaining that by crossing it you enter France](https://github.com/tombye/trexit/raw/gh-pages/assets/images/sign-on-rhine-bridge-saying-France-100-metres.jpg)
 
 Anyway, we quite took to Basel. It's very pretty, everything works well and it has its own unique character.
 

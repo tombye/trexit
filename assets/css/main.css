@@ -595,7 +595,7 @@ button:focus {
 .home .page-heading,
 .grouping .page-heading {
   float: left;
-  width: 54%;
+  width: 45%;
   padding: 1em 0;
 }
 
@@ -614,9 +614,9 @@ button:focus {
 
 .other-groupings {
   float: right;
-  width: 44%;
+  width: 55%;
   margin: 0;
-  padding-top: 10rem;
+  padding-top: 8rem;
   text-align: right;
   font-size: 1.8rem;
 }
@@ -625,6 +625,7 @@ button:focus {
    ========================================================================== */
 
 .post-list {
+  clear: both;
   border-top: solid 1px #0b0c0c;
   padding-left: 0;
   margin: 0;
@@ -672,4 +673,14 @@ button:focus {
   font-size: 0.5em;
   display: block;
   width: 100%;
+}
+
+.grouping h2 a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.grouping h2 a:hover,
+.grouping h2 a:focus {
+  text-decoration: underline;
 }

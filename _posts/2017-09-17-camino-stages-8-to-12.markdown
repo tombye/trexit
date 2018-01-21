@@ -3,6 +3,9 @@ layout: post
 title: "Camino stages 8 to 12: Logroño to Burgos"
 date: 2017-09-17 09:50 +0100
 categories: jekyll update
+tags:
+- Spain
+- "Camino de Santiago"
 ---
 
 ## Super-early starts

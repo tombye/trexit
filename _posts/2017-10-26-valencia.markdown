@@ -3,6 +3,8 @@ layout: post
 title: "Valencia"
 date: 2017-10-26 09:50 +0100
 categories: jekyll update
+tags:
+- Spain
 ---
 
 We went to Valencia to have another small holiday from our holiday. It turned out to be an excellent choice. Valencia is pretty mega.

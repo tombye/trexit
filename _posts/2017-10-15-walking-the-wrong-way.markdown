@@ -3,9 +3,12 @@ layout: post
 title: "You're walking the wrong way!"
 date: 2017-10-15 21:45 +0100
 categories: jekyll update
+tags:
+- Portugal
+- "Camino Portugués"
 ---
 
-People normally walk the Camino Portuguese towards Santiago.
+People normally walk the Camino Portugués towards Santiago.
 
 We're walking it in the opposite direction because it looked like a nice way to get from Santiago to Porto on foot.
 
@@ -17,7 +20,7 @@ Both caminos we've walked have yellow arrows at important points to show the way
 
 ![A yellow arrow showing the way to Santiago](https://github.com/tombye/trexit/raw/gh-pages/assets/images/yellow-arrow.jpg)
 
-The Camino Portuguese has blue arrows for anyone doing it backwards.
+The Camino Portugués has blue arrows for anyone doing it backwards.
 
 ![A blue arrow for anyone walking a Camino in the opposite direction]( https://github.com/tombye/trexit/raw/gh-pages/assets/images/blue-arrow.jpg)
 

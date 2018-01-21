@@ -3,6 +3,9 @@ layout: post
 title: "Lucca to San Gimignano"
 date: 2017-11-06 19:30 +0100
 categories: jekyll update
+tags:
+- Italy
+- "Via Francigena"
 ---
 
 We spent the first few days of the Via Francigena walking from Lucca to San Gimignano and it was great. 

@@ -3,6 +3,9 @@ layout: post
 title: "Party pylons"
 date: 2017-09-17 18:30 +0100
 categories: jekyll update
+tags:
+- Spain
+- "Camino de Santiago"
 ---
 
 We saw pylons doing [hip bumps](https://giphy.com/gifs/television-celebs-jimmy-fallon-XpUlDItKy57mo?tc=1) everywhere today.

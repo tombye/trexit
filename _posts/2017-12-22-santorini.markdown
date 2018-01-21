@@ -3,6 +3,7 @@ layout: post
 title: "Santorini"
 date: 2017-12-20 18:00 +0100
 categories: jekyll update
+tags: Greece
 ---
 
 The last stop on our trip was the island of Santorini.
@@ -43,7 +44,7 @@ They also make a great sound when the tide comes out.
 
 ## Cave houses, churches and windmills
 
-We stayed in Fira and Oia, which are towns on the inside edge of the caldera. The houses there are all built into the cliffs in a mass of (mainly) white [geometric](https://trexit.org.uk/jekyll/update/2017/12/14/geometric-greece.html) shapes.
+We stayed in Fira and Oia, which are towns on the inside edge of the caldera. The houses there are all built into the cliffs in a mass of (mainly) white [geometric](https://trexit.org.uk/jekyll/update/2017/12/14/geometric-Greece.html) shapes.
 
 ![View of Oia from above](https://github.com/tombye/trexit/raw/gh-pages/assets/images/view-of-oia-from-above.jpg)
 

@@ -3,6 +3,7 @@ layout: post
 title: Freiburg
 date:   2017-08-09 17:01 +0100
 categories: jekyll update
+tags: Germany
 ---
 
 We'd been aiming for Freiburg from the start of our adventures in the Black Forest so we'd piled a whole load of expectations on it before we got there. Luckily, it was brilliant.

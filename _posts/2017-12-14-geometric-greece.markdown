@@ -3,6 +3,7 @@ layout: post
 title: "Geometric Greece"
 date: 2017-12-14 21:50 +0100
 categories: jekyll update
+tags: Greece
 ---
 
 We’ve seen lots of excellent patterns and shapes since we’ve been in Greece. We think it might have something to do with the fact that Greece has always been so big into Geometry. It even had its own [Geometric period](https://en.m.wikipedia.org/wiki/Geometric_art) between 1100 and 800 BC. 

@@ -3,6 +3,9 @@ layout: post
 title: "2 days to Santiago: Castañeda to Pedrouzo"
 date: 2017-10-09 19:45 +0100
 categories: jekyll update
+tags:
+- Spain
+- "Camino de Santiago"
 ---
 
 ## Cold morning

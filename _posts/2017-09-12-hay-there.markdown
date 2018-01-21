@@ -3,6 +3,9 @@ layout: post
 title: "Hay there"
 date: 2017-09-12 22:10 +0100
 categories: jekyll update
+tags:
+- Spain
+- "Camino de Santiago"
 ---
 
 This post is about [hay](https://youtu.be/moCSndrmBZE?t=54s) bales and what we've learnt about them on the Camino.

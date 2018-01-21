@@ -3,6 +3,9 @@ layout: post
 title: Super signs
 date: 2017-09-25 15:55 +0100
 categories: jekyll update
+tags:
+- Spain
+- "Camino de Santiago"
 ---
 
 It's really hard to get lost on the [Camino de Santiago](https://en.m.wikipedia.org/wiki/Camino_de_Santiago). There are lots of arrows and signs to point you in the right direction. Here are some of our favourites so far. 

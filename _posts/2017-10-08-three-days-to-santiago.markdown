@@ -3,6 +3,9 @@ layout: post
 title: "3 days to Santiago: Palas de Rei to Castañeda"
 date: 2017-10-08 23:00 +0100
 categories: jekyll update
+tags:
+- Spain
+- "Camino de Santiago"
 ---
 
 ## Saint Julian

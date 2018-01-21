@@ -3,6 +3,9 @@ layout: post
 title: "Starting the Via Francigena"
 date: 2017-11-02 19:30 +0100
 categories: jekyll update
+tags:
+- Italy
+- "Via Francigena"
 ---
 
 ## What to get before you start

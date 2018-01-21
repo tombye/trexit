@@ -3,6 +3,10 @@ layout: post
 title: "Next stop: Italy"
 date: 2017-10-31 21:30 +0100
 categories: jekyll update
+tags:
+- France
+- Italy
+- "Via Francigena"
 ---
 
 After Valencia, we had a few days back with our friends Fanny and John in [Marseillan](http://trexit.org.uk/jekyll/update/2017/09/03/marseillan.html). While we were there, we decided to send anything we didn't need anymore back to the UK.

@@ -3,6 +3,9 @@ layout: post
 title: "Lucca"
 date: 2017-11-01 21:30 +0100
 categories: jekyll update
+tags:
+- Italy
+- "Via Francigena"
 ---
 
 In an almost-homage to Susan Vega, we recently stayed in [Lucca (on the second floor)](http://youtu.be/VZt7J0iaUD0?t=26s). Lucca was a delight and we're already planning a return trip.

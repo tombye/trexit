@@ -3,6 +3,9 @@ layout: post
 title: "San Gimignano"
 date: 2017-11-09 18:10 +0100
 categories: jekyll update
+tags:
+- Italy
+- "Via Francigena"
 ---
 
 A few days ago, we found out that there was a big thunderstorm coming so we decided to hold off walking for a day.

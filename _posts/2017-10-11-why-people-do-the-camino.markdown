@@ -3,6 +3,9 @@ layout: post
 title: "Why people walk the Camino"
 date: 2017-10-11 11:00 +0100
 categories: jekyll update
+tags:
+- Spain
+- "Camino de Santiago"
 ---
 
 We walked the Camino de Santiago because it's a beautiful walking route that goes for miles and miles. 

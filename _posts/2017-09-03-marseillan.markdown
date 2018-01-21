@@ -3,6 +3,7 @@ layout: post
 title: "Marseillan"
 date: 2017-09-03 15:40 +0100
 categories: jekyll update
+tags: France
 ---
 
 Our last stop before starting the [Camino de Santiago](https://en.m.wikipedia.org/wiki/Camino_de_Santiago) was Marseillan. We went to see our friends John and Fanny who live there. Here they are.

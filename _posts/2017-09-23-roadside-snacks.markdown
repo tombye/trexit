@@ -3,6 +3,9 @@ layout: post
 title: "Roadside snacks"
 date: 2017-09-23 19:50 +0100
 categories: jekyll update
+tags:
+- Spain
+- "Camino de Santiago"
 ---
 
 Before we started the Camino, we always packed some food before each walk so we wouldn't starve. The emphasis was always on weight rather than nutrition. That meant we ate a lot of trail mix, dried bananas, Pringles and Mentos. 

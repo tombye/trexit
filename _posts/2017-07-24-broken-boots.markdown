@@ -3,6 +3,7 @@ layout: post
 title: "Broken boots"
 date: 2017-07-24 16:31 +0100
 categories: jekyll update
+tags: Belgium
 ---
 
 "What's that on the side of your boot?" said Roz as we waited for a bus in Bouillon.

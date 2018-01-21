@@ -3,6 +3,8 @@ layout: post
 title: "Roaming in Rome"
 date: 2017-11-27 21:30 +0100
 categories: jekyll update
+tags:
+- Italy
 ---
 We loved our time in Rome. Here's what we saw.
 

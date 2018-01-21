@@ -3,6 +3,7 @@ layout: post
 title: From bad to wurst 
 date:   2017-08-08 16:01 +0100
 categories: jekyll update
+tags: Germany
 ---
 
 We reckon we've walked around 180 kilometres in the Black Forest, winding our way down from Baden Baden (spa town and infamous England footballer base) to Triberg (home to Germany's highest waterfall and a whole bunch of cuckoo clocks).

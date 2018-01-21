@@ -3,6 +3,9 @@ layout: post
 title: "Cheese? Yes please."
 date: 2017-11-05 21:50 +0100
 categories: jekyll update
+tags:
+- Italy
+- "Via Francigena"
 ---
 
 There are lots of excellent things about being in Italy. The food, the landscape, the architecture, the art, the people... blah, blah, blah. The best thing, however, is the cheese etiquette in restaurants. 

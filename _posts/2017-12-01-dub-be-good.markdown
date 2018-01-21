@@ -3,6 +3,7 @@ layout: post
 title: "Dub be good to me"
 date: 2017-12-01 19:01 +0100
 categories: jekyll update
+tags: Italy
 ---
 
 We’ve watched TV in all the countries we’ve been to so far. That means we’ve seen a lot of dubbed TV programmes that were originally filmed in English. At first it was really annoying, but now that we’ve learnt a bit about dubbed TV programmes and how to watch them, we’ve decided it’s not so bad.
@@ -23,6 +24,6 @@ In Spain, there was almost always a button we could press on the remote control 
 
 ## It gets tricky if a country speaks more than one language
 
-Apparently when they go to the cinema, [most Swiss people prefer to see the original version of a film](http://www.onebigyodel.com/2011/03/going-to-movies-in-switzerland.html?m=1) rather than the dubbed version. This can cause problems in a multi-lingual country like Switzerland, though. It often means you only see the top half of the film because the bottom half is taken up with both German and French subtitles. Sounds exhausting!
+Apparently when they go to the cinema, [most Swiss people prefer to see the original version of a film](http://www.onebigyodel.com/2011/03/going-to-movies-in-Switzerland.html?m=1) rather than the dubbed version. This can cause problems in a multi-lingual country like Switzerland, though. It often means you only see the top half of the film because the bottom half is taken up with both German and French subtitles. Sounds exhausting!
 
 

@@ -3,6 +3,9 @@ layout: post
 title: "Preparing for the Camino: Basque to basics"
 date: 2017-09-03 15:55 +0100
 categories: jekyll update
+tags:
+- France
+- "Camino de Santiago"
 ---
 
 Our friend Fanny reckons we've done so much walking already, we'll be able to walk the Camino "avec les deux doigts dans le nez" (an excellent french saying). 

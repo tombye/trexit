@@ -3,6 +3,9 @@ layout: post
 title: "Buongiorno!"
 date: 2017-11-11 09:10 +0100
 categories: jekyll update
+tags:
+- Italy
+- "Via Francigena"
 ---
 
 Now we’re in Italy, we say “buongiorno” to everyone we pass on our walks. 

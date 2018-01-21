@@ -3,6 +3,7 @@ layout: post
 title: On the Rhine
 date:   2017-08-15 13:01 +0100
 categories: jekyll update
+tags: Switzerland
 ---
 
 [Roz on the Rhine](https://youtu.be/T1urq4Vb0XM?t=45s)

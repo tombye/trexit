@@ -3,7 +3,7 @@ layout: post
 title: "The River Meuse"
 date: 2017-07-16 10:00 +0100
 categories: jekyll update
-tags: france
+tags: France
 ---
 
 Since our last post, we've been camping 20 yards from a Bastille Day disco, hiking 23 kilometres in 1 day (our longest yet with packs on) and walking alongside the River Meuse.

@@ -3,6 +3,7 @@ layout: post
 title: "The end is near"
 date: 2017-12-15 07:01 +0100
 categories: jekyll update
+tags: Greece
 ---
 
 In a little over 5 months, we’ve walked about 2,200 kilometres in 8 countries.

@@ -3,5 +3,6 @@ layout: post
 title:  "Ready!"
 date:   2017-06-26 17:01 +0100
 categories: jekyll update
+tags: london
 ---
 ![Both our backpacks, packed and ready](https://raw.githubusercontent.com/tombye/trexit/gh-pages/assets/images/packedbags.jpg)

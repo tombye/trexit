@@ -3,6 +3,9 @@ layout: post
 title: "Walking in Italy"
 date: 2017-11-23 18:50 +0100
 categories: jekyll update
+tags:
+- Italy
+- "Via Francigena"
 ---
 
 Walking in Italy has been consistently delightful. We’ve seen something beautiful on every walk we’ve been on. 

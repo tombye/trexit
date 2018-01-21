@@ -3,6 +3,9 @@ layout: post
 title: "Camino stages 18 to 25: Sahagún to Cacabelos"
 date: 2017-10-02 20:00 +0100
 categories: jekyll update
+tags:
+- Spain
+- "Camino de Santiago"
 ---
 
 We've seen the landscape change quite a bit over the last week. Now we've left the [Meseta](http://trexit.org.uk/jekyll/update/2017/09/24/camino-stages-12-to-18.html#the-meseta), we've started to see more green and more hills. We've also seen some beautiful towns and cities. 

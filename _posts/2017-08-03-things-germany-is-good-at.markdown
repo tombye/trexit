@@ -3,6 +3,7 @@ layout: post
 title: Things Germany is very good at
 date:   2017-08-03 20:01 +0100
 categories: jekyll update
+tags: Germany
 ---
 
 Based on our limited experience so far, here are some sweeping generalisations about things Germany is very good at.

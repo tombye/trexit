@@ -3,6 +3,7 @@ layout: post
 title: "Andros"
 date: 2017-12-05 20:30 +0100
 categories: jekyll update
+tags: Greece
 ---
 
 After doing a lot of walking from a to b, we're trying something a bit different now. We're doing circular walks on some of the Greek islands. 

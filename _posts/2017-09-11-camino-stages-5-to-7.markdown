@@ -3,6 +3,9 @@ layout: post
 title: "Camino stages 5 to 7: Puenta la Reina to Logroño"
 date: 2017-09-11 18:31 +0100
 categories: jekyll update
+tags:
+- Spain
+- "Camino de Santiago"
 ---
 
 Over the last 3 days, we've walked just over 70 kilometres from Puenta la Reina to Logroño. Yesterday's walk was 27.8 kilometres, which was our longest so far. We're sore but smug. 

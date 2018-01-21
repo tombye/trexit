@@ -3,6 +3,7 @@ layout: post
 title: "A typical walking day"
 date: 2017-12-13 10:00 +0100
 categories: jekyll update
+tags: Greece
 ---
 
 We've been doing a lot of circular walks since getting to Greece. It's been a bit of a shock to the system because we'd established a proper routine walking from a to b. Here's what a typical walking day involved before we got to Greece. 

@@ -3,6 +3,9 @@ layout: post
 title: "Siena"
 date: 2017-11-15 21:30 +0100
 categories: jekyll update
+tags:
+- Italy
+- "Via Francigena"
 ---
 
 When we got to Siena, we were about halfway through our walk to Rome.

@@ -3,6 +3,9 @@ layout: post
 title: "What we talk about when we're walking"
 date: 2017-10-11 13:00 +0100
 categories: jekyll update
+tags:
+- Spain
+- "Camino de Santiago"
 ---
 
 We talk a lot of shit to pass the time when we're walking. 

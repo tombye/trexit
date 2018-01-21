@@ -3,6 +3,7 @@ layout: post
 title: Barefoot in the park
 date:   2017-08-13 16:01 +0100
 categories: jekyll update
+tags: Germany
 ---
 
 Today we walked from Bad Bellingen (sung to the tune of [Bad Medicine](https://youtu.be/eOUtsybozjg?t=46s)) to Efringen-Kirchen. 

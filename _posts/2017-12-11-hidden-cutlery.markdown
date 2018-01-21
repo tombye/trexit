@@ -3,6 +3,7 @@ layout: post
 title: "Hidden cutlery"
 date: 2017-12-11 16:00 +0100
 categories: jekyll update
+tags: Greece
 ---
 
 We've noticed an odd thing that happens whenever we eat out in Greece.

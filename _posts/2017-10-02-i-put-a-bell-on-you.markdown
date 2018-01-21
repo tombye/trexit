@@ -3,6 +3,9 @@ layout: post
 title: "I put a bell on you..."
 date: 2017-10-02 18:00 +0100
 categories: jekyll update
+tags:
+- Spain
+- "Camino de Santiago"
 ---
 ...[because you're mine](https://youtu.be/PwXai-sgM-s). 
 

@@ -3,6 +3,9 @@ layout: post
 title: "Santo Domingo and the chicken"
 date: 2017-09-15 20:10 +0100
 categories: jekyll update
+tags:
+- Spain
+- "Camino de Santiago"
 ---
 
 A few days ago, we were in a town called Santo Domingo de la Calzada. While we were there, our new friend Mary told us the story of Santo Domingo.

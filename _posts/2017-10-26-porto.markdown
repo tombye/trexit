@@ -3,6 +3,9 @@ layout: post
 title: "Porto"
 date: 2017-10-26 08:05 +0100
 categories: jekyll update
+tags:
+- Portugal
+- "Camino Portugués"
 ---
 
 We were a bit blown away by Porto (also known as Oporto). It's ace. Neither of us had ever been before (although Roz's mum went when she was pregnant with Roz but we don't think that counts).

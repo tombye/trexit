@@ -3,6 +3,7 @@ layout: post
 title: "Athens"
 date: 2017-12-02 12:30 +0100
 categories: jekyll update
+tags: Greece
 ---
 
 A train, a boat, a bus and another train later, we made it from Rome to Athens.
