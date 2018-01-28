@@ -3,6 +3,7 @@ layout: post
 title: Walking with vertigo
 date:   2017-08-25 11:01 +0100
 categories: jekyll update
+tags: "Lessons learned"
 ---
 
 I sometimes say that I'm scared of heights but it's not totally accurate. I don't mind being high up. You get great views and there's normally some good stuff up there, like lakes and waterfalls. What bother me enormously are sheer drops. Sheer drops and narrow paths. 

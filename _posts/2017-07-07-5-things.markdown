@@ -6,6 +6,7 @@ categories: jekyll update
 tags:
 - "France"
 - "Grandes randonnées"
+- "Lessons learned"
 ---
 
 ## Dr Bronner's soap (baby unscented)
