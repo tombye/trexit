@@ -3,7 +3,9 @@ layout: post
 title: "Felleries"
 date: 2017-07-07 21:45 +0100
 categories: jekyll update
-tags: France
+tags:
+- "France"
+- "Grandes randonnées"
 ---
 
 Felleries is a small town in the east of the Avenois national park area.
