@@ -6,5 +6,6 @@ categories: jekyll update
 tags: 
 - "Germany"
 - "Kinzig and Gutach valleys"
+- "Bad jokes"
 ---
 ![Fireman made out of hay for a fireman festival in the town of Gutach. Get it?](https://github.com/tombye/trexit/raw/gh-pages/assets/images/hay-fireman.jpg)
