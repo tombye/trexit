@@ -3,7 +3,10 @@ layout: post
 title: "Bonjour!"
 date: 2017-07-22 07:01 +0100
 categories: jekyll update
-tags: France Belgium
+tags:
+- "France"
+- "Belgium"
+- "Grandes randonnées"
 ---
 
 We've been repeatedly saying "bonjour" in our very advanced french to everyone we pass on our walks - even when we're tired and broken.
