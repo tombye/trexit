@@ -3,7 +3,10 @@ layout: post
 title: "The River Semois"
 date: 2017-07-20 20:34 +0100
 categories: jekyll update
-tags: France Belgium
+tags:
+- "France"
+- "Belgium"
+- "Grandes randonnées"
 ---
 
 We stayed in Bouillon yesterday, the last stop on our travels along the Semois river. We started in Monthermé and followed the river through Les Hautes-Riviéres, Laforêt and Poupehan (I'll just leave that there) before reaching Bouillon. 
