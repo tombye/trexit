@@ -3,7 +3,9 @@ layout: post
 title: "Badenweiler"
 date: 2017-08-12 11:01 +0100
 categories: jekyll update
-tags: Germany
+tags: 
+- "Germany"
+- "Markgräfler wine trail"
 ---
 
 Badenweiler, a little town and health resort, is famous for its Cassiopeia thermal baths. There's been a spa in Badenweiler since the Romans built one in 150AD and you can see its remains in a specially made building next to the baths.
