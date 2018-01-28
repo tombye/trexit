@@ -3,7 +3,8 @@ layout: post
 title: Mentos
 date:   2017-08-25 18:01 +0100
 categories: jekyll update
-tags: "Bad jokes"
+tags: 
+- "Bad jokes"
 ---
 
 We've been eating a lot of Mentos on our walks. We found this one the other day. 
