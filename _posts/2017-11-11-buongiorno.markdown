@@ -4,8 +4,9 @@ title: "Buongiorno!"
 date: 2017-11-11 09:10 +0100
 categories: jekyll update
 tags:
-- Italy
+- "Italy"
 - "Via Francigena"
+- "Language and pronunciation"
 ---
 
 Now we’re in Italy, we say “buongiorno” to everyone we pass on our walks. 
