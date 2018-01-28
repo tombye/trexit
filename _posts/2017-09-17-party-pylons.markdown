@@ -6,6 +6,7 @@ categories: jekyll update
 tags:
 - Spain
 - "Camino de Santiago"
+- "Bad jokes"
 ---
 
 We saw pylons doing [hip bumps](https://giphy.com/gifs/television-celebs-jimmy-fallon-XpUlDItKy57mo?tc=1) everywhere today.
