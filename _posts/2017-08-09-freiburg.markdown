@@ -3,6 +3,7 @@ layout: post
 title: Freiburg
 date:   2017-08-09 17:01 +0100
 categories: jekyll update
+tags: 
 - "Germany"
 - "Markgräfler wine trail"
 ---
