@@ -5,7 +5,7 @@ date: 2017-08-03 20:45 +0100
 categories: jekyll update
 tags:
 - "Germany"
-- "Ortenau wine route"
+- "Ortenau wine trail"
 ---
 
 So far, walking in Germany has involved  puzzling over a lot of doors. We've seen these mysterious equations on a lot of the doors we've passed:
