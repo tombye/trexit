@@ -5,4 +5,5 @@ grouping_tags:
 - "Via Francigena"
 - "Camino Portugués"
 - "Camino de Santiago"
+- "Grandes randonnées"
 ---
