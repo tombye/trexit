@@ -3,7 +3,9 @@ layout: post
 title: "World's biggest"
 date: 2017-08-05 20:30 +0100
 categories: jekyll update
-tags: Germany
+tags: 
+- "Germany"
+- "Kinzig and Gutach valleys"
 ---
 Today, with no planning or vague intention to do so, we saw two of the world's biggest things.
 
