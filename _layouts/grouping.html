@@ -6,12 +6,19 @@ layout: default
     Posts
     <span class="grouping-name">{{ page.prefix }} {{ page.grouping_name }}</span>
   </h1>
-  <p class="other-groupings" role="navigation" aria-labelledby="Collections of posts">
-    {% for grouping in site.groupings %}
-      {% if grouping.id != page.grouping_id %}<a href="/{{ grouping.id }}">{{ grouping.name }}</a> | {% endif %}
-    {% endfor %}
-    <a href="/">date</a>
-  </p>
+  
+  <div class="other-groupings">
+    <details>
+      <summary id="collections-heading">Categories</summary>
+      <ul role="navigation" aria-labelledby="collections-heading">
+        <li><a href="/">All</a></li>
+      {% for grouping in site.groupings %}
+        {% if grouping.id != page.grouping_id %}<li><a href="/{{ grouping.id }}">{{ grouping.name }}</a></li>{% endif %}
+      {% endfor %}
+      </ul>
+    </details>
+  </div>
+
   {{ content }}
   {% for tagName in page.grouping_tags %}
     {% if page.grouping_tags.size > 1 %}

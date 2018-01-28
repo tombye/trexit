@@ -613,12 +613,42 @@ button:focus {
 }
 
 .other-groupings {
-  float: right;
-  width: 55%;
-  margin: 0;
-  padding-top: 8rem;
+  float: left;
+  clear: both;
+  width: 100%;
+  margin-top: -8.2rem;
   text-align: right;
   font-size: 1.8rem;
+}
+
+.other-groupings summary {
+  font-size: inherit;
+  cursor: pointer;
+  float: right;
+  padding: 0.5em;
+  border: solid 1px #333;
+  background: white;
+  position: relative;
+}
+
+.other-groupings details[open] summary {
+  border-bottom: white;
+  margin-bottom: -1px;
+}
+
+.other-groupings ul {
+  clear: both;
+  float: left;
+  width: 100%;
+  padding: 1em 0;
+  margin: 0;
+  border-top: 1px solid #333;
+  list-style: none;
+  text-align: left;
+}
+
+.other-groupings li {
+  padding: 0.5em 0;
 }
 
 /* Site homepage
