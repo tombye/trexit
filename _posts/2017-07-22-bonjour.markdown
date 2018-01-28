@@ -7,6 +7,7 @@ tags:
 - "France"
 - "Belgium"
 - "Grandes randonnées"
+- "Language and pronunciation"
 ---
 
 We've been repeatedly saying "bonjour" in our very advanced french to everyone we pass on our walks - even when we're tired and broken.
