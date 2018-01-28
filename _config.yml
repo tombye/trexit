@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Trexit
 description: |
-  We (Tom and Roz) took 6 months off to walk around Europe before Brexit happens. We decided to Trexit. Get it?
+  We (Tom and Roz) took 6 months off to walk around Europe before Brexit. We decided to Trexit. Get it?
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 google_analytics: "UA-104969389-1"
