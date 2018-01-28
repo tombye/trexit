@@ -6,9 +6,18 @@ layout: default
     Posts
     <span class="grouping-name">by date</span>
   </h1>
-  <p class="other-groupings">
-    <a href="/countries"><span class="visuallyhidden">View posts </span>by country</a> | <a href="/routes"><span class="visuallyhidden">View posts </span>by route</a>
-  </p>
+
+  <div class="other-groupings">
+    <details>
+      <summary id="collections-heading">Categories</summary>
+      <ul role="navigation" aria-labelledby="collections-heading">
+      {% for grouping in site.groupings %}
+        <li><a href="/{{ grouping.id }}">{{ grouping.name }}</a></li>
+      {% endfor %}
+      </ul>
+    </details>
+  </div>
+
   {{ content }}
   {% assign postsByMonth = site.posts | group_by_exp:"post", "post.date | date: '%B'" %}
   {% for month in postsByMonth %}

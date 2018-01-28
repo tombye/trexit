@@ -4,19 +4,26 @@ layout: default
 <div class="grouping">
   <h1 class="page-heading">
     Posts
-    <span class="grouping-name">by {{ page.grouping_name }}</span>
+    <span class="grouping-name">{{ page.prefix }} {{ page.grouping_name }}</span>
   </h1>
-  <p class="other-groupings">
-    {% if page.grouping_name == "country" %}
-      <a href="/"><span class="visuallyhidden">View posts </span>by date</a> | <a href="/routes"><span class="visuallyhidden">View posts </span>by route</a>
-    {% endif %}
-    {% if page.grouping_name == "route" %}
-      <a href="/"><span class="visuallyhidden">View posts </span>by date</a> | <a href="/countries"><span class="visuallyhidden">View posts </span>by country</a>
-    {% endif %}
-  </p>
+  
+  <div class="other-groupings">
+    <details>
+      <summary id="collections-heading">Categories</summary>
+      <ul role="navigation" aria-labelledby="collections-heading">
+        <li><a href="/">All</a></li>
+      {% for grouping in site.groupings %}
+        {% if grouping.id != page.grouping_id %}<li><a href="/{{ grouping.id }}">{{ grouping.name }}</a></li>{% endif %}
+      {% endfor %}
+      </ul>
+    </details>
+  </div>
+
   {{ content }}
   {% for tagName in page.grouping_tags %}
+    {% if page.grouping_tags.size > 1 %}
     <h2>{{ tagName }}</h2>
+    {% endif %}
     <ul class="post-list">
       {% for post in site.tags[tagName] %}
       <li>

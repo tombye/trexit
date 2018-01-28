@@ -19,6 +19,17 @@ description: |
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 google_analytics: "UA-104969389-1"
+groupings:
+- id: bad-jokes
+  name: "Bad jokes"
+- id: countries
+  name: "Countries"
+- id: language-and-pronunciation
+  name: "Language and pronunciation"
+- id: lessons-learned
+  name: "Lessons we learned"
+- id: routes
+  name: "Walking routes"
 
 # Build settings
 markdown: kramdown
