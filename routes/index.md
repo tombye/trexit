@@ -1,6 +1,8 @@
 ---
 layout: grouping 
-grouping_name: route
+grouping_id: routes
+prefix: "by"
+grouping_name: "walking route"
 grouping_tags:
 - "Via Francigena"
 - "Camino Portugués"
