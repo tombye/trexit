@@ -6,6 +6,7 @@ categories: jekyll update
 tags:
 - "France"
 - "Grandes randonnées"
+- "Bad jokes"
 ---
 
 This is for the trees.
