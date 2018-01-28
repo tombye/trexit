@@ -660,7 +660,6 @@ button:focus {
   padding-left: 0;
   margin: 0;
   list-style: none;
-  font-size: 100%;
 }
 
 .post-list li {
@@ -669,14 +668,14 @@ button:focus {
 }
 
 .post-meta {
-  font-size: 1.6rem;
+  font-size: 1em;
   display: block;
   margin: 1rem 0;
   margin-bottom: 2.4rem;
 }
 
 .post-link {
-  font-size: 2.4rem;
+  font-size: 1.5em;
   font-weight: 700;
   display: block;
   margin: 0;
