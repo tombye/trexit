@@ -3,6 +3,7 @@ layout: post
 title: "Shutters"
 date: 2017-11-05 19:50 +0100
 categories: jekyll update
+tags: "Lessons learned"
 ---
 
 Old-school shutters are very popular in mainland Europe. While everyone else clearly loves them, they baffled us for at least the first month and a half of our trip. 

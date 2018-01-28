@@ -6,6 +6,7 @@ categories: jekyll update
 tags: 
 - "Italy"
 - "Language and pronunciation"
+- "Lessons learned"
 ---
 
 We’ve watched TV in all the countries we’ve been to so far. That means we’ve seen a lot of dubbed TV programmes that were originally filmed in English. At first it was really annoying, but now that we’ve learnt a bit about dubbed TV programmes and how to watch them, we’ve decided it’s not so bad.

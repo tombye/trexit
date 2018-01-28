@@ -6,6 +6,7 @@ categories: jekyll update
 tags:
 - "France"
 - "Grandes randonnées"
+- "Language and pronunciation"
 ---
 On Saturday we walked from Valenciennes to Le Quesnoy.
 

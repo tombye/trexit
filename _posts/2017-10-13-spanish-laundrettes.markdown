@@ -3,7 +3,9 @@ layout: post
 title: "Spanish laundrettes"
 date: 2017-10-13 10:50 +0100
 categories: jekyll update
-tags: Spain
+tags: 
+- "Spain"
+- "Lessons learned"
 ---
 
 We're leaving Spain soon so I want to talk about one of the best things in it. Laundrettes.
