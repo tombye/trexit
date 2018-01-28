@@ -664,14 +664,14 @@ button:focus {
 
 .post-list li {
   border-bottom: solid 1px #0b0c0c;
-  padding: 0 0 1.5rem;
+  padding: 0 0 1em;
 }
 
 .post-meta {
   font-size: 1em;
   display: block;
-  margin: 1rem 0;
-  margin-bottom: 2.4rem;
+  margin: 1em 0;
+  margin-bottom: 1.5em;
 }
 
 .post-link {
