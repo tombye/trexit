@@ -3,7 +3,9 @@ layout: post
 title: "The reckoning"
 date: 2017-08-18 16:01 +0100
 categories: jekyll update
-tags: Switzerland
+tags: 
+- "Switzerland"
+- "Language and pronunciation"
 ---
 
 "The bill" in german is "die Rechnung". Unless you're me in which case it's a strange combination of vowels and consonants sounding vaguely like "dee reckoning".
