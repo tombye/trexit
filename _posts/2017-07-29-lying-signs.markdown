@@ -5,7 +5,7 @@ date:   2017-07-29 16:01 +0100
 categories: jekyll update
 tags: 
 - "Germany"
-- "Ortenau wine route"
+- "Ortenau wine trail"
 ---
 
 When you're walking everywhere, distances matter. And when you see signs telling you how far it is to your destination, you believe them.
