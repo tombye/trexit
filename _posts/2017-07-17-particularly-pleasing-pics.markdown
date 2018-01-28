@@ -3,6 +3,9 @@ layout: post
 title:  "Pleasing pics"
 date:   2017-07-17 19:01 +0100
 categories: jekyll update
+tags:
+- "France"
+- "Grandes randonnées"
 ---
 
 ![A pile of wood with lots of different shades of brown](https://github.com/tombye/trexit/raw/gh-pages/assets/images/pile-of-different-coloured-logs.jpg)
