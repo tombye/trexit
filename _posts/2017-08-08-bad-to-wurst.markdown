@@ -3,6 +3,7 @@ layout: post
 title: From bad to wurst 
 date:   2017-08-08 16:01 +0100
 categories: jekyll update
+tags:
 - "Germany"
 - "Kinzig and Gutach valleys"
 ---
