@@ -6,6 +6,7 @@ categories: jekyll update
 tags:
 - "France"
 - "Grandes randonnées"
+- "Language and pronunciation"
 ---
 
 ![Road sign with Naux crossed out](https://github.com/tombye/trexit/raw/gh-pages/assets/images/no-naux.jpg)
