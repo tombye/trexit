@@ -49,9 +49,7 @@ The round bales can also be wrapped in plastic so they stay dry. When you need o
 
 ## Giant haystacks
 
-The bales we've seen in Spain are stacked in big piles. Really big.
-
-Look at this:
+The bales we've seen in Spain are stacked in big piles. Really big:
 
 ![A big stack of square hay bales](https://github.com/tombye/trexit/raw/gh-pages/assets/images/big-stack-of-bales.jpg)
 
