@@ -3,7 +3,9 @@ layout: post
 title:  "History of Scarpe-Escaut"
 date:   2017-07-01 18:17 +0100
 categories: jekyll update
-tags: France
+tags:
+- "France"
+- "Grandes randonnées"
 ---
 The Scarpe and Escaut rivers name the area and also frame it, running along the top two of its edges, the former through Saint-Amand-Les-Eaux.
 

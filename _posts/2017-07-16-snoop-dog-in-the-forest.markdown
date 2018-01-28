@@ -3,7 +3,9 @@ layout: post
 title:  "Snoop Dogg in the forest"
 date:   2017-07-16 14:01 +0100
 categories: jekyll update
-tags: France
+tags:
+- "France"
+- "Grandes randonnées"
 ---
 
 This is for the trees.

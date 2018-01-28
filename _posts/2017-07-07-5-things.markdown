@@ -3,7 +3,9 @@ layout: post
 title:  "5 things we're glad we brought"
 date:   2017-07-07 11:01 +0100
 categories: jekyll update
-tags: France
+tags:
+- "France"
+- "Grandes randonnées"
 ---
 
 ## Dr Bronner's soap (baby unscented)

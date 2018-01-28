@@ -3,7 +3,9 @@ layout: post
 title:  "No Naux"
 date:   2017-07-17 07:01 +0100
 categories: jekyll update
-tags: France
+tags:
+- "France"
+- "Grandes randonnées"
 ---
 
 ![Road sign with Naux crossed out](https://github.com/tombye/trexit/raw/gh-pages/assets/images/no-naux.jpg)
