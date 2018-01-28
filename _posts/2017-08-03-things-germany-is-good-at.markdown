@@ -6,6 +6,7 @@ categories: jekyll update
 tags: 
 - "Germany"
 - "Ortenau wine trail"
+- "Lessons learned"
 ---
 
 Based on our limited experience so far, here are some sweeping generalisations about things Germany is very good at.

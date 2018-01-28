@@ -3,6 +3,8 @@ layout: post
 title: "Tech tools"
 date: 2017-08-23 19:30 +0100
 categories: jekyll update
+tags: 
+- "Lessons learned"
 ---
 
 We've used our phones quite a lot on this trip so we thought it was worth writing about how we've been doing it and what we've learnt.

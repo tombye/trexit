@@ -3,6 +3,7 @@ layout: post
 title: Useful websites so far
 date:   2017-08-24 16:01 +0100
 categories: jekyll update
+tags: "Lessons learned"
 ---
 
 We've been spending a ridiculous amount of time on the internet since we've been away. Here are some of the websites that have been super-useful.
