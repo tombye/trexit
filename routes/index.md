@@ -7,6 +7,6 @@ grouping_tags:
 - "Camino de Santiago"
 - "Markgräfler wine trail"
 - "Kinzig and Gutach valleys"
-- "Ortenau wine route"
+- "Ortenau wine trail"
 - "Grandes randonnées"
 ---
