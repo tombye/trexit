@@ -11,6 +11,7 @@ layout: default
     <details>
       <summary id="collections-heading">Categories</summary>
       <ul role="navigation" aria-labelledby="collections-heading">
+        <li><em>All</em></li>
       {% for grouping in site.groupings %}
         <li><a href="/{{ grouping.id }}">{{ grouping.name }}</a></li>
       {% endfor %}

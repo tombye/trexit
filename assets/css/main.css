@@ -651,6 +651,15 @@ button:focus {
   padding: 0.5em 0;
 }
 
+.other-groupings li em {
+  font-style: normal;
+}
+
+.other-groupings li em:before {
+  content: '▸';
+  padding-right: 0.25em;
+}
+
 /* Site homepage
    ========================================================================== */
 

@@ -13,7 +13,11 @@ layout: default
       <ul role="navigation" aria-labelledby="collections-heading">
         <li><a href="/">All</a></li>
       {% for grouping in site.groupings %}
-        {% if grouping.id != page.grouping_id %}<li><a href="/{{ grouping.id }}">{{ grouping.name }}</a></li>{% endif %}
+        {% if grouping.id == page.grouping_id %}
+          <li><em>{{ grouping.name }}</em></li>
+        {% else %}
+          <li><a href="/{{ grouping.id }}">{{ grouping.name }}</a></li>
+        {% endif %}
       {% endfor %}
       </ul>
     </details>
