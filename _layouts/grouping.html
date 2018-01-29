@@ -4,7 +4,7 @@ layout: default
 <div class="grouping">
   <h1 class="page-heading">
     Posts
-    <span class="grouping-name">{{ page.prefix }} {{ page.grouping_name }}</span>
+    <span class="grouping-name">{{ page.prefix }} {{ page.grouping_name }}{% if page.suffix %} {{ page.suffix }}{% endif %}</span>
   </h1>
   
   <div class="other-groupings">
