@@ -4,12 +4,12 @@ grouping_id: countries
 prefix: "by"
 grouping_name: country
 grouping_tags:
-- Greece
-- Italy
-- Portugal
-- Spain
-- Switzerland
-- Germany
-- Belgium
 - France
+- Belgium
+- Germany
+- Switzerland
+- Spain
+- Portugal
+- Italy
+- Greece
 ---

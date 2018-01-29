@@ -25,7 +25,8 @@ layout: default
     <h2>{{ tagName }}</h2>
     {% endif %}
     <ul class="post-list">
-      {% for post in site.tags[tagName] %}
+      {% assign postsWithTag = site.tags[tagName] | group_by_exp:"post", "post.date | date: '%s'" | map: "items" | reverse %}
+      {% for post in postsWithTag %}
       <li>{% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}<span class="post-meta">{{ post.date | date: date_format }}</span><a class="post-link" href="{{ post.url | relative_url }}"><span class="visuallyhidden">Name of post: </span>{{ post.title | escape }}</a></li>
       {% endfor %}
     </ul>

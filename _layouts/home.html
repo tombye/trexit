@@ -19,11 +19,12 @@ layout: default
   </div>
 
   {{ content }}
-  {% assign postsByMonth = site.posts | group_by_exp:"post", "post.date | date: '%B'" %}
+  {% assign postsByMonth = site.posts | group_by_exp:"post", "post.date | date: '%B'" | reverse %}
   {% for month in postsByMonth %}
   <h2>{{ month.name }}</h2>
   <ul class="post-list">
-    {% for post in month.items %}
+    {% assign postsInMonth = month.items | group_by_exp:"post", "post.date | date: '%s'" | map: "items" | reverse %}
+    {% for post in postsInMonth %}
     <li>{% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}<span class="post-meta">{{ post.date | date: date_format }}</span><a class="post-link" href="{{ post.url | relative_url }}"><span class="visuallyhidden">Name of post: </span>{{ post.title | escape }}</a></li>
     {% endfor %}
   </ul>
