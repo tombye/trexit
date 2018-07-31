@@ -26,7 +26,7 @@ layout: default
   {{ content }}
   {% for tagName in page.grouping_tags %}
     {% if page.grouping_tags.size > 1 %}
-    <h2>{{ tagName }}</h2>
+    <h2 id="{{ tagName | slugify }}">{{ tagName }}</h2>
     {% endif %}
     <ul class="post-list">
       {% assign postsWithTag = site.tags[tagName] | group_by_exp:"post", "post.date | date: '%s'" | map: "items" | reverse %}
