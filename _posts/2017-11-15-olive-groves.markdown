@@ -6,6 +6,7 @@ categories: jekyll update
 tags:
 - Italy
 - "Via Francigena"
+- "Lessons learned"
 ---
 
 We’ve seen a lot of olive groves since we’ve been walking in Italy. 
