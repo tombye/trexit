@@ -39,7 +39,7 @@ Google didn't give us any solutions, though. Only problems. So we went to [GOV.U
 
 [GOV.UK](https://www.gov.uk) linked to the [Portuguese Met Office website](https://www.ipma.pt/en/). It had a map showing the relative severity of the fires in different areas:
 
-![Map of Portugal split into regions, each of which are colour-coded to indicate the fire risk there. The highest risk areas take up all the top half of the map except for a strip of low-risk in the north-west](https://github.com/tombye/trexit/raw/gh-pages/assets/images/map-showing-fire-risk-in-Portugal-with-lots.jpg)
+![Map of Portugal split into regions, each of which are colour-coded to indicate the fire risk there. The highest risk areas take up all the top half of the map except for a strip of low-risk in the north-west](https://github.com/tombye/trexit/raw/gh-pages/assets/images/map-showing-fire-risk-in-portugal-with-lots.jpg)
 
 [GOV.UK](https://www.gov.uk) also linked to the [Civil Protection Authority website](http://www.prociv.pt/en-us/Pages/default.aspx). It had a map with real-time information about current fires:
 
@@ -60,7 +60,7 @@ That meant we got a lot of our info from scary images rather than nuanced langua
 
 Things have looked much better for a few days now:
 
-![Map of Portugal split into regions colour-coded to indicate the fire risk with almost all showing no risk](https://github.com/tombye/trexit/raw/gh-pages/assets/images/map-showing-fire-risk-in-Portugal-with-few.jpg)
+![Map of Portugal split into regions colour-coded to indicate the fire risk with almost all showing no risk](https://github.com/tombye/trexit/raw/gh-pages/assets/images/map-showing-fire-risk-in-portugal-with-few.jpg)
 
 And the people at the tourist information office said that all the fires have now been put out. Phew.
 
