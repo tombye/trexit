@@ -8,7 +8,7 @@ tags:
 - "Camino de Santiago"
 ---
 
-Our friend Fanny reckons we've done so much walking already, we'll be able to walk the Camino "avec les deux doigts dans le nez" (an excellent french saying). 
+Our friend Fanny reckons we've done so much walking already, we'll be able to walk the Camino "avec les deux doigts dans le nez" (an excellent French saying). 
 
 We're not so sure. Our first walk from Saint-Jean-Pied-de-Port to Roncesvalles is going to be 27 kilometres over a mountain. It sounds like a lot so we've decided to be as prepared as we possibly can be. 
 
