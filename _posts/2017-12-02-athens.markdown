@@ -76,7 +76,7 @@ The Museum of Cycladic Art has some great examples of ancient art from the Cycla
 
 ![Head of a sculpture from ancient Greece with a featureless face and triangular nose](https://github.com/tombye/trexit/raw/gh-pages/assets/images/face-from-ancient-greek-sculpture.jpg)
 
-And the Acropolis Museum helps explain how democracy in Athens - the first documented democracy anywhere - worked. It’s also got some great sculptures from around the Acropolis. All that’s missing are the Elgin Marbles, which the [British Museum makes an unconvincing case for keeping on its website](http://www.britishmuseum.org/about_us/news_and_press/statements/parthenon_sculptures.aspx).
+And the Acropolis Museum helps explain how democracy in Athens - the first documented democracy anywhere - worked. It’s also got some great sculptures from around the Acropolis. All that’s missing are the Parthenon Marbles, which the [British Museum makes an unconvincing case for keeping on its website](http://www.britishmuseum.org/about_us/news_and_press/statements/parthenon_sculptures.aspx).
 
 ## Great views
 
