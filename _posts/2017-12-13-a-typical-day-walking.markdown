@@ -55,7 +55,7 @@ When we stayed in a bed and breakfast, we sometimes took supplies from the break
 
 ### Roads and footpaths
 
-The routes we walked in France, Belgium and Germany followed both roads and footpaths. The footpaths were either set walking routes or paths we found on Galileo.
+The routes we walked in France, Belgium and Germany followed both roads and footpaths. The footpaths were either set walking routes or paths we found on Guru Maps.
 
 ![Route markers for a walking trail in Germany](https://github.com/tombye/trexit/raw/gh-pages/assets/images/stupid-signs.jpg)
 
