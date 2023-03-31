@@ -17,11 +17,12 @@ It worked quite well but on this trip, mainly thanks to the EU dropping roaming 
 
 ### Mapping apps
 
-We've used a combination of [Galileo](https://galileo-app.com) and [Google Maps](https://maps.google.com).
+We've used a combination of [Guru Maps](https://gurumaps.app/) and [Google Maps](https://maps.google.com).
 
-Here's what a GPS walking route on Galileo looks like.
+Here's what a GPS walking route on Guru Maps looks like.
 
-![A GPS route on Galileo](https://github.com/tombye/trexit/raw/gh-pages/assets/images/a-gps-route-on-galileo.jpg)
+![A GPS route on Guru
+Maps](https://github.com/tombye/trexit/raw/gh-pages/assets/images/a-gps-route-on-guru-maps.jpg)
 
 Here's what a walking route on Google Maps looks like.
 
@@ -29,7 +30,7 @@ Here's what a walking route on Google Maps looks like.
 
 Both have things they do better than the other.
 
-Galileo is good for:
+Guru Maps is good for:
 
 - using your downloaded maps offline
 - showing more walking paths than Google Maps and showing whether they're wide or narrow
@@ -46,9 +47,9 @@ Google Maps is good for:
 There are loads of caveats to all this:
 
 - Google Maps sometimes sends us on a route that's less distance but has some bad ups and downs
-- some campsites appear on Galileo but not Google Maps and vice versa
-- Google Maps drains quite a bit of battery but Galileo is fairly harmless
-- Galileo's interface takes a bit of getting used to compared to Google Maps
+- some campsites appear on Guru Maps but not Google Maps and vice versa
+- Google Maps drains quite a bit of battery but Guru Maps is fairly harmless
+- Guru Maps' interface takes a bit of getting used to compared to Google Maps
 
 ### Where we get our maps from
 
